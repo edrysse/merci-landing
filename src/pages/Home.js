@@ -23,6 +23,7 @@ const Home = () => {
       <CustomSlider />
       <h1 style={{paddingTop:"100px", marginBottom : "150px",  fontFamily: "Poppins",fontSize: "43px", fontWeight: "bold",marginLeft:"10%", marginRight:"10%" }}>
         Welcome! Please select your preferred language to view the menu:
+        
       </h1>
       <div style={{ display: "flex", justifyContent: "center", flexWrap: "wrap", gap: "15px",              marginBottom:"200px"
  }}>
