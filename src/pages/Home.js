@@ -8,10 +8,10 @@ const Home = () => {
   const languages = [
     { name: "Français", flag: "https://cdn-icons-png.flaticon.com/512/197/197560.png" },
     { name: "Deutsch", flag: "https://cdn-icons-png.flaticon.com/512/197/197571.png" },
-    { name: "العربية", flag: "https://cdn-icons-png.flaticon.com/512/197/197484.png" },
+    { name: "العربية", flag: "https://cdn-icons-png.flaticon.com/512/197/197551.png" },
     { name: "English", flag: "https://cdn-icons-png.flaticon.com/512/197/197374.png" },
     { name: "中文", flag: "https://cdn-icons-png.flaticon.com/512/197/197375.png" },
-    { name: "Español", flag: "https://cdn-icons-png.flaticon.com/512/197/197386.png" },
+    { name: "Español", flag: "https://cdn-icons-png.flaticon.com/512/197/197593.png" }, // رابط علم إسبانيا الصحيح
   ];
 
   const handleLanguageClick = (language) => {
@@ -21,8 +21,8 @@ const Home = () => {
   return (
     <div style={{ textAlign: "center" }}>
       <CustomSlider />
-      <h1 style={{paddingTop:"100px", marginBottom : "150px",  fontFamily: "Poppins",fontSize: "43px", fontWeight: "bold",marginLeft:"10%", marginRight:"10%" }}>
-        Welcome! Please select your preferred language to view the menu:
+      <h1 id="please" className="myh2" style={{paddingTop:"100px", marginBottom : "100px",  fontFamily: "Poppins",fontSize: "43px", fontWeight: "bold",marginLeft:"10%", marginRight:"10%" }}>
+     Please select your preferred language to view the menu:
         
       </h1>
       <div style={{ display: "flex", justifyContent: "center", flexWrap: "wrap", gap: "15px",              marginBottom:"200px"

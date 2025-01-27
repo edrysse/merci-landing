@@ -48,7 +48,7 @@ const CustomSlider = () => {
               </h3>
 
               <div className="wrap-btn-slide1">
-                <button className="btn1" >Voir Menu</button>
+                <a href="#please" className="btn1" style={{ textDecoration:"none" }}>Voir Menu</a>
               </div>
             </div>
           </div>
