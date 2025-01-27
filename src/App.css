@@ -1,0 +1,405 @@
+.menu-container {
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.menu-category {
+  position: relative;
+  width: 100%;
+  margin-bottom: 30px;
+}
+/* تعديل خلفية العنوان (h2) باستخدام الصورة */
+.category-title {
+  position: relative;
+  text-align: center;
+  width: 100%;
+  height: 130px; /* يمكنك ضبط الارتفاع حسب رغبتك */
+  margin-bottom: 20px;
+  z-index: 1; /* لضمان بروز النص فوق الصورة */
+  color: white; /* جعل النص أبيض ليظهر فوق الخلفية */
+  background-image: url('../public/myrepas/header-menu-02.jpg'); /* وضع الصورة كخلفية */
+  background-size: cover; /* جعل الصورة تغطي العنصر */
+  background-position: center; /* تركيز الصورة في المنتصف */
+  background-attachment: fixed; /* جعل الصورة ثابتة أثناء التمرير */
+  display: flex; /* استخدام flexbox لتوسيط النص */
+  align-items: center; /* توسيط النص عموديًا */
+  justify-content: center; /* توسيط النص أفقيًا */
+  padding: 20px;
+
+  font-family: Poppins;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 1.2;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    word-spacing: 6px;
+}
+
+/* إذا كنت بحاجة إلى تأثير إضافي مع النص */
+.category-title::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5); /* طبقة شفافة فوق الصورة */
+  z-index: -1; /* التأكد من أن الصورة تكون خلف النص */
+}
+
+/* إذا كنت بحاجة إلى تأثير إضافي مع النص */
+
+/* إضافة تأثير السكروول لجعل الصورة تتحرك داخل العنصر */
+.menu-category.scrolled .category-title {
+  background-position: center 10px; /* تحريك الصورة عندما يتم التمرير */
+}
+
+/* إضافة صورة الخلفية للعناوين */
+.menu-category::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -1; /* التأكد من أن الصورة تكون خلف النص */
+  transform: translateY(0); /* التأثير المتحرك */
+  will-change: transform;
+  transition: transform 0.3s ease;
+}
+
+/* تأثير السكروول لجعل الصورة تتحرك داخليًا */
+.menu-category.scrolled::before {
+  transform: translateY(10px); /* حرك الصورة بمقدار معين عند السكروول */
+}
+
+.menu-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* ثلاث كروت في كل صف */
+  gap: 20px;
+}
+
+@media screen and (max-width: 768px) {
+  .menu-grid {
+    grid-template-columns: 1fr; /* كارد واحد على الشاشات الصغيرة */
+  }
+
+  
+  /* استهداف فقط خلفية h2 لعنوان الكاتيجوري */
+.categorie-title {
+  background-color: #f0f0f0; /* يمكنك تغيير اللون حسب الحاجة */
+  padding: 10px;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 24px;
+}
+
+}
+
+.menu-card {
+  display: flex;
+  align-items: flex-start;
+  background: #fff;
+  border: none; /* إزالة الحدود */
+  border-radius: 10px 10px 10px 10px; /* جعل الزوايا العلوية متساوية */
+  overflow: hidden;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.menu-card-content {
+  padding: 15px;
+  width: 100%; /* تمدد المحتوى بشكل كامل */
+}
+
+.menu-image {
+  width: 80%; /* الصورة على اليسار */
+  height: 100px;
+  object-fit: cover;
+  transition: transform 0.3s, box-shadow 0.3s;
+  margin-right: 15px; /* مسافة بين الصورة والمحتوى */
+  border-radius: 10px 10px 0 0; /* تعديل نصف الدائرة للصورة */
+  overflow: hidden; /* لمنع الصورة من الخروج من الإطار */
+}
+
+.menu-image:hover {
+  transform: scale(1.03); /* تكبير الصورة داخل الحاوية */
+  transform-origin: center; /* تحديد مركز التكبير */
+  transition: transform 0.6s; /* الانتقال بشكل سلس */
+}
+
+.menu-item-name {
+  font-family: 'Poppins';
+  font-weight: 300;
+  font-size: 18px;
+  color: #333333;
+  line-height: 1.4;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.menu-item-description {
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 13px;
+  color: #666666;
+  line-height: 1.7;
+}
+
+.menu-item-price {
+  font-size: 22px;
+  font-weight: 400;
+  color: #333;
+  font-family: 'Montserrat';
+  text-transform: uppercase;
+}
+.tit6{
+  font-family: Poppins;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 1.2;
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 6px;
+  word-spacing: 6px;
+
+
+}
+
+
+
+
+.image-modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.8);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.image-modal-content {
+  position: relative;
+  max-width: 90%;
+  max-height: 90%;
+}
+.image-modal-content img {
+  max-width: 90vw; /* أقصى عرض للصورة هو 90% من عرض نافذة العرض */
+  max-height: 90vh; /* أقصى ارتفاع للصورة هو 90% من ارتفاع نافذة العرض */
+  width: auto; /* اجعل العرض يتكيف مع النسبة */
+  height: auto; /* اجعل الارتفاع يتكيف مع النسبة */
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* ظل خفيف لإبراز الصورة */
+}
+
+.close-button {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: #fff;
+  border: none;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.close-button:hover {
+  background: #ccc;
+}
+
+
+
+
+/* تأكيد أن السلايدر يحتل كامل الشاشة */
+.section-slide {
+  position: relative;
+  height: 100vh;
+  width: 100%;
+  overflow: hidden;
+}
+
+.wrap-slick1 {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.slick1 {
+  display: flex;
+  width: 100%;
+  transition: transform 1s ease;
+}
+
+.item-slick1 {
+  width: 100%;
+  height: 100vh; /* ملء الشاشة بالكامل */
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.wrap-content-slide1 {
+  text-align: center;
+  color: white;
+  z-index: 10;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  opacity: 0;
+  animation: fadeIn 1s ease forwards;
+}
+
+.caption1-slide1 {
+  font-size: 60px;
+  animation: slideInFromTop 1s ease-out;
+  font-family: Poppins;
+
+}
+
+.caption2-slide1 {
+  font-size: 100px;
+  animation: slideInFromBottom 1s ease-out;
+  font-family: Poppins;
+
+}
+
+.mercilogo {
+  width: 400px;
+  margin-top: 20px;
+  animation: logoSlideUp 1s ease-out;
+}
+
+.wrap-btn-slide1 {
+  margin-top: 30px;
+  animation: rotateBtn 1s ease-out;
+  font-family: Poppins;
+
+}
+
+.btn1 {
+  background-color: #ff6347;
+  padding: 10px 20px;
+  font-size: 18px;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+.prev-slide, .next-slide {
+  background: none;
+  border: none;
+  color: white;
+  font-size: 30px;
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.prev-slide {
+  left: 20px;
+}
+
+.next-slide {
+  right: 20px;
+}
+
+/* الأنيميشن: حركة الكتابة من فوق */
+@keyframes slideInFromTop {
+  from {
+    opacity: 0;
+    transform: translateY(-50px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* الأنيميشن: حركة الكتابة من الأسفل */
+@keyframes slideInFromBottom {
+  from {
+    opacity: 0;
+    transform: translateY(50px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* الأنيميشن: حركة اللوغو من الأسفل */
+@keyframes logoSlideUp {
+  from {
+    opacity: 0;
+    transform: translateY(50px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* الأنيميشن: حركة الزر بشكل دائري */
+@keyframes rotateBtn {
+  0% {
+    opacity: 0;
+    transform: scale(0) rotate(0deg);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(1.2) rotate(180deg);
+  }
+  100% {
+    opacity: 0;
+    transform: scale(0) rotate(360deg);
+  }
+}
+
+/* الحركات الخاصة بمحتويات الشرائح */
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes rotateBtn {
+  0% {
+    opacity: 0;
+    transform: scale(0) rotate(0deg);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(1.2) rotate(180deg);
+  }
+  100% {
+    opacity: 0;
+    transform: scale(0) rotate(360deg);
+  }
+}
+
+/* الحركات الخاصة بمحتويات الشرائح */
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}

@@ -1,0 +1,3446 @@
+{
+    "Français": {
+        "Taktouka": {
+            "name": "Taktouka",
+            "description": "is a traditional Moroccan savory dish and spread made from tomatoes, bell peppers, garlic, toasted paprika and olive oil.[1][2] Taktouka is an extremely popular dish and can be found in many restaurant in different parts of Morocco."
+        },
+        "Kalinte": {
+            "name": "Kalinte",
+            "description": "Kalinte, kalentica, karane, etc., so many ways to call this dish! All these appellations refer to the Spanish word “caliente” - which means warm - for the simple reason that this silky and smooth chickpea pie is meant to be enjoyed warm. In a way, we coul"
+        },
+        "Moroccan tea": {
+            "name": "Moroccan tea",
+            "description": "is a North African preparation of gunpowder green tea with spearmint leaves and sugar. It is traditional to the Greater Maghreb region."
+        },
+        "tajine": {
+            "name": "tajine",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has su"
+        },
+        "BEEF KEBAB": {
+            "name": "BEEF KEBAB",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has su"
+        },
+        "Whole braised chicken with lemon and olives": {
+            "name": "Whole braised chicken with lemon and olives",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has su"
+        },
+        "Couscous": {
+            "name": "Couscous",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has su"
+        },
+        "Moroccan Chicken with Apricot and Olive Relish": {
+            "name": "Moroccan Chicken with Apricot and Olive Relish",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has su"
+        },
+        "Fiery Moroccan Lamb Merguez": {
+            "name": "Fiery Moroccan Lamb Merguez",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has su"
+        },
+        "Iced latte": {
+            "name": "Iced latte",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+        },
+        "Café Noir": {
+            "name": "Café Noir",
+            "description": null
+        },
+        "Café Nespresso": {
+            "name": "Café Nespresso",
+            "description": null
+        },
+        "Café Noir Aromatisé": {
+            "name": "Café Noir Aromatisé",
+            "description": null
+        },
+        "Thé à la menthe": {
+            "name": "Thé à la menthe",
+            "description": null
+        },
+        "Verveine": {
+            "name": "Verveine",
+            "description": "Lait,Thé,Eau"
+        },
+        "The infusion": {
+            "name": "The infusion",
+            "description": null
+        },
+        "Normal capuccino": {
+            "name": "Normal capuccino",
+            "description": null
+        },
+        "Vanilla cappuccino": {
+            "name": "Vanilla cappuccino",
+            "description": null
+        },
+        "Cappuccino noisette": {
+            "name": "Cappuccino noisette",
+            "description": null
+        },
+        "Cappuccino caramel": {
+            "name": "Cappuccino caramel",
+            "description": null
+        },
+        "Frappuccino Caramel": {
+            "name": "Frappuccino Caramel",
+            "description": null
+        },
+        "Frappuccino noisette": {
+            "name": "Frappuccino noisette",
+            "description": null
+        },
+        "Frappuccino chocolat": {
+            "name": "Frappuccino chocolat",
+            "description": null
+        },
+        "Café au lait": {
+            "name": "Café au lait",
+            "description": null
+        },
+        "Vanilla latte": {
+            "name": "Vanilla latte",
+            "description": null
+        },
+        "Caramel latte": {
+            "name": "Caramel latte",
+            "description": null
+        },
+        "Latte noisette": {
+            "name": "Latte noisette",
+            "description": null
+        },
+        "Chocolat Chaud": {
+            "name": "Chocolat Chaud",
+            "description": null
+        },
+        "Ice tea Orange & Cannelle": {
+            "name": "Ice tea Orange & Cannelle",
+            "description": null
+        },
+        "Ice tea Fruit rouge": {
+            "name": "Ice tea Fruit rouge",
+            "description": null
+        },
+        "Ice tea Vanille & miel": {
+            "name": "Ice tea Vanille & miel",
+            "description": null
+        },
+        "Ice coffee Caramel": {
+            "name": "Ice coffee Caramel",
+            "description": null
+        },
+        "Ice coffee Chocolat": {
+            "name": "Ice coffee Chocolat",
+            "description": null
+        },
+        "Ice coffee Vanilla": {
+            "name": "Ice coffee Vanilla",
+            "description": null
+        },
+        "Chocolat Fondue": {
+            "name": "Chocolat Fondue",
+            "description": null
+        },
+        "Vennoie": {
+            "name": "Vennoie",
+            "description": null
+        },
+        "Orio": {
+            "name": "Orio",
+            "description": null
+        },
+        "Kitkat": {
+            "name": "Kitkat",
+            "description": null
+        },
+        "Fitness": {
+            "name": "Fitness",
+            "description": "Boisson chaude au choix, 2 Tartine avocat jambon et fromage, 2 Œuf au plat, 2 Pancake au miel et fruits sec, 3 Croquette, salade verte, salade fruit, Panier de Pain accompagnement (Miel,Jben,Confiture,Olive),Jus d’orange,Hsoua."
+        },
+        "Personnel": {
+            "name": "Personnel",
+            "description": "Boisson chaude au choix,Pain grillé avec Accompagnement(Miel,Confiture,Jben),Jus d’orange,Hsoua."
+        },
+        "Express": {
+            "name": "Express",
+            "description": "Boisson chaude au choix, 3 Viennoiseries,Panier de Pain Accompagnement (Jben,miel,confiture),Jus d’orange,Hsoua."
+        },
+        "Nature": {
+            "name": "Nature",
+            "description": "Boisson chaude au choix,Omlette Nature, Panier de Pain Accompagnement(Huile d’olive, Olive, Jben )Jus d’orange,Hsoua."
+        },
+        "Pancake Nutella": {
+            "name": "Pancake Nutella",
+            "description": "Sauce Nutella"
+        },
+        "Pancake Caramel": {
+            "name": "Pancake Caramel",
+            "description": "Sauce caramel, Sauce Nutella"
+        },
+        "Pancake Banano": {
+            "name": "Pancake Banano",
+            "description": "Sauce Nutella, banane"
+        },
+        "Pancake Oreo": {
+            "name": "Pancake Oreo",
+            "description": "Sauce Nutella, oreo"
+        },
+        "Pancake Lotus": {
+            "name": "Pancake Lotus",
+            "description": "Sauce Nutella, lotus, boule de glace"
+        },
+        "Pancake Trois chocolats": {
+            "name": "Pancake Trois chocolats",
+            "description": "Sauce Nutella, Sauce Chocolat Noir, Sauce Chocolat Blanc"
+        },
+        "Pancake Frutti": {
+            "name": "Pancake Frutti",
+            "description": "Sauce Nutella, Fruits De Saisons"
+        },
+        "Pancake Fruit Sec": {
+            "name": "Pancake Fruit Sec",
+            "description": "Sauce Nutella, Fruits sec"
+        },
+        "Crêpe Nutella": {
+            "name": "Crêpe Nutella",
+            "description": "Sauce Nutella"
+        },
+        "Crêpe Caramel": {
+            "name": "Crêpe Caramel",
+            "description": "Sauce caramel, Sauce Nutella"
+        },
+        "Crêpe Banano": {
+            "name": "Crêpe Banano",
+            "description": "Sauce Nutella, banane"
+        },
+        "Crêpe Oreo": {
+            "name": "Crêpe Oreo",
+            "description": "Sauce Nutella, oreo"
+        },
+        "Crêpe Lotus": {
+            "name": "Crêpe Lotus",
+            "description": "Sauce Nutella, lotus, boule de glace"
+        },
+        "Trois chocolats": {
+            "name": "Trois chocolats",
+            "description": "Sauce Nutella, Sauce Chocolat Noir, Sauce Chocolat Blanc"
+        },
+        "Crêpe Frutti": {
+            "name": "Crêpe Frutti",
+            "description": "Sauce Nutella, Fruits De Saisons"
+        },
+        "Crêpe Fruit Sec": {
+            "name": "Crêpe Fruit Sec",
+            "description": "Sauce Nutella, Fruits sec"
+        },
+        "Gaufre Nutella": {
+            "name": "Gaufre Nutella",
+            "description": "Sauce Nutella"
+        },
+        "Gaufre Caramel": {
+            "name": "Gaufre Caramel",
+            "description": "Sauce caramel, Sauce Nutella"
+        },
+        "Gaufre Banano": {
+            "name": "Gaufre Banano",
+            "description": "Sauce Nutella, banane"
+        },
+        "Gaufre Oreo": {
+            "name": "Gaufre Oreo",
+            "description": "Sauce Nutella, oreo"
+        },
+        "Gaufre Lotus": {
+            "name": "Gaufre Lotus",
+            "description": "Sauce Nutella, lotus, boule de glace"
+        },
+        "Gaufre Trois chocolats": {
+            "name": "Gaufre Trois chocolats",
+            "description": "Sauce Nutella, Sauce Chocolat Noir, Sauce Chocolat Blanc"
+        },
+        "Gaufre Frutti": {
+            "name": "Gaufre Frutti",
+            "description": "Sauce Nutella, Fruits De Saisons"
+        },
+        "Gaufre Fruit Sec": {
+            "name": "Gaufre Fruit Sec",
+            "description": "Sauce Nutella, Fruits sec"
+        },
+        "Crêpe Dinde": {
+            "name": "Crêpe Dinde",
+            "description": "dinde,sauce fromage, champignon,fromage,oignons frits,laitue,tomate"
+        },
+        "Crêpe Viande Hachée": {
+            "name": "Crêpe Viande Hachée",
+            "description": "sauce fromage,viande haché,fromage,oignons frits,laitue,tomate"
+        },
+        "Crêpe Jambon": {
+            "name": "Crêpe Jambon",
+            "description": "sauce fromage,jambon, oignons frits,laitue,tomate"
+        },
+        "Crêpe Mix fromagère": {
+            "name": "Crêpe Mix fromagère",
+            "description": "sauce fromage,fromage cheddar, mozzarella,fromag rouge"
+        },
+        "Crêpe Spéciale": {
+            "name": "Crêpe Spéciale",
+            "description": "viande haché, dinde, jambon, sauce fromage, champignon, fromage, oignons frits,laitue,tomate,frites"
+        },
+        "Salade fruits": {
+            "name": "Salade fruits",
+            "description": null
+        },
+        "Cheesecake Fromage": {
+            "name": "Cheesecake Fromage",
+            "description": null
+        },
+        "Cheesecake Café": {
+            "name": "Cheesecake Café",
+            "description": null
+        },
+        "Cheesecake Orio": {
+            "name": "Cheesecake Orio",
+            "description": null
+        },
+        "Cheesecake Fraise": {
+            "name": "Cheesecake Fraise",
+            "description": null
+        },
+        "Sandwich Œuf": {
+            "name": "Sandwich Œuf",
+            "description": "sauce fromage, œuf, charcuterie, fromage, tomate, laitue"
+        },
+        "Sandwich Poulet": {
+            "name": "Sandwich Poulet",
+            "description": "sauce fromage, laitue, tomate, poulet, fromage"
+        },
+        "Sandwich Thon": {
+            "name": "Sandwich Thon",
+            "description": "sauce fromage, laitue, tomate, thon"
+        },
+        "Sandwich Viande hachée": {
+            "name": "Sandwich Viande hachée",
+            "description": "viande haché, formage, laitue, tomate, sauce fromage"
+        },
+        "Sandwich Escalopes": {
+            "name": "Sandwich Escalopes",
+            "description": "escalopes,sauce fromage, laitue, tomate, fromage"
+        },
+        "Sandwich Croque-monsieur": {
+            "name": "Sandwich Croque-monsieur",
+            "description": "sauce fromage, mozzarelle, fromage, jambon"
+        },
+        "Sandwich Croque-madame": {
+            "name": "Sandwich Croque-madame",
+            "description": "sauce fromage, mozzarelle, fromage, jambon, œuf"
+        },
+        "Jus Orange": {
+            "name": "Jus Orange",
+            "description": "Size:500cl"
+        },
+        "Jus Banane": {
+            "name": "Jus Banane",
+            "description": "Size:500cl"
+        },
+        "Jus Citron": {
+            "name": "Jus Citron",
+            "description": "Size: 500cl"
+        },
+        "Jus Fruit rouge": {
+            "name": "Jus Fruit rouge",
+            "description": "Size: 500cl"
+        },
+        "Jus Pomme": {
+            "name": "Jus Pomme",
+            "description": "Size: 500cl"
+        },
+        "Jus Mangue": {
+            "name": "Jus Mangue",
+            "description": "Size: 500cl"
+        },
+        "Jus Ananas": {
+            "name": "Jus Ananas",
+            "description": "Size: 500cl"
+        },
+        "Jus Avocat": {
+            "name": "Jus Avocat",
+            "description": "Size: 500cl"
+        },
+        "Jus Exotique": {
+            "name": "Jus Exotique",
+            "description": "Size: 500cl"
+        },
+        "Jus Citron gingembre menthe": {
+            "name": "Jus Citron gingembre menthe",
+            "description": "Size : 500cl"
+        },
+        "Jus Cocktails de fruits": {
+            "name": "Jus Cocktails de fruits",
+            "description": "Size: 500cl"
+        },
+        "Cocktail Pinna colada": {
+            "name": "Cocktail Pinna colada",
+            "description": "Orange,Ananas,vanilla,lait coco,grenadine"
+        },
+        "Cocktail Bleu marine": {
+            "name": "Cocktail Bleu marine",
+            "description": "Noisette,citron vert,bleu corassan,sprait"
+        },
+        "Cocktail Bleu Paradise": {
+            "name": "Cocktail Bleu Paradise",
+            "description": "Ananas,vanilla,lait coco,bleu corassa"
+        },
+        "Cocktail Virgin Colada": {
+            "name": "Cocktail Virgin Colada",
+            "description": "Lait,ananas,lait coco,vanilla,cream liquid"
+        },
+        "Cocktail Special": {
+            "name": "Cocktail Special",
+            "description": "Cream soda,blue coraca,grenadine,cream"
+        },
+        "Sweet Smoothies": {
+            "name": "Sweet Smoothies",
+            "description": "Mangue, pomme, menthe, orange"
+        },
+        "Tropical Smoothies": {
+            "name": "Tropical Smoothies",
+            "description": "Ananas, banane, orange"
+        },
+        "Paradis Smoothies": {
+            "name": "Paradis Smoothies",
+            "description": "Fraise, mangue, orange"
+        },
+        "Steel-blue Smoothies": {
+            "name": "Steel-blue Smoothies",
+            "description": "Purée de fraise, mangue banane"
+        },
+        "Milk shakes Chocolat": {
+            "name": "Milk shakes Chocolat",
+            "description": null
+        },
+        "Milk shakes Caramel": {
+            "name": "Milk shakes Caramel",
+            "description": null
+        },
+        "Milk shakes Vanille": {
+            "name": "Milk shakes Vanille",
+            "description": null
+        },
+        "Milk shakes Fraise": {
+            "name": "Milk shakes Fraise",
+            "description": null
+        },
+        "Milk shakes Orio": {
+            "name": "Milk shakes Orio",
+            "description": null
+        },
+        "Milk shakes Kitkat": {
+            "name": "Milk shakes Kitkat",
+            "description": null
+        },
+        "Milk shakes Nutella": {
+            "name": "Milk shakes Nutella",
+            "description": null
+        },
+        "Milk shakes Magnum": {
+            "name": "Milk shakes Magnum",
+            "description": null
+        },
+        "Classic Virgin Mojito": {
+            "name": "Classic Virgin Mojito",
+            "description": "Citron vert, menthe, soda, Sucre de canne"
+        },
+        "Black Mojito": {
+            "name": "Black Mojito",
+            "description": "Citron, menthe, Coca-Cola"
+        },
+        "Red Bull Mojito": {
+            "name": "Red Bull Mojito",
+            "description": "Citron, menthe, red bull"
+        },
+        "Yellow Virgin Mojito": {
+            "name": "Yellow Virgin Mojito",
+            "description": "Citron, Menthe, Fruit de la passion, Mangue, Soda"
+        },
+        "Energy": {
+            "name": "Energy",
+            "description": "Orange,betterave,gingembre,citron vert,miel"
+        },
+        "Good morning": {
+            "name": "Good morning",
+            "description": "Pomme,carotte,ananas,gingembre,miel"
+        },
+        "Vert vitamine": {
+            "name": "Vert vitamine",
+            "description": "Kiwi,menthe,citron vert,gingembre,orange"
+        },
+        "Merci": {
+            "name": "Merci",
+            "description": "Avocat,pomme,concombre,citron vert,miel"
+        },
+        "Eau plate": {
+            "name": "Eau plate",
+            "description": "50cl"
+        },
+        "Eau gazeuse": {
+            "name": "Eau gazeuse",
+            "description": null
+        },
+        "Soda": {
+            "name": "Soda",
+            "description": null
+        },
+        "Le Tradi": {
+            "name": "Le Tradi",
+            "description": "Boisson chaude au choix, Tajine au khelii, 2 hercha (normal et avec les olives), 1msemna, Panier de Pain accompagnement (huile d’olive, miel, Confiture, Olive), salade fruits, Jus d’orange,Hsoua."
+        },
+        "American taste": {
+            "name": "American taste",
+            "description": "Boisson chaude au choix, 2 Tartine au œuf et fromage, Brochette dinde, Saucisse, Salade verte, 3 Croquettes, 2 Pancake au miel, Salade fruits, Panier de Pain accompagnement (Miel,Confiture,Olive), jus d’orange,Hsoua."
+        },
+        "MERCI (2 personne)": {
+            "name": "MERCI (2 personne)",
+            "description": "2 boisson chaude au choix, 2 Tartine au fromage, 2 Tartine avocat, 2 Tartine œuf et jben, 2 msimnat, 2 hricha, 3 viennoiseries, tajine khelii, 2 Pancake au miel, 4 croquette, Panier de Pain accompagnement (huile d’olive, miel, Confiture, Olive), 2 Salade fruits, 2 Jus d’orange, 2 hssoua."
+        },
+        "Croquer (4pc)": {
+            "name": "Croquer (4pc)",
+            "description": null
+        },
+        "Mesman": {
+            "name": "Mesman",
+            "description": null
+        },
+        "harcha": {
+            "name": "harcha",
+            "description": null
+        },
+        "Viennoiserie (3pc)": {
+            "name": "Viennoiserie (3pc)",
+            "description": null
+        },
+        "Amlou": {
+            "name": "Amlou",
+            "description": null
+        },
+        "Miel": {
+            "name": "Miel",
+            "description": null
+        },
+        "Confiture": {
+            "name": "Confiture",
+            "description": null
+        },
+        "Olives": {
+            "name": "Olives",
+            "description": null
+        },
+        "Huile d’olives": {
+            "name": "Huile d’olives",
+            "description": null
+        },
+        "Jben": {
+            "name": "Jben",
+            "description": null
+        },
+        "Omelette fromage": {
+            "name": "Omelette fromage",
+            "description": null
+        },
+        "Omelette jambon": {
+            "name": "Omelette jambon",
+            "description": null
+        },
+        "Omelette champignon": {
+            "name": "Omelette champignon",
+            "description": null
+        },
+        "Omelette normale": {
+            "name": "Omelette normale",
+            "description": null
+        },
+        "Tagine khelii": {
+            "name": "Tagine khelii",
+            "description": null
+        },
+        "Tagine crevette": {
+            "name": "Tagine crevette",
+            "description": null
+        },
+        "Tagine œuf & Tomate": {
+            "name": "Tagine œuf & Tomate",
+            "description": null
+        },
+        "Tagine viande haché": {
+            "name": "Tagine viande haché",
+            "description": null
+        }
+    },
+    "Deutsch": {
+        "Taktouka": {
+            "name": "Deutsche Übersetzung von Taktouka",
+            "description": "Deutsche Übersetzung von is a traditional Moroccan savory dish and spread made from tomatoes, bell peppers, garlic, toasted paprika and olive oil.[1][2] Taktouka is an extremely popular dish and can be found in many restaurant in different parts of Morocco."
+        },
+        "Kalinte": {
+            "name": "Deutsche Übersetzung von Kalinte",
+            "description": "Deutsche Übersetzung von Kalinte, kalentica, karane, etc., so many ways to call this dish! All these appellations refer to the Spanish word “caliente” - which means warm - for the simple reason that this silky and smooth chickpea pie is meant to be enjoyed warm. In a way, we coul"
+        },
+        "Moroccan tea": {
+            "name": "Deutsche Übersetzung von Moroccan tea",
+            "description": "Deutsche Übersetzung von is a North African preparation of gunpowder green tea with spearmint leaves and sugar. It is traditional to the Greater Maghreb region."
+        },
+        "tajine": {
+            "name": "Deutsche Übersetzung von tajine",
+            "description": "Deutsche Übersetzung von Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has su"
+        },
+        "BEEF KEBAB": {
+            "name": "Deutsche Übersetzung von BEEF KEBAB",
+            "description": "Deutsche Übersetzung von Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has su"
+        },
+        "Whole braised chicken with lemon and olives": {
+            "name": "Deutsche Übersetzung von Whole braised chicken with lemon and olives",
+            "description": "Deutsche Übersetzung von Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has su"
+        },
+        "Couscous": {
+            "name": "Deutsche Übersetzung von Couscous",
+            "description": "Deutsche Übersetzung von Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has su"
+        },
+        "Moroccan Chicken with Apricot and Olive Relish": {
+            "name": "Deutsche Übersetzung von Moroccan Chicken with Apricot and Olive Relish",
+            "description": "Deutsche Übersetzung von Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has su"
+        },
+        "Fiery Moroccan Lamb Merguez": {
+            "name": "Deutsche Übersetzung von Fiery Moroccan Lamb Merguez",
+            "description": "Deutsche Übersetzung von Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has su"
+        },
+        "Iced latte": {
+            "name": "Deutsche Übersetzung von Iced latte",
+            "description": "Deutsche Übersetzung von Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+        },
+        "Café Noir": {
+            "name": "Deutsche Übersetzung von Café Noir",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Café Nespresso": {
+            "name": "Deutsche Übersetzung von Café Nespresso",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Café Noir Aromatisé": {
+            "name": "Deutsche Übersetzung von Café Noir Aromatisé",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Thé à la menthe": {
+            "name": "Deutsche Übersetzung von Thé à la menthe",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Verveine": {
+            "name": "Deutsche Übersetzung von Verveine",
+            "description": "Deutsche Übersetzung von Lait,Thé,Eau"
+        },
+        "The infusion": {
+            "name": "Deutsche Übersetzung von The infusion",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Normal capuccino": {
+            "name": "Deutsche Übersetzung von Normal capuccino",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Vanilla cappuccino": {
+            "name": "Deutsche Übersetzung von Vanilla cappuccino",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Cappuccino noisette": {
+            "name": "Deutsche Übersetzung von Cappuccino noisette",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Cappuccino caramel": {
+            "name": "Deutsche Übersetzung von Cappuccino caramel",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Frappuccino Caramel": {
+            "name": "Deutsche Übersetzung von Frappuccino Caramel",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Frappuccino noisette": {
+            "name": "Deutsche Übersetzung von Frappuccino noisette",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Frappuccino chocolat": {
+            "name": "Deutsche Übersetzung von Frappuccino chocolat",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Café au lait": {
+            "name": "Deutsche Übersetzung von Café au lait",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Vanilla latte": {
+            "name": "Deutsche Übersetzung von Vanilla latte",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Caramel latte": {
+            "name": "Deutsche Übersetzung von Caramel latte",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Latte noisette": {
+            "name": "Deutsche Übersetzung von Latte noisette",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Chocolat Chaud": {
+            "name": "Deutsche Übersetzung von Chocolat Chaud",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Ice tea Orange & Cannelle": {
+            "name": "Deutsche Übersetzung von Ice tea Orange & Cannelle",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Ice tea Fruit rouge": {
+            "name": "Deutsche Übersetzung von Ice tea Fruit rouge",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Ice tea Vanille & miel": {
+            "name": "Deutsche Übersetzung von Ice tea Vanille & miel",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Ice coffee Caramel": {
+            "name": "Deutsche Übersetzung von Ice coffee Caramel",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Ice coffee Chocolat": {
+            "name": "Deutsche Übersetzung von Ice coffee Chocolat",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Ice coffee Vanilla": {
+            "name": "Deutsche Übersetzung von Ice coffee Vanilla",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Chocolat Fondue": {
+            "name": "Deutsche Übersetzung von Chocolat Fondue",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Vennoie": {
+            "name": "Deutsche Übersetzung von Vennoie",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Orio": {
+            "name": "Deutsche Übersetzung von Orio",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Kitkat": {
+            "name": "Deutsche Übersetzung von Kitkat",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Fitness": {
+            "name": "Deutsche Übersetzung von Fitness",
+            "description": "Deutsche Übersetzung von Boisson chaude au choix, 2 Tartine avocat jambon et fromage, 2 Œuf au plat, 2 Pancake au miel et fruits sec, 3 Croquette, salade verte, salade fruit, Panier de Pain accompagnement (Miel,Jben,Confiture,Olive),Jus d’orange,Hsoua."
+        },
+        "Personnel": {
+            "name": "Deutsche Übersetzung von Personnel",
+            "description": "Deutsche Übersetzung von Boisson chaude au choix,Pain grillé avec Accompagnement(Miel,Confiture,Jben),Jus d’orange,Hsoua."
+        },
+        "Express": {
+            "name": "Deutsche Übersetzung von Express",
+            "description": "Deutsche Übersetzung von Boisson chaude au choix, 3 Viennoiseries,Panier de Pain Accompagnement (Jben,miel,confiture),Jus d’orange,Hsoua."
+        },
+        "Nature": {
+            "name": "Deutsche Übersetzung von Nature",
+            "description": "Deutsche Übersetzung von Boisson chaude au choix,Omlette Nature, Panier de Pain Accompagnement(Huile d’olive, Olive, Jben )Jus d’orange,Hsoua."
+        },
+        "Pancake Nutella": {
+            "name": "Deutsche Übersetzung von Pancake Nutella",
+            "description": "Deutsche Übersetzung von Sauce Nutella"
+        },
+        "Pancake Caramel": {
+            "name": "Deutsche Übersetzung von Pancake Caramel",
+            "description": "Deutsche Übersetzung von Sauce caramel, Sauce Nutella"
+        },
+        "Pancake Banano": {
+            "name": "Deutsche Übersetzung von Pancake Banano",
+            "description": "Deutsche Übersetzung von Sauce Nutella, banane"
+        },
+        "Pancake Oreo": {
+            "name": "Deutsche Übersetzung von Pancake Oreo",
+            "description": "Deutsche Übersetzung von Sauce Nutella, oreo"
+        },
+        "Pancake Lotus": {
+            "name": "Deutsche Übersetzung von Pancake Lotus",
+            "description": "Deutsche Übersetzung von Sauce Nutella, lotus, boule de glace"
+        },
+        "Pancake Trois chocolats": {
+            "name": "Deutsche Übersetzung von Pancake Trois chocolats",
+            "description": "Deutsche Übersetzung von Sauce Nutella, Sauce Chocolat Noir, Sauce Chocolat Blanc"
+        },
+        "Pancake Frutti": {
+            "name": "Deutsche Übersetzung von Pancake Frutti",
+            "description": "Deutsche Übersetzung von Sauce Nutella, Fruits De Saisons"
+        },
+        "Pancake Fruit Sec": {
+            "name": "Deutsche Übersetzung von Pancake Fruit Sec",
+            "description": "Deutsche Übersetzung von Sauce Nutella, Fruits sec"
+        },
+        "Crêpe Nutella": {
+            "name": "Deutsche Übersetzung von Crêpe Nutella",
+            "description": "Deutsche Übersetzung von Sauce Nutella"
+        },
+        "Crêpe Caramel": {
+            "name": "Deutsche Übersetzung von Crêpe Caramel",
+            "description": "Deutsche Übersetzung von Sauce caramel, Sauce Nutella"
+        },
+        "Crêpe Banano": {
+            "name": "Deutsche Übersetzung von Crêpe Banano",
+            "description": "Deutsche Übersetzung von Sauce Nutella, banane"
+        },
+        "Crêpe Oreo": {
+            "name": "Deutsche Übersetzung von Crêpe Oreo",
+            "description": "Deutsche Übersetzung von Sauce Nutella, oreo"
+        },
+        "Crêpe Lotus": {
+            "name": "Deutsche Übersetzung von Crêpe Lotus",
+            "description": "Deutsche Übersetzung von Sauce Nutella, lotus, boule de glace"
+        },
+        "Trois chocolats": {
+            "name": "Deutsche Übersetzung von Trois chocolats",
+            "description": "Deutsche Übersetzung von Sauce Nutella, Sauce Chocolat Noir, Sauce Chocolat Blanc"
+        },
+        "Crêpe Frutti": {
+            "name": "Deutsche Übersetzung von Crêpe Frutti",
+            "description": "Deutsche Übersetzung von Sauce Nutella, Fruits De Saisons"
+        },
+        "Crêpe Fruit Sec": {
+            "name": "Deutsche Übersetzung von Crêpe Fruit Sec",
+            "description": "Deutsche Übersetzung von Sauce Nutella, Fruits sec"
+        },
+        "Gaufre Nutella": {
+            "name": "Deutsche Übersetzung von Gaufre Nutella",
+            "description": "Deutsche Übersetzung von Sauce Nutella"
+        },
+        "Gaufre Caramel": {
+            "name": "Deutsche Übersetzung von Gaufre Caramel",
+            "description": "Deutsche Übersetzung von Sauce caramel, Sauce Nutella"
+        },
+        "Gaufre Banano": {
+            "name": "Deutsche Übersetzung von Gaufre Banano",
+            "description": "Deutsche Übersetzung von Sauce Nutella, banane"
+        },
+        "Gaufre Oreo": {
+            "name": "Deutsche Übersetzung von Gaufre Oreo",
+            "description": "Deutsche Übersetzung von Sauce Nutella, oreo"
+        },
+        "Gaufre Lotus": {
+            "name": "Deutsche Übersetzung von Gaufre Lotus",
+            "description": "Deutsche Übersetzung von Sauce Nutella, lotus, boule de glace"
+        },
+        "Gaufre Trois chocolats": {
+            "name": "Deutsche Übersetzung von Gaufre Trois chocolats",
+            "description": "Deutsche Übersetzung von Sauce Nutella, Sauce Chocolat Noir, Sauce Chocolat Blanc"
+        },
+        "Gaufre Frutti": {
+            "name": "Deutsche Übersetzung von Gaufre Frutti",
+            "description": "Deutsche Übersetzung von Sauce Nutella, Fruits De Saisons"
+        },
+        "Gaufre Fruit Sec": {
+            "name": "Deutsche Übersetzung von Gaufre Fruit Sec",
+            "description": "Deutsche Übersetzung von Sauce Nutella, Fruits sec"
+        },
+        "Crêpe Dinde": {
+            "name": "Deutsche Übersetzung von Crêpe Dinde",
+            "description": "Deutsche Übersetzung von dinde,sauce fromage, champignon,fromage,oignons frits,laitue,tomate"
+        },
+        "Crêpe Viande Hachée": {
+            "name": "Deutsche Übersetzung von Crêpe Viande Hachée",
+            "description": "Deutsche Übersetzung von sauce fromage,viande haché,fromage,oignons frits,laitue,tomate"
+        },
+        "Crêpe Jambon": {
+            "name": "Deutsche Übersetzung von Crêpe Jambon",
+            "description": "Deutsche Übersetzung von sauce fromage,jambon, oignons frits,laitue,tomate"
+        },
+        "Crêpe Mix fromagère": {
+            "name": "Deutsche Übersetzung von Crêpe Mix fromagère",
+            "description": "Deutsche Übersetzung von sauce fromage,fromage cheddar, mozzarella,fromag rouge"
+        },
+        "Crêpe Spéciale": {
+            "name": "Deutsche Übersetzung von Crêpe Spéciale",
+            "description": "Deutsche Übersetzung von viande haché, dinde, jambon, sauce fromage, champignon, fromage, oignons frits,laitue,tomate,frites"
+        },
+        "Salade fruits": {
+            "name": "Deutsche Übersetzung von Salade fruits",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Cheesecake Fromage": {
+            "name": "Deutsche Übersetzung von Cheesecake Fromage",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Cheesecake Café": {
+            "name": "Deutsche Übersetzung von Cheesecake Café",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Cheesecake Orio": {
+            "name": "Deutsche Übersetzung von Cheesecake Orio",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Cheesecake Fraise": {
+            "name": "Deutsche Übersetzung von Cheesecake Fraise",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Sandwich Œuf": {
+            "name": "Deutsche Übersetzung von Sandwich Œuf",
+            "description": "Deutsche Übersetzung von sauce fromage, œuf, charcuterie, fromage, tomate, laitue"
+        },
+        "Sandwich Poulet": {
+            "name": "Deutsche Übersetzung von Sandwich Poulet",
+            "description": "Deutsche Übersetzung von sauce fromage, laitue, tomate, poulet, fromage"
+        },
+        "Sandwich Thon": {
+            "name": "Deutsche Übersetzung von Sandwich Thon",
+            "description": "Deutsche Übersetzung von sauce fromage, laitue, tomate, thon"
+        },
+        "Sandwich Viande hachée": {
+            "name": "Deutsche Übersetzung von Sandwich Viande hachée",
+            "description": "Deutsche Übersetzung von viande haché, formage, laitue, tomate, sauce fromage"
+        },
+        "Sandwich Escalopes": {
+            "name": "Deutsche Übersetzung von Sandwich Escalopes",
+            "description": "Deutsche Übersetzung von escalopes,sauce fromage, laitue, tomate, fromage"
+        },
+        "Sandwich Croque-monsieur": {
+            "name": "Deutsche Übersetzung von Sandwich Croque-monsieur",
+            "description": "Deutsche Übersetzung von sauce fromage, mozzarelle, fromage, jambon"
+        },
+        "Sandwich Croque-madame": {
+            "name": "Deutsche Übersetzung von Sandwich Croque-madame",
+            "description": "Deutsche Übersetzung von sauce fromage, mozzarelle, fromage, jambon, œuf"
+        },
+        "Jus Orange": {
+            "name": "Deutsche Übersetzung von Jus Orange",
+            "description": "Deutsche Übersetzung von Size:500cl"
+        },
+        "Jus Banane": {
+            "name": "Deutsche Übersetzung von Jus Banane",
+            "description": "Deutsche Übersetzung von Size:500cl"
+        },
+        "Jus Citron": {
+            "name": "Deutsche Übersetzung von Jus Citron",
+            "description": "Deutsche Übersetzung von Size: 500cl"
+        },
+        "Jus Fruit rouge": {
+            "name": "Deutsche Übersetzung von Jus Fruit rouge",
+            "description": "Deutsche Übersetzung von Size: 500cl"
+        },
+        "Jus Pomme": {
+            "name": "Deutsche Übersetzung von Jus Pomme",
+            "description": "Deutsche Übersetzung von Size: 500cl"
+        },
+        "Jus Mangue": {
+            "name": "Deutsche Übersetzung von Jus Mangue",
+            "description": "Deutsche Übersetzung von Size: 500cl"
+        },
+        "Jus Ananas": {
+            "name": "Deutsche Übersetzung von Jus Ananas",
+            "description": "Deutsche Übersetzung von Size: 500cl"
+        },
+        "Jus Avocat": {
+            "name": "Deutsche Übersetzung von Jus Avocat",
+            "description": "Deutsche Übersetzung von Size: 500cl"
+        },
+        "Jus Exotique": {
+            "name": "Deutsche Übersetzung von Jus Exotique",
+            "description": "Deutsche Übersetzung von Size: 500cl"
+        },
+        "Jus Citron gingembre menthe": {
+            "name": "Deutsche Übersetzung von Jus Citron gingembre menthe",
+            "description": "Deutsche Übersetzung von Size : 500cl"
+        },
+        "Jus Cocktails de fruits": {
+            "name": "Deutsche Übersetzung von Jus Cocktails de fruits",
+            "description": "Deutsche Übersetzung von Size: 500cl"
+        },
+        "Cocktail Pinna colada": {
+            "name": "Deutsche Übersetzung von Cocktail Pinna colada",
+            "description": "Deutsche Übersetzung von Orange,Ananas,vanilla,lait coco,grenadine"
+        },
+        "Cocktail Bleu marine": {
+            "name": "Deutsche Übersetzung von Cocktail Bleu marine",
+            "description": "Deutsche Übersetzung von Noisette,citron vert,bleu corassan,sprait"
+        },
+        "Cocktail Bleu Paradise": {
+            "name": "Deutsche Übersetzung von Cocktail Bleu Paradise",
+            "description": "Deutsche Übersetzung von Ananas,vanilla,lait coco,bleu corassa"
+        },
+        "Cocktail Virgin Colada": {
+            "name": "Deutsche Übersetzung von Cocktail Virgin Colada",
+            "description": "Deutsche Übersetzung von Lait,ananas,lait coco,vanilla,cream liquid"
+        },
+        "Cocktail Special": {
+            "name": "Deutsche Übersetzung von Cocktail Special",
+            "description": "Deutsche Übersetzung von Cream soda,blue coraca,grenadine,cream"
+        },
+        "Sweet Smoothies": {
+            "name": "Deutsche Übersetzung von Sweet Smoothies",
+            "description": "Deutsche Übersetzung von Mangue, pomme, menthe, orange"
+        },
+        "Tropical Smoothies": {
+            "name": "Deutsche Übersetzung von Tropical Smoothies",
+            "description": "Deutsche Übersetzung von Ananas, banane, orange"
+        },
+        "Paradis Smoothies": {
+            "name": "Deutsche Übersetzung von Paradis Smoothies",
+            "description": "Deutsche Übersetzung von Fraise, mangue, orange"
+        },
+        "Steel-blue Smoothies": {
+            "name": "Deutsche Übersetzung von Steel-blue Smoothies",
+            "description": "Deutsche Übersetzung von Purée de fraise, mangue banane"
+        },
+        "Milk shakes Chocolat": {
+            "name": "Deutsche Übersetzung von Milk shakes Chocolat",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Milk shakes Caramel": {
+            "name": "Deutsche Übersetzung von Milk shakes Caramel",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Milk shakes Vanille": {
+            "name": "Deutsche Übersetzung von Milk shakes Vanille",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Milk shakes Fraise": {
+            "name": "Deutsche Übersetzung von Milk shakes Fraise",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Milk shakes Orio": {
+            "name": "Deutsche Übersetzung von Milk shakes Orio",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Milk shakes Kitkat": {
+            "name": "Deutsche Übersetzung von Milk shakes Kitkat",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Milk shakes Nutella": {
+            "name": "Deutsche Übersetzung von Milk shakes Nutella",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Milk shakes Magnum": {
+            "name": "Deutsche Übersetzung von Milk shakes Magnum",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Classic Virgin Mojito": {
+            "name": "Deutsche Übersetzung von Classic Virgin Mojito",
+            "description": "Deutsche Übersetzung von Citron vert, menthe, soda, Sucre de canne"
+        },
+        "Black Mojito": {
+            "name": "Deutsche Übersetzung von Black Mojito",
+            "description": "Deutsche Übersetzung von Citron, menthe, Coca-Cola"
+        },
+        "Red Bull Mojito": {
+            "name": "Deutsche Übersetzung von Red Bull Mojito",
+            "description": "Deutsche Übersetzung von Citron, menthe, red bull"
+        },
+        "Yellow Virgin Mojito": {
+            "name": "Deutsche Übersetzung von Yellow Virgin Mojito",
+            "description": "Deutsche Übersetzung von Citron, Menthe, Fruit de la passion, Mangue, Soda"
+        },
+        "Energy": {
+            "name": "Deutsche Übersetzung von Energy",
+            "description": "Deutsche Übersetzung von Orange,betterave,gingembre,citron vert,miel"
+        },
+        "Good morning": {
+            "name": "Deutsche Übersetzung von Good morning",
+            "description": "Deutsche Übersetzung von Pomme,carotte,ananas,gingembre,miel"
+        },
+        "Vert vitamine": {
+            "name": "Deutsche Übersetzung von Vert vitamine",
+            "description": "Deutsche Übersetzung von Kiwi,menthe,citron vert,gingembre,orange"
+        },
+        "Merci": {
+            "name": "Deutsche Übersetzung von Merci",
+            "description": "Deutsche Übersetzung von Avocat,pomme,concombre,citron vert,miel"
+        },
+        "Eau plate": {
+            "name": "Deutsche Übersetzung von Eau plate",
+            "description": "Deutsche Übersetzung von 50cl"
+        },
+        "Eau gazeuse": {
+            "name": "Deutsche Übersetzung von Eau gazeuse",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Soda": {
+            "name": "Deutsche Übersetzung von Soda",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Le Tradi": {
+            "name": "Deutsche Übersetzung von Le Tradi",
+            "description": "Deutsche Übersetzung von Boisson chaude au choix, Tajine au khelii, 2 hercha (normal et avec les olives), 1msemna, Panier de Pain accompagnement (huile d’olive, miel, Confiture, Olive), salade fruits, Jus d’orange,Hsoua."
+        },
+        "American taste": {
+            "name": "Deutsche Übersetzung von American taste",
+            "description": "Deutsche Übersetzung von Boisson chaude au choix, 2 Tartine au œuf et fromage, Brochette dinde, Saucisse, Salade verte, 3 Croquettes, 2 Pancake au miel, Salade fruits, Panier de Pain accompagnement (Miel,Confiture,Olive), jus d’orange,Hsoua."
+        },
+        "MERCI (2 personne)": {
+            "name": "Deutsche Übersetzung von MERCI (2 personne)",
+            "description": "Deutsche Übersetzung von 2 boisson chaude au choix, 2 Tartine au fromage, 2 Tartine avocat, 2 Tartine œuf et jben, 2 msimnat, 2 hricha, 3 viennoiseries, tajine khelii, 2 Pancake au miel, 4 croquette, Panier de Pain accompagnement (huile d’olive, miel, Confiture, Olive), 2 Salade fruits, 2 Jus d’orange, 2 hssoua."
+        },
+        "Croquer (4pc)": {
+            "name": "Deutsche Übersetzung von Croquer (4pc)",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Mesman": {
+            "name": "Deutsche Übersetzung von Mesman",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "harcha": {
+            "name": "Deutsche Übersetzung von harcha",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Viennoiserie (3pc)": {
+            "name": "Deutsche Übersetzung von Viennoiserie (3pc)",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Amlou": {
+            "name": "Deutsche Übersetzung von Amlou",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Miel": {
+            "name": "Deutsche Übersetzung von Miel",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Confiture": {
+            "name": "Deutsche Übersetzung von Confiture",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Olives": {
+            "name": "Deutsche Übersetzung von Olives",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Huile d’olives": {
+            "name": "Deutsche Übersetzung von Huile d’olives",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Jben": {
+            "name": "Deutsche Übersetzung von Jben",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Omelette fromage": {
+            "name": "Deutsche Übersetzung von Omelette fromage",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Omelette jambon": {
+            "name": "Deutsche Übersetzung von Omelette jambon",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Omelette champignon": {
+            "name": "Deutsche Übersetzung von Omelette champignon",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Omelette normale": {
+            "name": "Deutsche Übersetzung von Omelette normale",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Tagine khelii": {
+            "name": "Deutsche Übersetzung von Tagine khelii",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Tagine crevette": {
+            "name": "Deutsche Übersetzung von Tagine crevette",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Tagine œuf & Tomate": {
+            "name": "Deutsche Übersetzung von Tagine œuf & Tomate",
+            "description": "Deutsche Übersetzung von None"
+        },
+        "Tagine viande haché": {
+            "name": "Deutsche Übersetzung von Tagine viande haché",
+            "description": "Deutsche Übersetzung von None"
+        }
+    },
+    "العربية": {
+        "Taktouka": {
+            "name": "الترجمة العربية لـ Taktouka",
+            "description": "الترجمة العربية لـ is a traditional Moroccan savory dish and spread made from tomatoes, bell peppers, garlic, toasted paprika and olive oil.[1][2] Taktouka is an extremely popular dish and can be found in many restaurant in different parts of Morocco."
+        },
+        "Kalinte": {
+            "name": "الترجمة العربية لـ Kalinte",
+            "description": "الترجمة العربية لـ Kalinte, kalentica, karane, etc., so many ways to call this dish! All these appellations refer to the Spanish word “caliente” - which means warm - for the simple reason that this silky and smooth chickpea pie is meant to be enjoyed warm. In a way, we coul"
+        },
+        "Moroccan tea": {
+            "name": "الترجمة العربية لـ Moroccan tea",
+            "description": "الترجمة العربية لـ is a North African preparation of gunpowder green tea with spearmint leaves and sugar. It is traditional to the Greater Maghreb region."
+        },
+        "tajine": {
+            "name": "الترجمة العربية لـ tajine",
+            "description": "الترجمة العربية لـ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has su"
+        },
+        "BEEF KEBAB": {
+            "name": "الترجمة العربية لـ BEEF KEBAB",
+            "description": "الترجمة العربية لـ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has su"
+        },
+        "Whole braised chicken with lemon and olives": {
+            "name": "الترجمة العربية لـ Whole braised chicken with lemon and olives",
+            "description": "الترجمة العربية لـ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has su"
+        },
+        "Couscous": {
+            "name": "الترجمة العربية لـ Couscous",
+            "description": "الترجمة العربية لـ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has su"
+        },
+        "Moroccan Chicken with Apricot and Olive Relish": {
+            "name": "الترجمة العربية لـ Moroccan Chicken with Apricot and Olive Relish",
+            "description": "الترجمة العربية لـ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has su"
+        },
+        "Fiery Moroccan Lamb Merguez": {
+            "name": "الترجمة العربية لـ Fiery Moroccan Lamb Merguez",
+            "description": "الترجمة العربية لـ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has su"
+        },
+        "Iced latte": {
+            "name": "الترجمة العربية لـ Iced latte",
+            "description": "الترجمة العربية لـ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+        },
+        "Café Noir": {
+            "name": "الترجمة العربية لـ Café Noir",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Café Nespresso": {
+            "name": "الترجمة العربية لـ Café Nespresso",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Café Noir Aromatisé": {
+            "name": "الترجمة العربية لـ Café Noir Aromatisé",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Thé à la menthe": {
+            "name": "الترجمة العربية لـ Thé à la menthe",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Verveine": {
+            "name": "الترجمة العربية لـ Verveine",
+            "description": "الترجمة العربية لـ Lait,Thé,Eau"
+        },
+        "The infusion": {
+            "name": "الترجمة العربية لـ The infusion",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Normal capuccino": {
+            "name": "الترجمة العربية لـ Normal capuccino",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Vanilla cappuccino": {
+            "name": "الترجمة العربية لـ Vanilla cappuccino",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Cappuccino noisette": {
+            "name": "الترجمة العربية لـ Cappuccino noisette",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Cappuccino caramel": {
+            "name": "الترجمة العربية لـ Cappuccino caramel",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Frappuccino Caramel": {
+            "name": "الترجمة العربية لـ Frappuccino Caramel",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Frappuccino noisette": {
+            "name": "الترجمة العربية لـ Frappuccino noisette",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Frappuccino chocolat": {
+            "name": "الترجمة العربية لـ Frappuccino chocolat",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Café au lait": {
+            "name": "الترجمة العربية لـ Café au lait",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Vanilla latte": {
+            "name": "الترجمة العربية لـ Vanilla latte",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Caramel latte": {
+            "name": "الترجمة العربية لـ Caramel latte",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Latte noisette": {
+            "name": "الترجمة العربية لـ Latte noisette",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Chocolat Chaud": {
+            "name": "الترجمة العربية لـ Chocolat Chaud",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Ice tea Orange & Cannelle": {
+            "name": "الترجمة العربية لـ Ice tea Orange & Cannelle",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Ice tea Fruit rouge": {
+            "name": "الترجمة العربية لـ Ice tea Fruit rouge",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Ice tea Vanille & miel": {
+            "name": "الترجمة العربية لـ Ice tea Vanille & miel",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Ice coffee Caramel": {
+            "name": "الترجمة العربية لـ Ice coffee Caramel",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Ice coffee Chocolat": {
+            "name": "الترجمة العربية لـ Ice coffee Chocolat",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Ice coffee Vanilla": {
+            "name": "الترجمة العربية لـ Ice coffee Vanilla",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Chocolat Fondue": {
+            "name": "الترجمة العربية لـ Chocolat Fondue",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Vennoie": {
+            "name": "الترجمة العربية لـ Vennoie",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Orio": {
+            "name": "الترجمة العربية لـ Orio",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Kitkat": {
+            "name": "الترجمة العربية لـ Kitkat",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Fitness": {
+            "name": "الترجمة العربية لـ Fitness",
+            "description": "الترجمة العربية لـ Boisson chaude au choix, 2 Tartine avocat jambon et fromage, 2 Œuf au plat, 2 Pancake au miel et fruits sec, 3 Croquette, salade verte, salade fruit, Panier de Pain accompagnement (Miel,Jben,Confiture,Olive),Jus d’orange,Hsoua."
+        },
+        "Personnel": {
+            "name": "الترجمة العربية لـ Personnel",
+            "description": "الترجمة العربية لـ Boisson chaude au choix,Pain grillé avec Accompagnement(Miel,Confiture,Jben),Jus d’orange,Hsoua."
+        },
+        "Express": {
+            "name": "الترجمة العربية لـ Express",
+            "description": "الترجمة العربية لـ Boisson chaude au choix, 3 Viennoiseries,Panier de Pain Accompagnement (Jben,miel,confiture),Jus d’orange,Hsoua."
+        },
+        "Nature": {
+            "name": "الترجمة العربية لـ Nature",
+            "description": "الترجمة العربية لـ Boisson chaude au choix,Omlette Nature, Panier de Pain Accompagnement(Huile d’olive, Olive, Jben )Jus d’orange,Hsoua."
+        },
+        "Pancake Nutella": {
+            "name": "الترجمة العربية لـ Pancake Nutella",
+            "description": "الترجمة العربية لـ Sauce Nutella"
+        },
+        "Pancake Caramel": {
+            "name": "الترجمة العربية لـ Pancake Caramel",
+            "description": "الترجمة العربية لـ Sauce caramel, Sauce Nutella"
+        },
+        "Pancake Banano": {
+            "name": "الترجمة العربية لـ Pancake Banano",
+            "description": "الترجمة العربية لـ Sauce Nutella, banane"
+        },
+        "Pancake Oreo": {
+            "name": "الترجمة العربية لـ Pancake Oreo",
+            "description": "الترجمة العربية لـ Sauce Nutella, oreo"
+        },
+        "Pancake Lotus": {
+            "name": "الترجمة العربية لـ Pancake Lotus",
+            "description": "الترجمة العربية لـ Sauce Nutella, lotus, boule de glace"
+        },
+        "Pancake Trois chocolats": {
+            "name": "الترجمة العربية لـ Pancake Trois chocolats",
+            "description": "الترجمة العربية لـ Sauce Nutella, Sauce Chocolat Noir, Sauce Chocolat Blanc"
+        },
+        "Pancake Frutti": {
+            "name": "الترجمة العربية لـ Pancake Frutti",
+            "description": "الترجمة العربية لـ Sauce Nutella, Fruits De Saisons"
+        },
+        "Pancake Fruit Sec": {
+            "name": "الترجمة العربية لـ Pancake Fruit Sec",
+            "description": "الترجمة العربية لـ Sauce Nutella, Fruits sec"
+        },
+        "Crêpe Nutella": {
+            "name": "الترجمة العربية لـ Crêpe Nutella",
+            "description": "الترجمة العربية لـ Sauce Nutella"
+        },
+        "Crêpe Caramel": {
+            "name": "الترجمة العربية لـ Crêpe Caramel",
+            "description": "الترجمة العربية لـ Sauce caramel, Sauce Nutella"
+        },
+        "Crêpe Banano": {
+            "name": "الترجمة العربية لـ Crêpe Banano",
+            "description": "الترجمة العربية لـ Sauce Nutella, banane"
+        },
+        "Crêpe Oreo": {
+            "name": "الترجمة العربية لـ Crêpe Oreo",
+            "description": "الترجمة العربية لـ Sauce Nutella, oreo"
+        },
+        "Crêpe Lotus": {
+            "name": "الترجمة العربية لـ Crêpe Lotus",
+            "description": "الترجمة العربية لـ Sauce Nutella, lotus, boule de glace"
+        },
+        "Trois chocolats": {
+            "name": "الترجمة العربية لـ Trois chocolats",
+            "description": "الترجمة العربية لـ Sauce Nutella, Sauce Chocolat Noir, Sauce Chocolat Blanc"
+        },
+        "Crêpe Frutti": {
+            "name": "الترجمة العربية لـ Crêpe Frutti",
+            "description": "الترجمة العربية لـ Sauce Nutella, Fruits De Saisons"
+        },
+        "Crêpe Fruit Sec": {
+            "name": "الترجمة العربية لـ Crêpe Fruit Sec",
+            "description": "الترجمة العربية لـ Sauce Nutella, Fruits sec"
+        },
+        "Gaufre Nutella": {
+            "name": "الترجمة العربية لـ Gaufre Nutella",
+            "description": "الترجمة العربية لـ Sauce Nutella"
+        },
+        "Gaufre Caramel": {
+            "name": "الترجمة العربية لـ Gaufre Caramel",
+            "description": "الترجمة العربية لـ Sauce caramel, Sauce Nutella"
+        },
+        "Gaufre Banano": {
+            "name": "الترجمة العربية لـ Gaufre Banano",
+            "description": "الترجمة العربية لـ Sauce Nutella, banane"
+        },
+        "Gaufre Oreo": {
+            "name": "الترجمة العربية لـ Gaufre Oreo",
+            "description": "الترجمة العربية لـ Sauce Nutella, oreo"
+        },
+        "Gaufre Lotus": {
+            "name": "الترجمة العربية لـ Gaufre Lotus",
+            "description": "الترجمة العربية لـ Sauce Nutella, lotus, boule de glace"
+        },
+        "Gaufre Trois chocolats": {
+            "name": "الترجمة العربية لـ Gaufre Trois chocolats",
+            "description": "الترجمة العربية لـ Sauce Nutella, Sauce Chocolat Noir, Sauce Chocolat Blanc"
+        },
+        "Gaufre Frutti": {
+            "name": "الترجمة العربية لـ Gaufre Frutti",
+            "description": "الترجمة العربية لـ Sauce Nutella, Fruits De Saisons"
+        },
+        "Gaufre Fruit Sec": {
+            "name": "الترجمة العربية لـ Gaufre Fruit Sec",
+            "description": "الترجمة العربية لـ Sauce Nutella, Fruits sec"
+        },
+        "Crêpe Dinde": {
+            "name": "الترجمة العربية لـ Crêpe Dinde",
+            "description": "الترجمة العربية لـ dinde,sauce fromage, champignon,fromage,oignons frits,laitue,tomate"
+        },
+        "Crêpe Viande Hachée": {
+            "name": "الترجمة العربية لـ Crêpe Viande Hachée",
+            "description": "الترجمة العربية لـ sauce fromage,viande haché,fromage,oignons frits,laitue,tomate"
+        },
+        "Crêpe Jambon": {
+            "name": "الترجمة العربية لـ Crêpe Jambon",
+            "description": "الترجمة العربية لـ sauce fromage,jambon, oignons frits,laitue,tomate"
+        },
+        "Crêpe Mix fromagère": {
+            "name": "الترجمة العربية لـ Crêpe Mix fromagère",
+            "description": "الترجمة العربية لـ sauce fromage,fromage cheddar, mozzarella,fromag rouge"
+        },
+        "Crêpe Spéciale": {
+            "name": "الترجمة العربية لـ Crêpe Spéciale",
+            "description": "الترجمة العربية لـ viande haché, dinde, jambon, sauce fromage, champignon, fromage, oignons frits,laitue,tomate,frites"
+        },
+        "Salade fruits": {
+            "name": "الترجمة العربية لـ Salade fruits",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Cheesecake Fromage": {
+            "name": "الترجمة العربية لـ Cheesecake Fromage",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Cheesecake Café": {
+            "name": "الترجمة العربية لـ Cheesecake Café",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Cheesecake Orio": {
+            "name": "الترجمة العربية لـ Cheesecake Orio",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Cheesecake Fraise": {
+            "name": "الترجمة العربية لـ Cheesecake Fraise",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Sandwich Œuf": {
+            "name": "الترجمة العربية لـ Sandwich Œuf",
+            "description": "الترجمة العربية لـ sauce fromage, œuf, charcuterie, fromage, tomate, laitue"
+        },
+        "Sandwich Poulet": {
+            "name": "الترجمة العربية لـ Sandwich Poulet",
+            "description": "الترجمة العربية لـ sauce fromage, laitue, tomate, poulet, fromage"
+        },
+        "Sandwich Thon": {
+            "name": "الترجمة العربية لـ Sandwich Thon",
+            "description": "الترجمة العربية لـ sauce fromage, laitue, tomate, thon"
+        },
+        "Sandwich Viande hachée": {
+            "name": "الترجمة العربية لـ Sandwich Viande hachée",
+            "description": "الترجمة العربية لـ viande haché, formage, laitue, tomate, sauce fromage"
+        },
+        "Sandwich Escalopes": {
+            "name": "الترجمة العربية لـ Sandwich Escalopes",
+            "description": "الترجمة العربية لـ escalopes,sauce fromage, laitue, tomate, fromage"
+        },
+        "Sandwich Croque-monsieur": {
+            "name": "الترجمة العربية لـ Sandwich Croque-monsieur",
+            "description": "الترجمة العربية لـ sauce fromage, mozzarelle, fromage, jambon"
+        },
+        "Sandwich Croque-madame": {
+            "name": "الترجمة العربية لـ Sandwich Croque-madame",
+            "description": "الترجمة العربية لـ sauce fromage, mozzarelle, fromage, jambon, œuf"
+        },
+        "Jus Orange": {
+            "name": "الترجمة العربية لـ Jus Orange",
+            "description": "الترجمة العربية لـ Size:500cl"
+        },
+        "Jus Banane": {
+            "name": "الترجمة العربية لـ Jus Banane",
+            "description": "الترجمة العربية لـ Size:500cl"
+        },
+        "Jus Citron": {
+            "name": "الترجمة العربية لـ Jus Citron",
+            "description": "الترجمة العربية لـ Size: 500cl"
+        },
+        "Jus Fruit rouge": {
+            "name": "الترجمة العربية لـ Jus Fruit rouge",
+            "description": "الترجمة العربية لـ Size: 500cl"
+        },
+        "Jus Pomme": {
+            "name": "الترجمة العربية لـ Jus Pomme",
+            "description": "الترجمة العربية لـ Size: 500cl"
+        },
+        "Jus Mangue": {
+            "name": "الترجمة العربية لـ Jus Mangue",
+            "description": "الترجمة العربية لـ Size: 500cl"
+        },
+        "Jus Ananas": {
+            "name": "الترجمة العربية لـ Jus Ananas",
+            "description": "الترجمة العربية لـ Size: 500cl"
+        },
+        "Jus Avocat": {
+            "name": "الترجمة العربية لـ Jus Avocat",
+            "description": "الترجمة العربية لـ Size: 500cl"
+        },
+        "Jus Exotique": {
+            "name": "الترجمة العربية لـ Jus Exotique",
+            "description": "الترجمة العربية لـ Size: 500cl"
+        },
+        "Jus Citron gingembre menthe": {
+            "name": "الترجمة العربية لـ Jus Citron gingembre menthe",
+            "description": "الترجمة العربية لـ Size : 500cl"
+        },
+        "Jus Cocktails de fruits": {
+            "name": "الترجمة العربية لـ Jus Cocktails de fruits",
+            "description": "الترجمة العربية لـ Size: 500cl"
+        },
+        "Cocktail Pinna colada": {
+            "name": "الترجمة العربية لـ Cocktail Pinna colada",
+            "description": "الترجمة العربية لـ Orange,Ananas,vanilla,lait coco,grenadine"
+        },
+        "Cocktail Bleu marine": {
+            "name": "الترجمة العربية لـ Cocktail Bleu marine",
+            "description": "الترجمة العربية لـ Noisette,citron vert,bleu corassan,sprait"
+        },
+        "Cocktail Bleu Paradise": {
+            "name": "الترجمة العربية لـ Cocktail Bleu Paradise",
+            "description": "الترجمة العربية لـ Ananas,vanilla,lait coco,bleu corassa"
+        },
+        "Cocktail Virgin Colada": {
+            "name": "الترجمة العربية لـ Cocktail Virgin Colada",
+            "description": "الترجمة العربية لـ Lait,ananas,lait coco,vanilla,cream liquid"
+        },
+        "Cocktail Special": {
+            "name": "الترجمة العربية لـ Cocktail Special",
+            "description": "الترجمة العربية لـ Cream soda,blue coraca,grenadine,cream"
+        },
+        "Sweet Smoothies": {
+            "name": "الترجمة العربية لـ Sweet Smoothies",
+            "description": "الترجمة العربية لـ Mangue, pomme, menthe, orange"
+        },
+        "Tropical Smoothies": {
+            "name": "الترجمة العربية لـ Tropical Smoothies",
+            "description": "الترجمة العربية لـ Ananas, banane, orange"
+        },
+        "Paradis Smoothies": {
+            "name": "الترجمة العربية لـ Paradis Smoothies",
+            "description": "الترجمة العربية لـ Fraise, mangue, orange"
+        },
+        "Steel-blue Smoothies": {
+            "name": "الترجمة العربية لـ Steel-blue Smoothies",
+            "description": "الترجمة العربية لـ Purée de fraise, mangue banane"
+        },
+        "Milk shakes Chocolat": {
+            "name": "الترجمة العربية لـ Milk shakes Chocolat",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Milk shakes Caramel": {
+            "name": "الترجمة العربية لـ Milk shakes Caramel",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Milk shakes Vanille": {
+            "name": "الترجمة العربية لـ Milk shakes Vanille",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Milk shakes Fraise": {
+            "name": "الترجمة العربية لـ Milk shakes Fraise",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Milk shakes Orio": {
+            "name": "الترجمة العربية لـ Milk shakes Orio",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Milk shakes Kitkat": {
+            "name": "الترجمة العربية لـ Milk shakes Kitkat",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Milk shakes Nutella": {
+            "name": "الترجمة العربية لـ Milk shakes Nutella",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Milk shakes Magnum": {
+            "name": "الترجمة العربية لـ Milk shakes Magnum",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Classic Virgin Mojito": {
+            "name": "الترجمة العربية لـ Classic Virgin Mojito",
+            "description": "الترجمة العربية لـ Citron vert, menthe, soda, Sucre de canne"
+        },
+        "Black Mojito": {
+            "name": "الترجمة العربية لـ Black Mojito",
+            "description": "الترجمة العربية لـ Citron, menthe, Coca-Cola"
+        },
+        "Red Bull Mojito": {
+            "name": "الترجمة العربية لـ Red Bull Mojito",
+            "description": "الترجمة العربية لـ Citron, menthe, red bull"
+        },
+        "Yellow Virgin Mojito": {
+            "name": "الترجمة العربية لـ Yellow Virgin Mojito",
+            "description": "الترجمة العربية لـ Citron, Menthe, Fruit de la passion, Mangue, Soda"
+        },
+        "Energy": {
+            "name": "الترجمة العربية لـ Energy",
+            "description": "الترجمة العربية لـ Orange,betterave,gingembre,citron vert,miel"
+        },
+        "Good morning": {
+            "name": "الترجمة العربية لـ Good morning",
+            "description": "الترجمة العربية لـ Pomme,carotte,ananas,gingembre,miel"
+        },
+        "Vert vitamine": {
+            "name": "الترجمة العربية لـ Vert vitamine",
+            "description": "الترجمة العربية لـ Kiwi,menthe,citron vert,gingembre,orange"
+        },
+        "Merci": {
+            "name": "الترجمة العربية لـ Merci",
+            "description": "الترجمة العربية لـ Avocat,pomme,concombre,citron vert,miel"
+        },
+        "Eau plate": {
+            "name": "الترجمة العربية لـ Eau plate",
+            "description": "الترجمة العربية لـ 50cl"
+        },
+        "Eau gazeuse": {
+            "name": "الترجمة العربية لـ Eau gazeuse",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Soda": {
+            "name": "الترجمة العربية لـ Soda",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Le Tradi": {
+            "name": "الترجمة العربية لـ Le Tradi",
+            "description": "الترجمة العربية لـ Boisson chaude au choix, Tajine au khelii, 2 hercha (normal et avec les olives), 1msemna, Panier de Pain accompagnement (huile d’olive, miel, Confiture, Olive), salade fruits, Jus d’orange,Hsoua."
+        },
+        "American taste": {
+            "name": "الترجمة العربية لـ American taste",
+            "description": "الترجمة العربية لـ Boisson chaude au choix, 2 Tartine au œuf et fromage, Brochette dinde, Saucisse, Salade verte, 3 Croquettes, 2 Pancake au miel, Salade fruits, Panier de Pain accompagnement (Miel,Confiture,Olive), jus d’orange,Hsoua."
+        },
+        "MERCI (2 personne)": {
+            "name": "الترجمة العربية لـ MERCI (2 personne)",
+            "description": "الترجمة العربية لـ 2 boisson chaude au choix, 2 Tartine au fromage, 2 Tartine avocat, 2 Tartine œuf et jben, 2 msimnat, 2 hricha, 3 viennoiseries, tajine khelii, 2 Pancake au miel, 4 croquette, Panier de Pain accompagnement (huile d’olive, miel, Confiture, Olive), 2 Salade fruits, 2 Jus d’orange, 2 hssoua."
+        },
+        "Croquer (4pc)": {
+            "name": "الترجمة العربية لـ Croquer (4pc)",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Mesman": {
+            "name": "الترجمة العربية لـ Mesman",
+            "description": "الترجمة العربية لـ None"
+        },
+        "harcha": {
+            "name": "الترجمة العربية لـ harcha",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Viennoiserie (3pc)": {
+            "name": "الترجمة العربية لـ Viennoiserie (3pc)",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Amlou": {
+            "name": "الترجمة العربية لـ Amlou",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Miel": {
+            "name": "الترجمة العربية لـ Miel",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Confiture": {
+            "name": "الترجمة العربية لـ Confiture",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Olives": {
+            "name": "الترجمة العربية لـ Olives",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Huile d’olives": {
+            "name": "الترجمة العربية لـ Huile d’olives",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Jben": {
+            "name": "الترجمة العربية لـ Jben",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Omelette fromage": {
+            "name": "الترجمة العربية لـ Omelette fromage",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Omelette jambon": {
+            "name": "الترجمة العربية لـ Omelette jambon",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Omelette champignon": {
+            "name": "الترجمة العربية لـ Omelette champignon",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Omelette normale": {
+            "name": "الترجمة العربية لـ Omelette normale",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Tagine khelii": {
+            "name": "الترجمة العربية لـ Tagine khelii",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Tagine crevette": {
+            "name": "الترجمة العربية لـ Tagine crevette",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Tagine œuf & Tomate": {
+            "name": "الترجمة العربية لـ Tagine œuf & Tomate",
+            "description": "الترجمة العربية لـ None"
+        },
+        "Tagine viande haché": {
+            "name": "الترجمة العربية لـ Tagine viande haché",
+            "description": "الترجمة العربية لـ None"
+        }
+    },
+    "English": {
+        "Taktouka": {
+            "name": "Translation of Taktouka",
+            "description": "Translation of is a traditional Moroccan savory dish and spread made from tomatoes, bell peppers, garlic, toasted paprika and olive oil.[1][2] Taktouka is an extremely popular dish and can be found in many restaurant in different parts of Morocco."
+        },
+        "Kalinte": {
+            "name": "Translation of Kalinte",
+            "description": "Translation of Kalinte, kalentica, karane, etc., so many ways to call this dish! All these appellations refer to the Spanish word “caliente” - which means warm - for the simple reason that this silky and smooth chickpea pie is meant to be enjoyed warm. In a way, we coul"
+        },
+        "Moroccan tea": {
+            "name": "Translation of Moroccan tea",
+            "description": "Translation of is a North African preparation of gunpowder green tea with spearmint leaves and sugar. It is traditional to the Greater Maghreb region."
+        },
+        "tajine": {
+            "name": "Translation of tajine",
+            "description": "Translation of Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has su"
+        },
+        "BEEF KEBAB": {
+            "name": "Translation of BEEF KEBAB",
+            "description": "Translation of Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has su"
+        },
+        "Whole braised chicken with lemon and olives": {
+            "name": "Translation of Whole braised chicken with lemon and olives",
+            "description": "Translation of Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has su"
+        },
+        "Couscous": {
+            "name": "Translation of Couscous",
+            "description": "Translation of Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has su"
+        },
+        "Moroccan Chicken with Apricot and Olive Relish": {
+            "name": "Translation of Moroccan Chicken with Apricot and Olive Relish",
+            "description": "Translation of Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has su"
+        },
+        "Fiery Moroccan Lamb Merguez": {
+            "name": "Translation of Fiery Moroccan Lamb Merguez",
+            "description": "Translation of Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has su"
+        },
+        "Iced latte": {
+            "name": "Translation of Iced latte",
+            "description": "Translation of Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+        },
+        "Café Noir": {
+            "name": "Translation of Café Noir",
+            "description": "Translation of None"
+        },
+        "Café Nespresso": {
+            "name": "Translation of Café Nespresso",
+            "description": "Translation of None"
+        },
+        "Café Noir Aromatisé": {
+            "name": "Translation of Café Noir Aromatisé",
+            "description": "Translation of None"
+        },
+        "Thé à la menthe": {
+            "name": "Translation of Thé à la menthe",
+            "description": "Translation of None"
+        },
+        "Verveine": {
+            "name": "Translation of Verveine",
+            "description": "Translation of Lait,Thé,Eau"
+        },
+        "The infusion": {
+            "name": "Translation of The infusion",
+            "description": "Translation of None"
+        },
+        "Normal capuccino": {
+            "name": "Translation of Normal capuccino",
+            "description": "Translation of None"
+        },
+        "Vanilla cappuccino": {
+            "name": "Translation of Vanilla cappuccino",
+            "description": "Translation of None"
+        },
+        "Cappuccino noisette": {
+            "name": "Translation of Cappuccino noisette",
+            "description": "Translation of None"
+        },
+        "Cappuccino caramel": {
+            "name": "Translation of Cappuccino caramel",
+            "description": "Translation of None"
+        },
+        "Frappuccino Caramel": {
+            "name": "Translation of Frappuccino Caramel",
+            "description": "Translation of None"
+        },
+        "Frappuccino noisette": {
+            "name": "Translation of Frappuccino noisette",
+            "description": "Translation of None"
+        },
+        "Frappuccino chocolat": {
+            "name": "Translation of Frappuccino chocolat",
+            "description": "Translation of None"
+        },
+        "Café au lait": {
+            "name": "Translation of Café au lait",
+            "description": "Translation of None"
+        },
+        "Vanilla latte": {
+            "name": "Translation of Vanilla latte",
+            "description": "Translation of None"
+        },
+        "Caramel latte": {
+            "name": "Translation of Caramel latte",
+            "description": "Translation of None"
+        },
+        "Latte noisette": {
+            "name": "Translation of Latte noisette",
+            "description": "Translation of None"
+        },
+        "Chocolat Chaud": {
+            "name": "Translation of Chocolat Chaud",
+            "description": "Translation of None"
+        },
+        "Ice tea Orange & Cannelle": {
+            "name": "Translation of Ice tea Orange & Cannelle",
+            "description": "Translation of None"
+        },
+        "Ice tea Fruit rouge": {
+            "name": "Translation of Ice tea Fruit rouge",
+            "description": "Translation of None"
+        },
+        "Ice tea Vanille & miel": {
+            "name": "Translation of Ice tea Vanille & miel",
+            "description": "Translation of None"
+        },
+        "Ice coffee Caramel": {
+            "name": "Translation of Ice coffee Caramel",
+            "description": "Translation of None"
+        },
+        "Ice coffee Chocolat": {
+            "name": "Translation of Ice coffee Chocolat",
+            "description": "Translation of None"
+        },
+        "Ice coffee Vanilla": {
+            "name": "Translation of Ice coffee Vanilla",
+            "description": "Translation of None"
+        },
+        "Chocolat Fondue": {
+            "name": "Translation of Chocolat Fondue",
+            "description": "Translation of None"
+        },
+        "Vennoie": {
+            "name": "Translation of Vennoie",
+            "description": "Translation of None"
+        },
+        "Orio": {
+            "name": "Translation of Orio",
+            "description": "Translation of None"
+        },
+        "Kitkat": {
+            "name": "Translation of Kitkat",
+            "description": "Translation of None"
+        },
+        "Fitness": {
+            "name": "Translation of Fitness",
+            "description": "Translation of Boisson chaude au choix, 2 Tartine avocat jambon et fromage, 2 Œuf au plat, 2 Pancake au miel et fruits sec, 3 Croquette, salade verte, salade fruit, Panier de Pain accompagnement (Miel,Jben,Confiture,Olive),Jus d’orange,Hsoua."
+        },
+        "Personnel": {
+            "name": "Translation of Personnel",
+            "description": "Translation of Boisson chaude au choix,Pain grillé avec Accompagnement(Miel,Confiture,Jben),Jus d’orange,Hsoua."
+        },
+        "Express": {
+            "name": "Translation of Express",
+            "description": "Translation of Boisson chaude au choix, 3 Viennoiseries,Panier de Pain Accompagnement (Jben,miel,confiture),Jus d’orange,Hsoua."
+        },
+        "Nature": {
+            "name": "Translation of Nature",
+            "description": "Translation of Boisson chaude au choix,Omlette Nature, Panier de Pain Accompagnement(Huile d’olive, Olive, Jben )Jus d’orange,Hsoua."
+        },
+        "Pancake Nutella": {
+            "name": "Translation of Pancake Nutella",
+            "description": "Translation of Sauce Nutella"
+        },
+        "Pancake Caramel": {
+            "name": "Translation of Pancake Caramel",
+            "description": "Translation of Sauce caramel, Sauce Nutella"
+        },
+        "Pancake Banano": {
+            "name": "Translation of Pancake Banano",
+            "description": "Translation of Sauce Nutella, banane"
+        },
+        "Pancake Oreo": {
+            "name": "Translation of Pancake Oreo",
+            "description": "Translation of Sauce Nutella, oreo"
+        },
+        "Pancake Lotus": {
+            "name": "Translation of Pancake Lotus",
+            "description": "Translation of Sauce Nutella, lotus, boule de glace"
+        },
+        "Pancake Trois chocolats": {
+            "name": "Translation of Pancake Trois chocolats",
+            "description": "Translation of Sauce Nutella, Sauce Chocolat Noir, Sauce Chocolat Blanc"
+        },
+        "Pancake Frutti": {
+            "name": "Translation of Pancake Frutti",
+            "description": "Translation of Sauce Nutella, Fruits De Saisons"
+        },
+        "Pancake Fruit Sec": {
+            "name": "Translation of Pancake Fruit Sec",
+            "description": "Translation of Sauce Nutella, Fruits sec"
+        },
+        "Crêpe Nutella": {
+            "name": "Translation of Crêpe Nutella",
+            "description": "Translation of Sauce Nutella"
+        },
+        "Crêpe Caramel": {
+            "name": "Translation of Crêpe Caramel",
+            "description": "Translation of Sauce caramel, Sauce Nutella"
+        },
+        "Crêpe Banano": {
+            "name": "Translation of Crêpe Banano",
+            "description": "Translation of Sauce Nutella, banane"
+        },
+        "Crêpe Oreo": {
+            "name": "Translation of Crêpe Oreo",
+            "description": "Translation of Sauce Nutella, oreo"
+        },
+        "Crêpe Lotus": {
+            "name": "Translation of Crêpe Lotus",
+            "description": "Translation of Sauce Nutella, lotus, boule de glace"
+        },
+        "Trois chocolats": {
+            "name": "Translation of Trois chocolats",
+            "description": "Translation of Sauce Nutella, Sauce Chocolat Noir, Sauce Chocolat Blanc"
+        },
+        "Crêpe Frutti": {
+            "name": "Translation of Crêpe Frutti",
+            "description": "Translation of Sauce Nutella, Fruits De Saisons"
+        },
+        "Crêpe Fruit Sec": {
+            "name": "Translation of Crêpe Fruit Sec",
+            "description": "Translation of Sauce Nutella, Fruits sec"
+        },
+        "Gaufre Nutella": {
+            "name": "Translation of Gaufre Nutella",
+            "description": "Translation of Sauce Nutella"
+        },
+        "Gaufre Caramel": {
+            "name": "Translation of Gaufre Caramel",
+            "description": "Translation of Sauce caramel, Sauce Nutella"
+        },
+        "Gaufre Banano": {
+            "name": "Translation of Gaufre Banano",
+            "description": "Translation of Sauce Nutella, banane"
+        },
+        "Gaufre Oreo": {
+            "name": "Translation of Gaufre Oreo",
+            "description": "Translation of Sauce Nutella, oreo"
+        },
+        "Gaufre Lotus": {
+            "name": "Translation of Gaufre Lotus",
+            "description": "Translation of Sauce Nutella, lotus, boule de glace"
+        },
+        "Gaufre Trois chocolats": {
+            "name": "Translation of Gaufre Trois chocolats",
+            "description": "Translation of Sauce Nutella, Sauce Chocolat Noir, Sauce Chocolat Blanc"
+        },
+        "Gaufre Frutti": {
+            "name": "Translation of Gaufre Frutti",
+            "description": "Translation of Sauce Nutella, Fruits De Saisons"
+        },
+        "Gaufre Fruit Sec": {
+            "name": "Translation of Gaufre Fruit Sec",
+            "description": "Translation of Sauce Nutella, Fruits sec"
+        },
+        "Crêpe Dinde": {
+            "name": "Translation of Crêpe Dinde",
+            "description": "Translation of dinde,sauce fromage, champignon,fromage,oignons frits,laitue,tomate"
+        },
+        "Crêpe Viande Hachée": {
+            "name": "Translation of Crêpe Viande Hachée",
+            "description": "Translation of sauce fromage,viande haché,fromage,oignons frits,laitue,tomate"
+        },
+        "Crêpe Jambon": {
+            "name": "Translation of Crêpe Jambon",
+            "description": "Translation of sauce fromage,jambon, oignons frits,laitue,tomate"
+        },
+        "Crêpe Mix fromagère": {
+            "name": "Translation of Crêpe Mix fromagère",
+            "description": "Translation of sauce fromage,fromage cheddar, mozzarella,fromag rouge"
+        },
+        "Crêpe Spéciale": {
+            "name": "Translation of Crêpe Spéciale",
+            "description": "Translation of viande haché, dinde, jambon, sauce fromage, champignon, fromage, oignons frits,laitue,tomate,frites"
+        },
+        "Salade fruits": {
+            "name": "Translation of Salade fruits",
+            "description": "Translation of None"
+        },
+        "Cheesecake Fromage": {
+            "name": "Translation of Cheesecake Fromage",
+            "description": "Translation of None"
+        },
+        "Cheesecake Café": {
+            "name": "Translation of Cheesecake Café",
+            "description": "Translation of None"
+        },
+        "Cheesecake Orio": {
+            "name": "Translation of Cheesecake Orio",
+            "description": "Translation of None"
+        },
+        "Cheesecake Fraise": {
+            "name": "Translation of Cheesecake Fraise",
+            "description": "Translation of None"
+        },
+        "Sandwich Œuf": {
+            "name": "Translation of Sandwich Œuf",
+            "description": "Translation of sauce fromage, œuf, charcuterie, fromage, tomate, laitue"
+        },
+        "Sandwich Poulet": {
+            "name": "Translation of Sandwich Poulet",
+            "description": "Translation of sauce fromage, laitue, tomate, poulet, fromage"
+        },
+        "Sandwich Thon": {
+            "name": "Translation of Sandwich Thon",
+            "description": "Translation of sauce fromage, laitue, tomate, thon"
+        },
+        "Sandwich Viande hachée": {
+            "name": "Translation of Sandwich Viande hachée",
+            "description": "Translation of viande haché, formage, laitue, tomate, sauce fromage"
+        },
+        "Sandwich Escalopes": {
+            "name": "Translation of Sandwich Escalopes",
+            "description": "Translation of escalopes,sauce fromage, laitue, tomate, fromage"
+        },
+        "Sandwich Croque-monsieur": {
+            "name": "Translation of Sandwich Croque-monsieur",
+            "description": "Translation of sauce fromage, mozzarelle, fromage, jambon"
+        },
+        "Sandwich Croque-madame": {
+            "name": "Translation of Sandwich Croque-madame",
+            "description": "Translation of sauce fromage, mozzarelle, fromage, jambon, œuf"
+        },
+        "Jus Orange": {
+            "name": "Translation of Jus Orange",
+            "description": "Translation of Size:500cl"
+        },
+        "Jus Banane": {
+            "name": "Translation of Jus Banane",
+            "description": "Translation of Size:500cl"
+        },
+        "Jus Citron": {
+            "name": "Translation of Jus Citron",
+            "description": "Translation of Size: 500cl"
+        },
+        "Jus Fruit rouge": {
+            "name": "Translation of Jus Fruit rouge",
+            "description": "Translation of Size: 500cl"
+        },
+        "Jus Pomme": {
+            "name": "Translation of Jus Pomme",
+            "description": "Translation of Size: 500cl"
+        },
+        "Jus Mangue": {
+            "name": "Translation of Jus Mangue",
+            "description": "Translation of Size: 500cl"
+        },
+        "Jus Ananas": {
+            "name": "Translation of Jus Ananas",
+            "description": "Translation of Size: 500cl"
+        },
+        "Jus Avocat": {
+            "name": "Translation of Jus Avocat",
+            "description": "Translation of Size: 500cl"
+        },
+        "Jus Exotique": {
+            "name": "Translation of Jus Exotique",
+            "description": "Translation of Size: 500cl"
+        },
+        "Jus Citron gingembre menthe": {
+            "name": "Translation of Jus Citron gingembre menthe",
+            "description": "Translation of Size : 500cl"
+        },
+        "Jus Cocktails de fruits": {
+            "name": "Translation of Jus Cocktails de fruits",
+            "description": "Translation of Size: 500cl"
+        },
+        "Cocktail Pinna colada": {
+            "name": "Translation of Cocktail Pinna colada",
+            "description": "Translation of Orange,Ananas,vanilla,lait coco,grenadine"
+        },
+        "Cocktail Bleu marine": {
+            "name": "Translation of Cocktail Bleu marine",
+            "description": "Translation of Noisette,citron vert,bleu corassan,sprait"
+        },
+        "Cocktail Bleu Paradise": {
+            "name": "Translation of Cocktail Bleu Paradise",
+            "description": "Translation of Ananas,vanilla,lait coco,bleu corassa"
+        },
+        "Cocktail Virgin Colada": {
+            "name": "Translation of Cocktail Virgin Colada",
+            "description": "Translation of Lait,ananas,lait coco,vanilla,cream liquid"
+        },
+        "Cocktail Special": {
+            "name": "Translation of Cocktail Special",
+            "description": "Translation of Cream soda,blue coraca,grenadine,cream"
+        },
+        "Sweet Smoothies": {
+            "name": "Translation of Sweet Smoothies",
+            "description": "Translation of Mangue, pomme, menthe, orange"
+        },
+        "Tropical Smoothies": {
+            "name": "Translation of Tropical Smoothies",
+            "description": "Translation of Ananas, banane, orange"
+        },
+        "Paradis Smoothies": {
+            "name": "Translation of Paradis Smoothies",
+            "description": "Translation of Fraise, mangue, orange"
+        },
+        "Steel-blue Smoothies": {
+            "name": "Translation of Steel-blue Smoothies",
+            "description": "Translation of Purée de fraise, mangue banane"
+        },
+        "Milk shakes Chocolat": {
+            "name": "Translation of Milk shakes Chocolat",
+            "description": "Translation of None"
+        },
+        "Milk shakes Caramel": {
+            "name": "Translation of Milk shakes Caramel",
+            "description": "Translation of None"
+        },
+        "Milk shakes Vanille": {
+            "name": "Translation of Milk shakes Vanille",
+            "description": "Translation of None"
+        },
+        "Milk shakes Fraise": {
+            "name": "Translation of Milk shakes Fraise",
+            "description": "Translation of None"
+        },
+        "Milk shakes Orio": {
+            "name": "Translation of Milk shakes Orio",
+            "description": "Translation of None"
+        },
+        "Milk shakes Kitkat": {
+            "name": "Translation of Milk shakes Kitkat",
+            "description": "Translation of None"
+        },
+        "Milk shakes Nutella": {
+            "name": "Translation of Milk shakes Nutella",
+            "description": "Translation of None"
+        },
+        "Milk shakes Magnum": {
+            "name": "Translation of Milk shakes Magnum",
+            "description": "Translation of None"
+        },
+        "Classic Virgin Mojito": {
+            "name": "Translation of Classic Virgin Mojito",
+            "description": "Translation of Citron vert, menthe, soda, Sucre de canne"
+        },
+        "Black Mojito": {
+            "name": "Translation of Black Mojito",
+            "description": "Translation of Citron, menthe, Coca-Cola"
+        },
+        "Red Bull Mojito": {
+            "name": "Translation of Red Bull Mojito",
+            "description": "Translation of Citron, menthe, red bull"
+        },
+        "Yellow Virgin Mojito": {
+            "name": "Translation of Yellow Virgin Mojito",
+            "description": "Translation of Citron, Menthe, Fruit de la passion, Mangue, Soda"
+        },
+        "Energy": {
+            "name": "Translation of Energy",
+            "description": "Translation of Orange,betterave,gingembre,citron vert,miel"
+        },
+        "Good morning": {
+            "name": "Translation of Good morning",
+            "description": "Translation of Pomme,carotte,ananas,gingembre,miel"
+        },
+        "Vert vitamine": {
+            "name": "Translation of Vert vitamine",
+            "description": "Translation of Kiwi,menthe,citron vert,gingembre,orange"
+        },
+        "Merci": {
+            "name": "Translation of Merci",
+            "description": "Translation of Avocat,pomme,concombre,citron vert,miel"
+        },
+        "Eau plate": {
+            "name": "Translation of Eau plate",
+            "description": "Translation of 50cl"
+        },
+        "Eau gazeuse": {
+            "name": "Translation of Eau gazeuse",
+            "description": "Translation of None"
+        },
+        "Soda": {
+            "name": "Translation of Soda",
+            "description": "Translation of None"
+        },
+        "Le Tradi": {
+            "name": "Translation of Le Tradi",
+            "description": "Translation of Boisson chaude au choix, Tajine au khelii, 2 hercha (normal et avec les olives), 1msemna, Panier de Pain accompagnement (huile d’olive, miel, Confiture, Olive), salade fruits, Jus d’orange,Hsoua."
+        },
+        "American taste": {
+            "name": "Translation of American taste",
+            "description": "Translation of Boisson chaude au choix, 2 Tartine au œuf et fromage, Brochette dinde, Saucisse, Salade verte, 3 Croquettes, 2 Pancake au miel, Salade fruits, Panier de Pain accompagnement (Miel,Confiture,Olive), jus d’orange,Hsoua."
+        },
+        "MERCI (2 personne)": {
+            "name": "Translation of MERCI (2 personne)",
+            "description": "Translation of 2 boisson chaude au choix, 2 Tartine au fromage, 2 Tartine avocat, 2 Tartine œuf et jben, 2 msimnat, 2 hricha, 3 viennoiseries, tajine khelii, 2 Pancake au miel, 4 croquette, Panier de Pain accompagnement (huile d’olive, miel, Confiture, Olive), 2 Salade fruits, 2 Jus d’orange, 2 hssoua."
+        },
+        "Croquer (4pc)": {
+            "name": "Translation of Croquer (4pc)",
+            "description": "Translation of None"
+        },
+        "Mesman": {
+            "name": "Translation of Mesman",
+            "description": "Translation of None"
+        },
+        "harcha": {
+            "name": "Translation of harcha",
+            "description": "Translation of None"
+        },
+        "Viennoiserie (3pc)": {
+            "name": "Translation of Viennoiserie (3pc)",
+            "description": "Translation of None"
+        },
+        "Amlou": {
+            "name": "Translation of Amlou",
+            "description": "Translation of None"
+        },
+        "Miel": {
+            "name": "Translation of Miel",
+            "description": "Translation of None"
+        },
+        "Confiture": {
+            "name": "Translation of Confiture",
+            "description": "Translation of None"
+        },
+        "Olives": {
+            "name": "Translation of Olives",
+            "description": "Translation of None"
+        },
+        "Huile d’olives": {
+            "name": "Translation of Huile d’olives",
+            "description": "Translation of None"
+        },
+        "Jben": {
+            "name": "Translation of Jben",
+            "description": "Translation of None"
+        },
+        "Omelette fromage": {
+            "name": "Translation of Omelette fromage",
+            "description": "Translation of None"
+        },
+        "Omelette jambon": {
+            "name": "Translation of Omelette jambon",
+            "description": "Translation of None"
+        },
+        "Omelette champignon": {
+            "name": "Translation of Omelette champignon",
+            "description": "Translation of None"
+        },
+        "Omelette normale": {
+            "name": "Translation of Omelette normale",
+            "description": "Translation of None"
+        },
+        "Tagine khelii": {
+            "name": "Translation of Tagine khelii",
+            "description": "Translation of None"
+        },
+        "Tagine crevette": {
+            "name": "Translation of Tagine crevette",
+            "description": "Translation of None"
+        },
+        "Tagine œuf & Tomate": {
+            "name": "Translation of Tagine œuf & Tomate",
+            "description": "Translation of None"
+        },
+        "Tagine viande haché": {
+            "name": "Translation of Tagine viande haché",
+            "description": "Translation of None"
+        }
+    },
+    "中文": {
+        "Taktouka": {
+            "name": "中文翻译 Taktouka",
+            "description": "中文翻译 is a traditional Moroccan savory dish and spread made from tomatoes, bell peppers, garlic, toasted paprika and olive oil.[1][2] Taktouka is an extremely popular dish and can be found in many restaurant in different parts of Morocco."
+        },
+        "Kalinte": {
+            "name": "中文翻译 Kalinte",
+            "description": "中文翻译 Kalinte, kalentica, karane, etc., so many ways to call this dish! All these appellations refer to the Spanish word “caliente” - which means warm - for the simple reason that this silky and smooth chickpea pie is meant to be enjoyed warm. In a way, we coul"
+        },
+        "Moroccan tea": {
+            "name": "中文翻译 Moroccan tea",
+            "description": "中文翻译 is a North African preparation of gunpowder green tea with spearmint leaves and sugar. It is traditional to the Greater Maghreb region."
+        },
+        "tajine": {
+            "name": "中文翻译 tajine",
+            "description": "中文翻译 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has su"
+        },
+        "BEEF KEBAB": {
+            "name": "中文翻译 BEEF KEBAB",
+            "description": "中文翻译 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has su"
+        },
+        "Whole braised chicken with lemon and olives": {
+            "name": "中文翻译 Whole braised chicken with lemon and olives",
+            "description": "中文翻译 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has su"
+        },
+        "Couscous": {
+            "name": "中文翻译 Couscous",
+            "description": "中文翻译 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has su"
+        },
+        "Moroccan Chicken with Apricot and Olive Relish": {
+            "name": "中文翻译 Moroccan Chicken with Apricot and Olive Relish",
+            "description": "中文翻译 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has su"
+        },
+        "Fiery Moroccan Lamb Merguez": {
+            "name": "中文翻译 Fiery Moroccan Lamb Merguez",
+            "description": "中文翻译 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has su"
+        },
+        "Iced latte": {
+            "name": "中文翻译 Iced latte",
+            "description": "中文翻译 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+        },
+        "Café Noir": {
+            "name": "中文翻译 Café Noir",
+            "description": "中文翻译 None"
+        },
+        "Café Nespresso": {
+            "name": "中文翻译 Café Nespresso",
+            "description": "中文翻译 None"
+        },
+        "Café Noir Aromatisé": {
+            "name": "中文翻译 Café Noir Aromatisé",
+            "description": "中文翻译 None"
+        },
+        "Thé à la menthe": {
+            "name": "中文翻译 Thé à la menthe",
+            "description": "中文翻译 None"
+        },
+        "Verveine": {
+            "name": "中文翻译 Verveine",
+            "description": "中文翻译 Lait,Thé,Eau"
+        },
+        "The infusion": {
+            "name": "中文翻译 The infusion",
+            "description": "中文翻译 None"
+        },
+        "Normal capuccino": {
+            "name": "中文翻译 Normal capuccino",
+            "description": "中文翻译 None"
+        },
+        "Vanilla cappuccino": {
+            "name": "中文翻译 Vanilla cappuccino",
+            "description": "中文翻译 None"
+        },
+        "Cappuccino noisette": {
+            "name": "中文翻译 Cappuccino noisette",
+            "description": "中文翻译 None"
+        },
+        "Cappuccino caramel": {
+            "name": "中文翻译 Cappuccino caramel",
+            "description": "中文翻译 None"
+        },
+        "Frappuccino Caramel": {
+            "name": "中文翻译 Frappuccino Caramel",
+            "description": "中文翻译 None"
+        },
+        "Frappuccino noisette": {
+            "name": "中文翻译 Frappuccino noisette",
+            "description": "中文翻译 None"
+        },
+        "Frappuccino chocolat": {
+            "name": "中文翻译 Frappuccino chocolat",
+            "description": "中文翻译 None"
+        },
+        "Café au lait": {
+            "name": "中文翻译 Café au lait",
+            "description": "中文翻译 None"
+        },
+        "Vanilla latte": {
+            "name": "中文翻译 Vanilla latte",
+            "description": "中文翻译 None"
+        },
+        "Caramel latte": {
+            "name": "中文翻译 Caramel latte",
+            "description": "中文翻译 None"
+        },
+        "Latte noisette": {
+            "name": "中文翻译 Latte noisette",
+            "description": "中文翻译 None"
+        },
+        "Chocolat Chaud": {
+            "name": "中文翻译 Chocolat Chaud",
+            "description": "中文翻译 None"
+        },
+        "Ice tea Orange & Cannelle": {
+            "name": "中文翻译 Ice tea Orange & Cannelle",
+            "description": "中文翻译 None"
+        },
+        "Ice tea Fruit rouge": {
+            "name": "中文翻译 Ice tea Fruit rouge",
+            "description": "中文翻译 None"
+        },
+        "Ice tea Vanille & miel": {
+            "name": "中文翻译 Ice tea Vanille & miel",
+            "description": "中文翻译 None"
+        },
+        "Ice coffee Caramel": {
+            "name": "中文翻译 Ice coffee Caramel",
+            "description": "中文翻译 None"
+        },
+        "Ice coffee Chocolat": {
+            "name": "中文翻译 Ice coffee Chocolat",
+            "description": "中文翻译 None"
+        },
+        "Ice coffee Vanilla": {
+            "name": "中文翻译 Ice coffee Vanilla",
+            "description": "中文翻译 None"
+        },
+        "Chocolat Fondue": {
+            "name": "中文翻译 Chocolat Fondue",
+            "description": "中文翻译 None"
+        },
+        "Vennoie": {
+            "name": "中文翻译 Vennoie",
+            "description": "中文翻译 None"
+        },
+        "Orio": {
+            "name": "中文翻译 Orio",
+            "description": "中文翻译 None"
+        },
+        "Kitkat": {
+            "name": "中文翻译 Kitkat",
+            "description": "中文翻译 None"
+        },
+        "Fitness": {
+            "name": "中文翻译 Fitness",
+            "description": "中文翻译 Boisson chaude au choix, 2 Tartine avocat jambon et fromage, 2 Œuf au plat, 2 Pancake au miel et fruits sec, 3 Croquette, salade verte, salade fruit, Panier de Pain accompagnement (Miel,Jben,Confiture,Olive),Jus d’orange,Hsoua."
+        },
+        "Personnel": {
+            "name": "中文翻译 Personnel",
+            "description": "中文翻译 Boisson chaude au choix,Pain grillé avec Accompagnement(Miel,Confiture,Jben),Jus d’orange,Hsoua."
+        },
+        "Express": {
+            "name": "中文翻译 Express",
+            "description": "中文翻译 Boisson chaude au choix, 3 Viennoiseries,Panier de Pain Accompagnement (Jben,miel,confiture),Jus d’orange,Hsoua."
+        },
+        "Nature": {
+            "name": "中文翻译 Nature",
+            "description": "中文翻译 Boisson chaude au choix,Omlette Nature, Panier de Pain Accompagnement(Huile d’olive, Olive, Jben )Jus d’orange,Hsoua."
+        },
+        "Pancake Nutella": {
+            "name": "中文翻译 Pancake Nutella",
+            "description": "中文翻译 Sauce Nutella"
+        },
+        "Pancake Caramel": {
+            "name": "中文翻译 Pancake Caramel",
+            "description": "中文翻译 Sauce caramel, Sauce Nutella"
+        },
+        "Pancake Banano": {
+            "name": "中文翻译 Pancake Banano",
+            "description": "中文翻译 Sauce Nutella, banane"
+        },
+        "Pancake Oreo": {
+            "name": "中文翻译 Pancake Oreo",
+            "description": "中文翻译 Sauce Nutella, oreo"
+        },
+        "Pancake Lotus": {
+            "name": "中文翻译 Pancake Lotus",
+            "description": "中文翻译 Sauce Nutella, lotus, boule de glace"
+        },
+        "Pancake Trois chocolats": {
+            "name": "中文翻译 Pancake Trois chocolats",
+            "description": "中文翻译 Sauce Nutella, Sauce Chocolat Noir, Sauce Chocolat Blanc"
+        },
+        "Pancake Frutti": {
+            "name": "中文翻译 Pancake Frutti",
+            "description": "中文翻译 Sauce Nutella, Fruits De Saisons"
+        },
+        "Pancake Fruit Sec": {
+            "name": "中文翻译 Pancake Fruit Sec",
+            "description": "中文翻译 Sauce Nutella, Fruits sec"
+        },
+        "Crêpe Nutella": {
+            "name": "中文翻译 Crêpe Nutella",
+            "description": "中文翻译 Sauce Nutella"
+        },
+        "Crêpe Caramel": {
+            "name": "中文翻译 Crêpe Caramel",
+            "description": "中文翻译 Sauce caramel, Sauce Nutella"
+        },
+        "Crêpe Banano": {
+            "name": "中文翻译 Crêpe Banano",
+            "description": "中文翻译 Sauce Nutella, banane"
+        },
+        "Crêpe Oreo": {
+            "name": "中文翻译 Crêpe Oreo",
+            "description": "中文翻译 Sauce Nutella, oreo"
+        },
+        "Crêpe Lotus": {
+            "name": "中文翻译 Crêpe Lotus",
+            "description": "中文翻译 Sauce Nutella, lotus, boule de glace"
+        },
+        "Trois chocolats": {
+            "name": "中文翻译 Trois chocolats",
+            "description": "中文翻译 Sauce Nutella, Sauce Chocolat Noir, Sauce Chocolat Blanc"
+        },
+        "Crêpe Frutti": {
+            "name": "中文翻译 Crêpe Frutti",
+            "description": "中文翻译 Sauce Nutella, Fruits De Saisons"
+        },
+        "Crêpe Fruit Sec": {
+            "name": "中文翻译 Crêpe Fruit Sec",
+            "description": "中文翻译 Sauce Nutella, Fruits sec"
+        },
+        "Gaufre Nutella": {
+            "name": "中文翻译 Gaufre Nutella",
+            "description": "中文翻译 Sauce Nutella"
+        },
+        "Gaufre Caramel": {
+            "name": "中文翻译 Gaufre Caramel",
+            "description": "中文翻译 Sauce caramel, Sauce Nutella"
+        },
+        "Gaufre Banano": {
+            "name": "中文翻译 Gaufre Banano",
+            "description": "中文翻译 Sauce Nutella, banane"
+        },
+        "Gaufre Oreo": {
+            "name": "中文翻译 Gaufre Oreo",
+            "description": "中文翻译 Sauce Nutella, oreo"
+        },
+        "Gaufre Lotus": {
+            "name": "中文翻译 Gaufre Lotus",
+            "description": "中文翻译 Sauce Nutella, lotus, boule de glace"
+        },
+        "Gaufre Trois chocolats": {
+            "name": "中文翻译 Gaufre Trois chocolats",
+            "description": "中文翻译 Sauce Nutella, Sauce Chocolat Noir, Sauce Chocolat Blanc"
+        },
+        "Gaufre Frutti": {
+            "name": "中文翻译 Gaufre Frutti",
+            "description": "中文翻译 Sauce Nutella, Fruits De Saisons"
+        },
+        "Gaufre Fruit Sec": {
+            "name": "中文翻译 Gaufre Fruit Sec",
+            "description": "中文翻译 Sauce Nutella, Fruits sec"
+        },
+        "Crêpe Dinde": {
+            "name": "中文翻译 Crêpe Dinde",
+            "description": "中文翻译 dinde,sauce fromage, champignon,fromage,oignons frits,laitue,tomate"
+        },
+        "Crêpe Viande Hachée": {
+            "name": "中文翻译 Crêpe Viande Hachée",
+            "description": "中文翻译 sauce fromage,viande haché,fromage,oignons frits,laitue,tomate"
+        },
+        "Crêpe Jambon": {
+            "name": "中文翻译 Crêpe Jambon",
+            "description": "中文翻译 sauce fromage,jambon, oignons frits,laitue,tomate"
+        },
+        "Crêpe Mix fromagère": {
+            "name": "中文翻译 Crêpe Mix fromagère",
+            "description": "中文翻译 sauce fromage,fromage cheddar, mozzarella,fromag rouge"
+        },
+        "Crêpe Spéciale": {
+            "name": "中文翻译 Crêpe Spéciale",
+            "description": "中文翻译 viande haché, dinde, jambon, sauce fromage, champignon, fromage, oignons frits,laitue,tomate,frites"
+        },
+        "Salade fruits": {
+            "name": "中文翻译 Salade fruits",
+            "description": "中文翻译 None"
+        },
+        "Cheesecake Fromage": {
+            "name": "中文翻译 Cheesecake Fromage",
+            "description": "中文翻译 None"
+        },
+        "Cheesecake Café": {
+            "name": "中文翻译 Cheesecake Café",
+            "description": "中文翻译 None"
+        },
+        "Cheesecake Orio": {
+            "name": "中文翻译 Cheesecake Orio",
+            "description": "中文翻译 None"
+        },
+        "Cheesecake Fraise": {
+            "name": "中文翻译 Cheesecake Fraise",
+            "description": "中文翻译 None"
+        },
+        "Sandwich Œuf": {
+            "name": "中文翻译 Sandwich Œuf",
+            "description": "中文翻译 sauce fromage, œuf, charcuterie, fromage, tomate, laitue"
+        },
+        "Sandwich Poulet": {
+            "name": "中文翻译 Sandwich Poulet",
+            "description": "中文翻译 sauce fromage, laitue, tomate, poulet, fromage"
+        },
+        "Sandwich Thon": {
+            "name": "中文翻译 Sandwich Thon",
+            "description": "中文翻译 sauce fromage, laitue, tomate, thon"
+        },
+        "Sandwich Viande hachée": {
+            "name": "中文翻译 Sandwich Viande hachée",
+            "description": "中文翻译 viande haché, formage, laitue, tomate, sauce fromage"
+        },
+        "Sandwich Escalopes": {
+            "name": "中文翻译 Sandwich Escalopes",
+            "description": "中文翻译 escalopes,sauce fromage, laitue, tomate, fromage"
+        },
+        "Sandwich Croque-monsieur": {
+            "name": "中文翻译 Sandwich Croque-monsieur",
+            "description": "中文翻译 sauce fromage, mozzarelle, fromage, jambon"
+        },
+        "Sandwich Croque-madame": {
+            "name": "中文翻译 Sandwich Croque-madame",
+            "description": "中文翻译 sauce fromage, mozzarelle, fromage, jambon, œuf"
+        },
+        "Jus Orange": {
+            "name": "中文翻译 Jus Orange",
+            "description": "中文翻译 Size:500cl"
+        },
+        "Jus Banane": {
+            "name": "中文翻译 Jus Banane",
+            "description": "中文翻译 Size:500cl"
+        },
+        "Jus Citron": {
+            "name": "中文翻译 Jus Citron",
+            "description": "中文翻译 Size: 500cl"
+        },
+        "Jus Fruit rouge": {
+            "name": "中文翻译 Jus Fruit rouge",
+            "description": "中文翻译 Size: 500cl"
+        },
+        "Jus Pomme": {
+            "name": "中文翻译 Jus Pomme",
+            "description": "中文翻译 Size: 500cl"
+        },
+        "Jus Mangue": {
+            "name": "中文翻译 Jus Mangue",
+            "description": "中文翻译 Size: 500cl"
+        },
+        "Jus Ananas": {
+            "name": "中文翻译 Jus Ananas",
+            "description": "中文翻译 Size: 500cl"
+        },
+        "Jus Avocat": {
+            "name": "中文翻译 Jus Avocat",
+            "description": "中文翻译 Size: 500cl"
+        },
+        "Jus Exotique": {
+            "name": "中文翻译 Jus Exotique",
+            "description": "中文翻译 Size: 500cl"
+        },
+        "Jus Citron gingembre menthe": {
+            "name": "中文翻译 Jus Citron gingembre menthe",
+            "description": "中文翻译 Size : 500cl"
+        },
+        "Jus Cocktails de fruits": {
+            "name": "中文翻译 Jus Cocktails de fruits",
+            "description": "中文翻译 Size: 500cl"
+        },
+        "Cocktail Pinna colada": {
+            "name": "中文翻译 Cocktail Pinna colada",
+            "description": "中文翻译 Orange,Ananas,vanilla,lait coco,grenadine"
+        },
+        "Cocktail Bleu marine": {
+            "name": "中文翻译 Cocktail Bleu marine",
+            "description": "中文翻译 Noisette,citron vert,bleu corassan,sprait"
+        },
+        "Cocktail Bleu Paradise": {
+            "name": "中文翻译 Cocktail Bleu Paradise",
+            "description": "中文翻译 Ananas,vanilla,lait coco,bleu corassa"
+        },
+        "Cocktail Virgin Colada": {
+            "name": "中文翻译 Cocktail Virgin Colada",
+            "description": "中文翻译 Lait,ananas,lait coco,vanilla,cream liquid"
+        },
+        "Cocktail Special": {
+            "name": "中文翻译 Cocktail Special",
+            "description": "中文翻译 Cream soda,blue coraca,grenadine,cream"
+        },
+        "Sweet Smoothies": {
+            "name": "中文翻译 Sweet Smoothies",
+            "description": "中文翻译 Mangue, pomme, menthe, orange"
+        },
+        "Tropical Smoothies": {
+            "name": "中文翻译 Tropical Smoothies",
+            "description": "中文翻译 Ananas, banane, orange"
+        },
+        "Paradis Smoothies": {
+            "name": "中文翻译 Paradis Smoothies",
+            "description": "中文翻译 Fraise, mangue, orange"
+        },
+        "Steel-blue Smoothies": {
+            "name": "中文翻译 Steel-blue Smoothies",
+            "description": "中文翻译 Purée de fraise, mangue banane"
+        },
+        "Milk shakes Chocolat": {
+            "name": "中文翻译 Milk shakes Chocolat",
+            "description": "中文翻译 None"
+        },
+        "Milk shakes Caramel": {
+            "name": "中文翻译 Milk shakes Caramel",
+            "description": "中文翻译 None"
+        },
+        "Milk shakes Vanille": {
+            "name": "中文翻译 Milk shakes Vanille",
+            "description": "中文翻译 None"
+        },
+        "Milk shakes Fraise": {
+            "name": "中文翻译 Milk shakes Fraise",
+            "description": "中文翻译 None"
+        },
+        "Milk shakes Orio": {
+            "name": "中文翻译 Milk shakes Orio",
+            "description": "中文翻译 None"
+        },
+        "Milk shakes Kitkat": {
+            "name": "中文翻译 Milk shakes Kitkat",
+            "description": "中文翻译 None"
+        },
+        "Milk shakes Nutella": {
+            "name": "中文翻译 Milk shakes Nutella",
+            "description": "中文翻译 None"
+        },
+        "Milk shakes Magnum": {
+            "name": "中文翻译 Milk shakes Magnum",
+            "description": "中文翻译 None"
+        },
+        "Classic Virgin Mojito": {
+            "name": "中文翻译 Classic Virgin Mojito",
+            "description": "中文翻译 Citron vert, menthe, soda, Sucre de canne"
+        },
+        "Black Mojito": {
+            "name": "中文翻译 Black Mojito",
+            "description": "中文翻译 Citron, menthe, Coca-Cola"
+        },
+        "Red Bull Mojito": {
+            "name": "中文翻译 Red Bull Mojito",
+            "description": "中文翻译 Citron, menthe, red bull"
+        },
+        "Yellow Virgin Mojito": {
+            "name": "中文翻译 Yellow Virgin Mojito",
+            "description": "中文翻译 Citron, Menthe, Fruit de la passion, Mangue, Soda"
+        },
+        "Energy": {
+            "name": "中文翻译 Energy",
+            "description": "中文翻译 Orange,betterave,gingembre,citron vert,miel"
+        },
+        "Good morning": {
+            "name": "中文翻译 Good morning",
+            "description": "中文翻译 Pomme,carotte,ananas,gingembre,miel"
+        },
+        "Vert vitamine": {
+            "name": "中文翻译 Vert vitamine",
+            "description": "中文翻译 Kiwi,menthe,citron vert,gingembre,orange"
+        },
+        "Merci": {
+            "name": "中文翻译 Merci",
+            "description": "中文翻译 Avocat,pomme,concombre,citron vert,miel"
+        },
+        "Eau plate": {
+            "name": "中文翻译 Eau plate",
+            "description": "中文翻译 50cl"
+        },
+        "Eau gazeuse": {
+            "name": "中文翻译 Eau gazeuse",
+            "description": "中文翻译 None"
+        },
+        "Soda": {
+            "name": "中文翻译 Soda",
+            "description": "中文翻译 None"
+        },
+        "Le Tradi": {
+            "name": "中文翻译 Le Tradi",
+            "description": "中文翻译 Boisson chaude au choix, Tajine au khelii, 2 hercha (normal et avec les olives), 1msemna, Panier de Pain accompagnement (huile d’olive, miel, Confiture, Olive), salade fruits, Jus d’orange,Hsoua."
+        },
+        "American taste": {
+            "name": "中文翻译 American taste",
+            "description": "中文翻译 Boisson chaude au choix, 2 Tartine au œuf et fromage, Brochette dinde, Saucisse, Salade verte, 3 Croquettes, 2 Pancake au miel, Salade fruits, Panier de Pain accompagnement (Miel,Confiture,Olive), jus d’orange,Hsoua."
+        },
+        "MERCI (2 personne)": {
+            "name": "中文翻译 MERCI (2 personne)",
+            "description": "中文翻译 2 boisson chaude au choix, 2 Tartine au fromage, 2 Tartine avocat, 2 Tartine œuf et jben, 2 msimnat, 2 hricha, 3 viennoiseries, tajine khelii, 2 Pancake au miel, 4 croquette, Panier de Pain accompagnement (huile d’olive, miel, Confiture, Olive), 2 Salade fruits, 2 Jus d’orange, 2 hssoua."
+        },
+        "Croquer (4pc)": {
+            "name": "中文翻译 Croquer (4pc)",
+            "description": "中文翻译 None"
+        },
+        "Mesman": {
+            "name": "中文翻译 Mesman",
+            "description": "中文翻译 None"
+        },
+        "harcha": {
+            "name": "中文翻译 harcha",
+            "description": "中文翻译 None"
+        },
+        "Viennoiserie (3pc)": {
+            "name": "中文翻译 Viennoiserie (3pc)",
+            "description": "中文翻译 None"
+        },
+        "Amlou": {
+            "name": "中文翻译 Amlou",
+            "description": "中文翻译 None"
+        },
+        "Miel": {
+            "name": "中文翻译 Miel",
+            "description": "中文翻译 None"
+        },
+        "Confiture": {
+            "name": "中文翻译 Confiture",
+            "description": "中文翻译 None"
+        },
+        "Olives": {
+            "name": "中文翻译 Olives",
+            "description": "中文翻译 None"
+        },
+        "Huile d’olives": {
+            "name": "中文翻译 Huile d’olives",
+            "description": "中文翻译 None"
+        },
+        "Jben": {
+            "name": "中文翻译 Jben",
+            "description": "中文翻译 None"
+        },
+        "Omelette fromage": {
+            "name": "中文翻译 Omelette fromage",
+            "description": "中文翻译 None"
+        },
+        "Omelette jambon": {
+            "name": "中文翻译 Omelette jambon",
+            "description": "中文翻译 None"
+        },
+        "Omelette champignon": {
+            "name": "中文翻译 Omelette champignon",
+            "description": "中文翻译 None"
+        },
+        "Omelette normale": {
+            "name": "中文翻译 Omelette normale",
+            "description": "中文翻译 None"
+        },
+        "Tagine khelii": {
+            "name": "中文翻译 Tagine khelii",
+            "description": "中文翻译 None"
+        },
+        "Tagine crevette": {
+            "name": "中文翻译 Tagine crevette",
+            "description": "中文翻译 None"
+        },
+        "Tagine œuf & Tomate": {
+            "name": "中文翻译 Tagine œuf & Tomate",
+            "description": "中文翻译 None"
+        },
+        "Tagine viande haché": {
+            "name": "中文翻译 Tagine viande haché",
+            "description": "中文翻译 None"
+        }
+    },
+    "Español": {
+        "Taktouka": {
+            "name": "Traducción de Taktouka",
+            "description": "Traducción de is a traditional Moroccan savory dish and spread made from tomatoes, bell peppers, garlic, toasted paprika and olive oil.[1][2] Taktouka is an extremely popular dish and can be found in many restaurant in different parts of Morocco."
+        },
+        "Kalinte": {
+            "name": "Traducción de Kalinte",
+            "description": "Traducción de Kalinte, kalentica, karane, etc., so many ways to call this dish! All these appellations refer to the Spanish word “caliente” - which means warm - for the simple reason that this silky and smooth chickpea pie is meant to be enjoyed warm. In a way, we coul"
+        },
+        "Moroccan tea": {
+            "name": "Traducción de Moroccan tea",
+            "description": "Traducción de is a North African preparation of gunpowder green tea with spearmint leaves and sugar. It is traditional to the Greater Maghreb region."
+        },
+        "tajine": {
+            "name": "Traducción de tajine",
+            "description": "Traducción de Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has su"
+        },
+        "BEEF KEBAB": {
+            "name": "Traducción de BEEF KEBAB",
+            "description": "Traducción de Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has su"
+        },
+        "Whole braised chicken with lemon and olives": {
+            "name": "Traducción de Whole braised chicken with lemon and olives",
+            "description": "Traducción de Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has su"
+        },
+        "Couscous": {
+            "name": "Traducción de Couscous",
+            "description": "Traducción de Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has su"
+        },
+        "Moroccan Chicken with Apricot and Olive Relish": {
+            "name": "Traducción de Moroccan Chicken with Apricot and Olive Relish",
+            "description": "Traducción de Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has su"
+        },
+        "Fiery Moroccan Lamb Merguez": {
+            "name": "Traducción de Fiery Moroccan Lamb Merguez",
+            "description": "Traducción de Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has su"
+        },
+        "Iced latte": {
+            "name": "Traducción de Iced latte",
+            "description": "Traducción de Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+        },
+        "Café Noir": {
+            "name": "Traducción de Café Noir",
+            "description": "Traducción de None"
+        },
+        "Café Nespresso": {
+            "name": "Traducción de Café Nespresso",
+            "description": "Traducción de None"
+        },
+        "Café Noir Aromatisé": {
+            "name": "Traducción de Café Noir Aromatisé",
+            "description": "Traducción de None"
+        },
+        "Thé à la menthe": {
+            "name": "Traducción de Thé à la menthe",
+            "description": "Traducción de None"
+        },
+        "Verveine": {
+            "name": "Traducción de Verveine",
+            "description": "Traducción de Lait,Thé,Eau"
+        },
+        "The infusion": {
+            "name": "Traducción de The infusion",
+            "description": "Traducción de None"
+        },
+        "Normal capuccino": {
+            "name": "Traducción de Normal capuccino",
+            "description": "Traducción de None"
+        },
+        "Vanilla cappuccino": {
+            "name": "Traducción de Vanilla cappuccino",
+            "description": "Traducción de None"
+        },
+        "Cappuccino noisette": {
+            "name": "Traducción de Cappuccino noisette",
+            "description": "Traducción de None"
+        },
+        "Cappuccino caramel": {
+            "name": "Traducción de Cappuccino caramel",
+            "description": "Traducción de None"
+        },
+        "Frappuccino Caramel": {
+            "name": "Traducción de Frappuccino Caramel",
+            "description": "Traducción de None"
+        },
+        "Frappuccino noisette": {
+            "name": "Traducción de Frappuccino noisette",
+            "description": "Traducción de None"
+        },
+        "Frappuccino chocolat": {
+            "name": "Traducción de Frappuccino chocolat",
+            "description": "Traducción de None"
+        },
+        "Café au lait": {
+            "name": "Traducción de Café au lait",
+            "description": "Traducción de None"
+        },
+        "Vanilla latte": {
+            "name": "Traducción de Vanilla latte",
+            "description": "Traducción de None"
+        },
+        "Caramel latte": {
+            "name": "Traducción de Caramel latte",
+            "description": "Traducción de None"
+        },
+        "Latte noisette": {
+            "name": "Traducción de Latte noisette",
+            "description": "Traducción de None"
+        },
+        "Chocolat Chaud": {
+            "name": "Traducción de Chocolat Chaud",
+            "description": "Traducción de None"
+        },
+        "Ice tea Orange & Cannelle": {
+            "name": "Traducción de Ice tea Orange & Cannelle",
+            "description": "Traducción de None"
+        },
+        "Ice tea Fruit rouge": {
+            "name": "Traducción de Ice tea Fruit rouge",
+            "description": "Traducción de None"
+        },
+        "Ice tea Vanille & miel": {
+            "name": "Traducción de Ice tea Vanille & miel",
+            "description": "Traducción de None"
+        },
+        "Ice coffee Caramel": {
+            "name": "Traducción de Ice coffee Caramel",
+            "description": "Traducción de None"
+        },
+        "Ice coffee Chocolat": {
+            "name": "Traducción de Ice coffee Chocolat",
+            "description": "Traducción de None"
+        },
+        "Ice coffee Vanilla": {
+            "name": "Traducción de Ice coffee Vanilla",
+            "description": "Traducción de None"
+        },
+        "Chocolat Fondue": {
+            "name": "Traducción de Chocolat Fondue",
+            "description": "Traducción de None"
+        },
+        "Vennoie": {
+            "name": "Traducción de Vennoie",
+            "description": "Traducción de None"
+        },
+        "Orio": {
+            "name": "Traducción de Orio",
+            "description": "Traducción de None"
+        },
+        "Kitkat": {
+            "name": "Traducción de Kitkat",
+            "description": "Traducción de None"
+        },
+        "Fitness": {
+            "name": "Traducción de Fitness",
+            "description": "Traducción de Boisson chaude au choix, 2 Tartine avocat jambon et fromage, 2 Œuf au plat, 2 Pancake au miel et fruits sec, 3 Croquette, salade verte, salade fruit, Panier de Pain accompagnement (Miel,Jben,Confiture,Olive),Jus d’orange,Hsoua."
+        },
+        "Personnel": {
+            "name": "Traducción de Personnel",
+            "description": "Traducción de Boisson chaude au choix,Pain grillé avec Accompagnement(Miel,Confiture,Jben),Jus d’orange,Hsoua."
+        },
+        "Express": {
+            "name": "Traducción de Express",
+            "description": "Traducción de Boisson chaude au choix, 3 Viennoiseries,Panier de Pain Accompagnement (Jben,miel,confiture),Jus d’orange,Hsoua."
+        },
+        "Nature": {
+            "name": "Traducción de Nature",
+            "description": "Traducción de Boisson chaude au choix,Omlette Nature, Panier de Pain Accompagnement(Huile d’olive, Olive, Jben )Jus d’orange,Hsoua."
+        },
+        "Pancake Nutella": {
+            "name": "Traducción de Pancake Nutella",
+            "description": "Traducción de Sauce Nutella"
+        },
+        "Pancake Caramel": {
+            "name": "Traducción de Pancake Caramel",
+            "description": "Traducción de Sauce caramel, Sauce Nutella"
+        },
+        "Pancake Banano": {
+            "name": "Traducción de Pancake Banano",
+            "description": "Traducción de Sauce Nutella, banane"
+        },
+        "Pancake Oreo": {
+            "name": "Traducción de Pancake Oreo",
+            "description": "Traducción de Sauce Nutella, oreo"
+        },
+        "Pancake Lotus": {
+            "name": "Traducción de Pancake Lotus",
+            "description": "Traducción de Sauce Nutella, lotus, boule de glace"
+        },
+        "Pancake Trois chocolats": {
+            "name": "Traducción de Pancake Trois chocolats",
+            "description": "Traducción de Sauce Nutella, Sauce Chocolat Noir, Sauce Chocolat Blanc"
+        },
+        "Pancake Frutti": {
+            "name": "Traducción de Pancake Frutti",
+            "description": "Traducción de Sauce Nutella, Fruits De Saisons"
+        },
+        "Pancake Fruit Sec": {
+            "name": "Traducción de Pancake Fruit Sec",
+            "description": "Traducción de Sauce Nutella, Fruits sec"
+        },
+        "Crêpe Nutella": {
+            "name": "Traducción de Crêpe Nutella",
+            "description": "Traducción de Sauce Nutella"
+        },
+        "Crêpe Caramel": {
+            "name": "Traducción de Crêpe Caramel",
+            "description": "Traducción de Sauce caramel, Sauce Nutella"
+        },
+        "Crêpe Banano": {
+            "name": "Traducción de Crêpe Banano",
+            "description": "Traducción de Sauce Nutella, banane"
+        },
+        "Crêpe Oreo": {
+            "name": "Traducción de Crêpe Oreo",
+            "description": "Traducción de Sauce Nutella, oreo"
+        },
+        "Crêpe Lotus": {
+            "name": "Traducción de Crêpe Lotus",
+            "description": "Traducción de Sauce Nutella, lotus, boule de glace"
+        },
+        "Trois chocolats": {
+            "name": "Traducción de Trois chocolats",
+            "description": "Traducción de Sauce Nutella, Sauce Chocolat Noir, Sauce Chocolat Blanc"
+        },
+        "Crêpe Frutti": {
+            "name": "Traducción de Crêpe Frutti",
+            "description": "Traducción de Sauce Nutella, Fruits De Saisons"
+        },
+        "Crêpe Fruit Sec": {
+            "name": "Traducción de Crêpe Fruit Sec",
+            "description": "Traducción de Sauce Nutella, Fruits sec"
+        },
+        "Gaufre Nutella": {
+            "name": "Traducción de Gaufre Nutella",
+            "description": "Traducción de Sauce Nutella"
+        },
+        "Gaufre Caramel": {
+            "name": "Traducción de Gaufre Caramel",
+            "description": "Traducción de Sauce caramel, Sauce Nutella"
+        },
+        "Gaufre Banano": {
+            "name": "Traducción de Gaufre Banano",
+            "description": "Traducción de Sauce Nutella, banane"
+        },
+        "Gaufre Oreo": {
+            "name": "Traducción de Gaufre Oreo",
+            "description": "Traducción de Sauce Nutella, oreo"
+        },
+        "Gaufre Lotus": {
+            "name": "Traducción de Gaufre Lotus",
+            "description": "Traducción de Sauce Nutella, lotus, boule de glace"
+        },
+        "Gaufre Trois chocolats": {
+            "name": "Traducción de Gaufre Trois chocolats",
+            "description": "Traducción de Sauce Nutella, Sauce Chocolat Noir, Sauce Chocolat Blanc"
+        },
+        "Gaufre Frutti": {
+            "name": "Traducción de Gaufre Frutti",
+            "description": "Traducción de Sauce Nutella, Fruits De Saisons"
+        },
+        "Gaufre Fruit Sec": {
+            "name": "Traducción de Gaufre Fruit Sec",
+            "description": "Traducción de Sauce Nutella, Fruits sec"
+        },
+        "Crêpe Dinde": {
+            "name": "Traducción de Crêpe Dinde",
+            "description": "Traducción de dinde,sauce fromage, champignon,fromage,oignons frits,laitue,tomate"
+        },
+        "Crêpe Viande Hachée": {
+            "name": "Traducción de Crêpe Viande Hachée",
+            "description": "Traducción de sauce fromage,viande haché,fromage,oignons frits,laitue,tomate"
+        },
+        "Crêpe Jambon": {
+            "name": "Traducción de Crêpe Jambon",
+            "description": "Traducción de sauce fromage,jambon, oignons frits,laitue,tomate"
+        },
+        "Crêpe Mix fromagère": {
+            "name": "Traducción de Crêpe Mix fromagère",
+            "description": "Traducción de sauce fromage,fromage cheddar, mozzarella,fromag rouge"
+        },
+        "Crêpe Spéciale": {
+            "name": "Traducción de Crêpe Spéciale",
+            "description": "Traducción de viande haché, dinde, jambon, sauce fromage, champignon, fromage, oignons frits,laitue,tomate,frites"
+        },
+        "Salade fruits": {
+            "name": "Traducción de Salade fruits",
+            "description": "Traducción de None"
+        },
+        "Cheesecake Fromage": {
+            "name": "Traducción de Cheesecake Fromage",
+            "description": "Traducción de None"
+        },
+        "Cheesecake Café": {
+            "name": "Traducción de Cheesecake Café",
+            "description": "Traducción de None"
+        },
+        "Cheesecake Orio": {
+            "name": "Traducción de Cheesecake Orio",
+            "description": "Traducción de None"
+        },
+        "Cheesecake Fraise": {
+            "name": "Traducción de Cheesecake Fraise",
+            "description": "Traducción de None"
+        },
+        "Sandwich Œuf": {
+            "name": "Traducción de Sandwich Œuf",
+            "description": "Traducción de sauce fromage, œuf, charcuterie, fromage, tomate, laitue"
+        },
+        "Sandwich Poulet": {
+            "name": "Traducción de Sandwich Poulet",
+            "description": "Traducción de sauce fromage, laitue, tomate, poulet, fromage"
+        },
+        "Sandwich Thon": {
+            "name": "Traducción de Sandwich Thon",
+            "description": "Traducción de sauce fromage, laitue, tomate, thon"
+        },
+        "Sandwich Viande hachée": {
+            "name": "Traducción de Sandwich Viande hachée",
+            "description": "Traducción de viande haché, formage, laitue, tomate, sauce fromage"
+        },
+        "Sandwich Escalopes": {
+            "name": "Traducción de Sandwich Escalopes",
+            "description": "Traducción de escalopes,sauce fromage, laitue, tomate, fromage"
+        },
+        "Sandwich Croque-monsieur": {
+            "name": "Traducción de Sandwich Croque-monsieur",
+            "description": "Traducción de sauce fromage, mozzarelle, fromage, jambon"
+        },
+        "Sandwich Croque-madame": {
+            "name": "Traducción de Sandwich Croque-madame",
+            "description": "Traducción de sauce fromage, mozzarelle, fromage, jambon, œuf"
+        },
+        "Jus Orange": {
+            "name": "Traducción de Jus Orange",
+            "description": "Traducción de Size:500cl"
+        },
+        "Jus Banane": {
+            "name": "Traducción de Jus Banane",
+            "description": "Traducción de Size:500cl"
+        },
+        "Jus Citron": {
+            "name": "Traducción de Jus Citron",
+            "description": "Traducción de Size: 500cl"
+        },
+        "Jus Fruit rouge": {
+            "name": "Traducción de Jus Fruit rouge",
+            "description": "Traducción de Size: 500cl"
+        },
+        "Jus Pomme": {
+            "name": "Traducción de Jus Pomme",
+            "description": "Traducción de Size: 500cl"
+        },
+        "Jus Mangue": {
+            "name": "Traducción de Jus Mangue",
+            "description": "Traducción de Size: 500cl"
+        },
+        "Jus Ananas": {
+            "name": "Traducción de Jus Ananas",
+            "description": "Traducción de Size: 500cl"
+        },
+        "Jus Avocat": {
+            "name": "Traducción de Jus Avocat",
+            "description": "Traducción de Size: 500cl"
+        },
+        "Jus Exotique": {
+            "name": "Traducción de Jus Exotique",
+            "description": "Traducción de Size: 500cl"
+        },
+        "Jus Citron gingembre menthe": {
+            "name": "Traducción de Jus Citron gingembre menthe",
+            "description": "Traducción de Size : 500cl"
+        },
+        "Jus Cocktails de fruits": {
+            "name": "Traducción de Jus Cocktails de fruits",
+            "description": "Traducción de Size: 500cl"
+        },
+        "Cocktail Pinna colada": {
+            "name": "Traducción de Cocktail Pinna colada",
+            "description": "Traducción de Orange,Ananas,vanilla,lait coco,grenadine"
+        },
+        "Cocktail Bleu marine": {
+            "name": "Traducción de Cocktail Bleu marine",
+            "description": "Traducción de Noisette,citron vert,bleu corassan,sprait"
+        },
+        "Cocktail Bleu Paradise": {
+            "name": "Traducción de Cocktail Bleu Paradise",
+            "description": "Traducción de Ananas,vanilla,lait coco,bleu corassa"
+        },
+        "Cocktail Virgin Colada": {
+            "name": "Traducción de Cocktail Virgin Colada",
+            "description": "Traducción de Lait,ananas,lait coco,vanilla,cream liquid"
+        },
+        "Cocktail Special": {
+            "name": "Traducción de Cocktail Special",
+            "description": "Traducción de Cream soda,blue coraca,grenadine,cream"
+        },
+        "Sweet Smoothies": {
+            "name": "Traducción de Sweet Smoothies",
+            "description": "Traducción de Mangue, pomme, menthe, orange"
+        },
+        "Tropical Smoothies": {
+            "name": "Traducción de Tropical Smoothies",
+            "description": "Traducción de Ananas, banane, orange"
+        },
+        "Paradis Smoothies": {
+            "name": "Traducción de Paradis Smoothies",
+            "description": "Traducción de Fraise, mangue, orange"
+        },
+        "Steel-blue Smoothies": {
+            "name": "Traducción de Steel-blue Smoothies",
+            "description": "Traducción de Purée de fraise, mangue banane"
+        },
+        "Milk shakes Chocolat": {
+            "name": "Traducción de Milk shakes Chocolat",
+            "description": "Traducción de None"
+        },
+        "Milk shakes Caramel": {
+            "name": "Traducción de Milk shakes Caramel",
+            "description": "Traducción de None"
+        },
+        "Milk shakes Vanille": {
+            "name": "Traducción de Milk shakes Vanille",
+            "description": "Traducción de None"
+        },
+        "Milk shakes Fraise": {
+            "name": "Traducción de Milk shakes Fraise",
+            "description": "Traducción de None"
+        },
+        "Milk shakes Orio": {
+            "name": "Traducción de Milk shakes Orio",
+            "description": "Traducción de None"
+        },
+        "Milk shakes Kitkat": {
+            "name": "Traducción de Milk shakes Kitkat",
+            "description": "Traducción de None"
+        },
+        "Milk shakes Nutella": {
+            "name": "Traducción de Milk shakes Nutella",
+            "description": "Traducción de None"
+        },
+        "Milk shakes Magnum": {
+            "name": "Traducción de Milk shakes Magnum",
+            "description": "Traducción de None"
+        },
+        "Classic Virgin Mojito": {
+            "name": "Traducción de Classic Virgin Mojito",
+            "description": "Traducción de Citron vert, menthe, soda, Sucre de canne"
+        },
+        "Black Mojito": {
+            "name": "Traducción de Black Mojito",
+            "description": "Traducción de Citron, menthe, Coca-Cola"
+        },
+        "Red Bull Mojito": {
+            "name": "Traducción de Red Bull Mojito",
+            "description": "Traducción de Citron, menthe, red bull"
+        },
+        "Yellow Virgin Mojito": {
+            "name": "Traducción de Yellow Virgin Mojito",
+            "description": "Traducción de Citron, Menthe, Fruit de la passion, Mangue, Soda"
+        },
+        "Energy": {
+            "name": "Traducción de Energy",
+            "description": "Traducción de Orange,betterave,gingembre,citron vert,miel"
+        },
+        "Good morning": {
+            "name": "Traducción de Good morning",
+            "description": "Traducción de Pomme,carotte,ananas,gingembre,miel"
+        },
+        "Vert vitamine": {
+            "name": "Traducción de Vert vitamine",
+            "description": "Traducción de Kiwi,menthe,citron vert,gingembre,orange"
+        },
+        "Merci": {
+            "name": "Traducción de Merci",
+            "description": "Traducción de Avocat,pomme,concombre,citron vert,miel"
+        },
+        "Eau plate": {
+            "name": "Traducción de Eau plate",
+            "description": "Traducción de 50cl"
+        },
+        "Eau gazeuse": {
+            "name": "Traducción de Eau gazeuse",
+            "description": "Traducción de None"
+        },
+        "Soda": {
+            "name": "Traducción de Soda",
+            "description": "Traducción de None"
+        },
+        "Le Tradi": {
+            "name": "Traducción de Le Tradi",
+            "description": "Traducción de Boisson chaude au choix, Tajine au khelii, 2 hercha (normal et avec les olives), 1msemna, Panier de Pain accompagnement (huile d’olive, miel, Confiture, Olive), salade fruits, Jus d’orange,Hsoua."
+        },
+        "American taste": {
+            "name": "Traducción de American taste",
+            "description": "Traducción de Boisson chaude au choix, 2 Tartine au œuf et fromage, Brochette dinde, Saucisse, Salade verte, 3 Croquettes, 2 Pancake au miel, Salade fruits, Panier de Pain accompagnement (Miel,Confiture,Olive), jus d’orange,Hsoua."
+        },
+        "MERCI (2 personne)": {
+            "name": "Traducción de MERCI (2 personne)",
+            "description": "Traducción de 2 boisson chaude au choix, 2 Tartine au fromage, 2 Tartine avocat, 2 Tartine œuf et jben, 2 msimnat, 2 hricha, 3 viennoiseries, tajine khelii, 2 Pancake au miel, 4 croquette, Panier de Pain accompagnement (huile d’olive, miel, Confiture, Olive), 2 Salade fruits, 2 Jus d’orange, 2 hssoua."
+        },
+        "Croquer (4pc)": {
+            "name": "Traducción de Croquer (4pc)",
+            "description": "Traducción de None"
+        },
+        "Mesman": {
+            "name": "Traducción de Mesman",
+            "description": "Traducción de None"
+        },
+        "harcha": {
+            "name": "Traducción de harcha",
+            "description": "Traducción de None"
+        },
+        "Viennoiserie (3pc)": {
+            "name": "Traducción de Viennoiserie (3pc)",
+            "description": "Traducción de None"
+        },
+        "Amlou": {
+            "name": "Traducción de Amlou",
+            "description": "Traducción de None"
+        },
+        "Miel": {
+            "name": "Traducción de Miel",
+            "description": "Traducción de None"
+        },
+        "Confiture": {
+            "name": "Traducción de Confiture",
+            "description": "Traducción de None"
+        },
+        "Olives": {
+            "name": "Traducción de Olives",
+            "description": "Traducción de None"
+        },
+        "Huile d’olives": {
+            "name": "Traducción de Huile d’olives",
+            "description": "Traducción de None"
+        },
+        "Jben": {
+            "name": "Traducción de Jben",
+            "description": "Traducción de None"
+        },
+        "Omelette fromage": {
+            "name": "Traducción de Omelette fromage",
+            "description": "Traducción de None"
+        },
+        "Omelette jambon": {
+            "name": "Traducción de Omelette jambon",
+            "description": "Traducción de None"
+        },
+        "Omelette champignon": {
+            "name": "Traducción de Omelette champignon",
+            "description": "Traducción de None"
+        },
+        "Omelette normale": {
+            "name": "Traducción de Omelette normale",
+            "description": "Traducción de None"
+        },
+        "Tagine khelii": {
+            "name": "Traducción de Tagine khelii",
+            "description": "Traducción de None"
+        },
+        "Tagine crevette": {
+            "name": "Traducción de Tagine crevette",
+            "description": "Traducción de None"
+        },
+        "Tagine œuf & Tomate": {
+            "name": "Traducción de Tagine œuf & Tomate",
+            "description": "Traducción de None"
+        },
+        "Tagine viande haché": {
+            "name": "Traducción de Tagine viande haché",
+            "description": "Traducción de None"
+        }
+    }
+}
