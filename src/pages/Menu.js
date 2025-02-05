@@ -1,49 +1,68 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useRef } from "react";
 import { useParams } from "react-router-dom";
-import data from "../repas.json";
+import data2 from "../repas.json";
+
+import data from "../newrepas.json";
 import translations from "../translation_template.json";
 import "../App.css";
 
-const navButtons = [
-  { key: "Standard drinks", categories: ["Espresso", "Thé", "Frappuccino", "Cappuccino", "Café crème", "Ice tea", "Ice Coffee", "Fondue Au Chocolat"] },
-  { key: "Sucré", categories: ["Pancake", "Crêpe", "Gaufre"] },
-  { key: "Salé", categories: ["Crêpe salé"] },
-  { key: "Gold drinks", categories: ["Nos Jus", "Cocktail", "Nos Smoothies", "Milk shakes"] },
-  { key: "Club Sandwich", categories: ["Sandwich"] },
-  { key: "Dessert", categories: ["Dessert"] },
-  { key: "Petits Déjeuners", categories: ["Petits Déjeuners"] },
-  { key: "Brunch", categories: ["Brunch"] },
-  { key: "Supplements", categories: ["Supplements"] },
-  { key: "Tout", categories: ["*"] },
-];
-
-// ترتيب العناصر حسب النوع
-const groupedItems = data.reduce((groups, item) => {
-  if (!groups[item.type]) {
-    groups[item.type] = [];
-  }
-  if (!groups[item.type].some((existingItem) => existingItem.id === item.id)) {
-    groups[item.type].push(item);
-  }
-  return groups;
-}, {});
-
 const Menu = () => {
-  const { language } = useParams(); // تحديد اللغة المختارة
+  const { language } = useParams();
   const [selectedCategories, setSelectedCategories] = useState(["*"]);
   const [scrolled, setScrolled] = useState(false);
   const [selectedImage, setSelectedImage] = useState(null);
+  const [isNavOpen, setIsNavOpen] = useState(false);
+  const [isSticky, setIsSticky] = useState(false);
+  const [showScrollButton, setShowScrollButton] = useState(false);
+  
+  const navbarRef = useRef(null);
 
-  // تغيير اتجاه النصوص حسب اللغة
+  const scrollToTop = () => {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  };
+
+  const navButtons = [
+    { key: "Tout", categories: ["*"] },
+    { key: "Standard drinks", categories: ["Espresso", "Thé", "Frappuccino", "Cappuccino", "Café crème", "Ice tea", "Ice Coffee", "Fondue Au Chocolat"] },
+    { key: "Sucré", categories: ["Pancake", "Crêpe", "Gaufre"] },
+    { key: "Salé", categories: ["Crêpe salé"] },
+    { key: "Gold drinks", categories: ["Nos Jus", "Cocktail", "Nos Smoothies", "Milk shakes"] },
+    { key: "Club Sandwich", categories: ["Sandwich"] },
+    { key: "Dessert", categories: ["Dessert"] },
+    { key: "Petits Déjeuners", categories: ["Petits Déjeuners"] },
+    { key: "Brunch", categories: ["Brunch"] },
+    { key: "Supplements", categories: ["Supplements"] },
+  ];
+  const orderedCategories = [
+    "Brunch",
+    "Petits Déjeuners",
+    "Standard drinks",
+    "Sucré",
+    "Salé",
+    "Gold drinks",
+    "Club Sandwich",
+    "Dessert",
+    "Supplements"
+  ];
+  const groupedItems = data.reduce((groups, item) => {
+    if (!groups[item.type]) {
+      groups[item.type] = [];
+    }
+    if (!groups[item.type].some(existingItem => existingItem.nom === item.nom && existingItem.prix === item.prix)) {
+      groups[item.type].push(item);
+    }
+    return groups;
+  }, {});
+
   useEffect(() => {
     document.documentElement.dir = language === "العربية" ? "rtl" : "ltr";
   }, [language]);
 
   const handleCategoryClick = (categories) => {
     setSelectedCategories(categories);
+    setIsNavOpen(false);
   };
 
-  // تصفية العناصر حسب الفئة المختارة
   const filteredItems = selectedCategories.includes("*")
     ? groupedItems
     : Object.fromEntries(
@@ -52,11 +71,10 @@ const Menu = () => {
         )
       );
 
-  const handleScroll = () => {
-    setScrolled(window.scrollY > 50);
-  };
-
   useEffect(() => {
+    const handleScroll = () => {
+      setShowScrollButton(window.scrollY > 200);
+    };
     window.addEventListener("scroll", handleScroll);
     return () => {
       window.removeEventListener("scroll", handleScroll);
@@ -71,152 +89,119 @@ const Menu = () => {
     setSelectedImage(null);
   };
 
+  useEffect(() => {
+    const handleClickOutside = (event) => {
+      if (navbarRef.current && !navbarRef.current.contains(event.target)) {
+        setIsNavOpen(false);
+      }
+    };
+    document.addEventListener("mousedown", handleClickOutside);
+    return () => {
+      document.removeEventListener("mousedown", handleClickOutside);
+    };
+  }, []);
+
   return (
     <div>
-      {/* قسم الصورة */}
-      <section
-        className="bg-title-page flex-c-m p-t-160 p-b-80 p-l-15 p-r-15"
-        style={{
-          backgroundImage: "url(/clientpage/images/bg-title-page-01.jpg)",
-          display: "flex",
-          backgroundRepeat: "no-repeat",
-          justifyContent: "center",
-          alignItems: "center",
-          height: "90vh",
-          flexDirection: "column",
-          backgroundSize: "cover",
-        }}
-      >
-        <div style={{ display: "flex", flexDirection: "column", alignItems: "center" }}>
-          <h2 className="tit6 t-center">
-            {translations.type?.["Menu"]?.[language] || "Menu"}
-          </h2>
-          <div className="mb-4">
-            <img
-              className="mercilogo-autre"
-              src="/clientpage/images/MERCI_IMG/LOGO/Logo-Merci-b1.png"
-              alt="Logo"
-              width="400px"
-              height="200px"
-            />
-          </div>
-          <div style={{ display: "flex", alignItems: "center", justifyContent: "center" }}>
-            <a href="https://www.facebook.com/mercilaayoune">
-              <img
-                src="/clientpage/images/MERCI_IMG/social-media-merci/facebook-app-symbol-merci.png"
-                alt="Facebook"
-                width="22px"
-              />
-            </a>
-            <a href="https://www.instagram.com/mercilaayoune1">
-              <img
-                className="ml-2"
-                src="/clientpage/images/MERCI_IMG/social-media-merci/instagram-merci.png"
-                alt="Instagram"
-                width="22px"
-              />
-            </a>
-            <a href="https://www.tiktok.com/@mercilaayoune">
-              <img
-                className="ml-2"
-                src="/clientpage/images/MERCI_IMG/social-media-merci/tik-tok-merci.png"
-                alt="TikTok"
-                width="22px"
-              />
-            </a>
-            <a href="">
-              <img
-                className="ml-2"
-                src="/clientpage/images/MERCI_IMG/social-media-merci/snapchat.png"
-                alt="Snapchat"
-                width="22px"
-              />
-            </a>
-            <a href="https://shorturl.at/cnrt1">
-              <img
-                className="ml-2"
-                src="/clientpage/images/MERCI_IMG/social-media-merci/pin-merci.png"
-                alt="Pinterest"
-                width="22px"
-              />
-            </a>
-          </div>
-        </div>
-      </section>
-
       {/* نافبار */}
-      <nav className="navbar navbar-expand-lg navbar-light bg-light">
-        <div className="container-fluid">
-          <a className="navbar-brand section-btn" href="#">
-            {translations.type?.["Menu"]?.[language] || "Menu"}
-          </a>
-          <button
-            className="navbar-toggler"
-            type="button"
-            data-bs-toggle="collapse"
-            data-bs-target="#navbarNav"
-            aria-controls="navbarNav"
-            aria-expanded="false"
-            aria-label="Toggle navigation"
-          >
-            <span className="navbar-toggler-icon"></span>
-          </button>
-          <div className="collapse navbar-collapse" id="navbarNav">
-          <ul className="navbar-nav">
-  {navButtons.map((button) => (
-    <li key={button.key} className="nav-item">
-      <button
-        onClick={() => handleCategoryClick(button.categories)}
-        className={`nav-link section-btn ${
-          selectedCategories[0] === button.categories[0] ? "active" : ""
-        }`}
-      >
-        {translations.type?.[button.key]?.[language] || translations.type?.["tout"]?.[language] || button.key}
-      </button>
-    </li>
-  ))}
-</ul>
-          </div>
-        </div>
-      </nav>
+      <nav className="navbar navbar-expand-lg navbar-dark bg-light fixed-top">
+  <div className="container-fluid d-flex align-items-center justify-content-between">
+    
+    {/* شعار المطعم */}
+    <a className="navbar-brand me-3" href="#">
+      <img src="/clientpage/images/MERCI_IMG/logo_header/Logo-Merci-b4.png" alt="Logo" className="mylogo" />
+    </a>
 
-      {/* عرض القائمة */}
-      <div className="menu-container">
-        {Object.keys(filteredItems).map((category) => (
-          <div key={category} className={`menu-category ${scrolled ? "scrolled" : ""}`}>
-            <h2 className="category-title">
-              {translations.type?.[category]?.[language] || category}
-            </h2>
-            <div className="menu-grid">
-              {filteredItems[category].map((item) => (
-                <div key={item.id} className="menu-card">
-                  <img
-                    src={process.env.PUBLIC_URL + "/" + item.image}
-                    alt={translations.nom?.[item.nom]?.[language] || item.nom}
-                    className="menu-image"
-                    onClick={() => handleImageClick(item.image)}
-                  />
-                  <div className="menu-card-content">
-                    <h3 className="menu-item-name">
-                      {translations.nom?.[item.nom]?.[language] || item.nom}
-                    </h3>
-                    <p className="menu-item-price">{item.prix} MAD</p>
-                  </div>
-                </div>
-              ))}
-            </div>
-          </div>
+    {/* زر فتح القائمة في الشاشات الصغيرة */}
+    <button className="navbar-toggler" type="button" onClick={() => setIsNavOpen(!isNavOpen)}>
+      <span className="navbar-toggler-icon"></span>
+    </button>
+
+    {/* عناصر النافبار */}
+    <div className={`collapse navbar-collapse ${isNavOpen ? "show" : ""}`} id="navbarNav">
+      <ul className="navbar-nav d-flex align-items-center gap-2"> 
+        {navButtons.map((button) => (
+          <li key={button.key} className="nav-item">
+            <button
+              onClick={() => handleCategoryClick(button.categories)}
+              className={`nav-link section-btn ${selectedCategories[0] === button.categories[0] ? "active" : ""}`}
+            >
+              {translations.type?.[button.key]?.[language] || translations.type?.["tout"]?.[language] || button.key}
+            </button>
+          </li>
         ))}
-      </div>
+      </ul>
+    </div>
 
+  </div>
+</nav>
+
+<div className="menu-container">
+  {Object.keys(filteredItems)
+    .sort((a, b) => {
+      const indexA = orderedCategories.indexOf(a);
+      const indexB = orderedCategories.indexOf(b);
+      return (indexA === -1 ? 999 : indexA) - (indexB === -1 ? 999 : indexB);
+    })
+    .map((category, index) => ( // أضف index هنا
+      <div 
+        key={category} 
+        className={`menu-category ${scrolled ? "scrolled" : ""}`}
+        style={{ marginTop: index === 0 ? "100px" : "0px" }} // إضافة هامش فقط لأول عنصر
+      >
+        <h2 className="category-title">
+          {translations.type?.[category]?.[language] || category}
+        </h2>
+        
+        <div className={`menu-grid ${category === "Petits Déjeuners" || category === "Brunch" ? "pdj-brunch" : ""}`}>
+          {filteredItems[category].map((item) => (
+            <div 
+              key={item.id} 
+              className={`menu-card ${category === "Petits Déjeuners" || category === "Brunch" ? "pdj-brunch" : ""}`}
+            >
+              <img 
+                src={process.env.PUBLIC_URL + "/" + item.image} 
+                alt={item.nom} 
+                className="menu-image"
+                onClick={() => handleImageClick(item.image)} 
+              />
+              <div className="menu-card-content">
+                <h3 className="menu-item-name">
+                  {translations.nom?.[item.nom]?.[language] || item.nom}
+                </h3>
+                
+                {(category === "Petits Déjeuners" || category === "Brunch") && item.description && (
+                  <p className="menu-item-description">
+                    {translations.description?.[item.description]?.[language] || item.description}
+                  </p>
+                )}
+                
+                <p className="menu-item-price">{item.prix} DHS</p>
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+    ))}
+</div>
+
+
+      {/* نافذة عرض الصورة */}
       {selectedImage && (
         <div className="image-modal" onClick={closeModal}>
           <div className="image-modal-content">
             <img src={process.env.PUBLIC_URL + "/" + selectedImage} alt="Selected" />
-            <button className="close-button" onClick={closeModal}>
-              X
-            </button>
+            <button className="close-button" onClick={closeModal}>X</button>
           </div>
+        </div>
+      )}
+
+      {/* زر العودة إلى الأعلى */}
+      {showScrollButton && (
+        <div className="btn-back-to-top bg0-hov" id="myBtn" onClick={scrollToTop}>
+          <span className="symbol-btn-back-to-top">
+            <i className="fa fa-angle-double-up" aria-hidden="true"></i>
+          </span>
         </div>
       )}
     </div>

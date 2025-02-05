@@ -4,7 +4,7 @@
         "nom": "Taktouka",
         "prix": 20,
         "type": "starters",
-        "description": "is a traditional Moroccan savory dish and spread made from tomatoes, bell peppers, garlic, toasted paprika and olive oil.[1][2] Taktouka is an extremely popular dish and can be found in many restaurant in different parts of Morocco.",
+        "description": "is a traditional Moroccan savory dish and spread made from tomatoes, bell peppers, garlic, toasted paprika and olive oil. Taktouka is an extremely popular dish and can be found in many restaurants in different parts of Morocco.",
         "image": "myrepas\\Taktouka.jpg"
     },
     {
@@ -12,7 +12,7 @@
         "nom": "Kalinte",
         "prix": 10,
         "type": "starters",
-        "description": "Kalinte, kalentica, karane, etc., so many ways to call this dish! All these appellations refer to the Spanish word “caliente” - which means warm - for the simple reason that this silky and smooth chickpea pie is meant to be enjoyed warm. In a way, we coul",
+        "description": "Kalinte, kalentica, karane, etc., so many ways to call this dish! All these appellations refer to the Spanish word “caliente” which means warm for the simple reason that this silky and smooth chickpea pie is meant to be enjoyed warm.",
         "image": "myrepas\\Kalinte.jpg"
     },
     {
@@ -24,111 +24,111 @@
         "image": "myrepas\\Moroccan_tea.jpg"
     },
     {
-        "id": 5,
+        "id": 4,
         "nom": "tajine",
         "prix": 30,
-        "type": "main",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has su",
+        "type": "Tajine",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
         "image": "myrepas\\Le_Tradi.jpg"
     },
     {
-        "id": 6,
+        "id": 5,
         "nom": "BEEF KEBAB",
         "prix": 30,
         "type": "main",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has su",
+        "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
         "image": "myrepas\\BEEF_KEBAB.jpg"
     },
     {
-        "id": 7,
+        "id": 6,
         "nom": "Whole braised chicken with lemon and olives",
         "prix": 110,
         "type": "lunch",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has su",
+        "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
         "image": "myrepas\\Whole_braised_chicken_with_lemon_and_olives.jpg"
     },
     {
-        "id": 8,
+        "id": 7,
         "nom": "Couscous",
         "prix": 90,
         "type": "lunch",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has su",
-        "image": "myrepas\\Black_Mojito.jpg"
+        "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "image": "myrepas\\Couscous.jpg"
     },
     {
-        "id": 9,
+        "id": 8,
         "nom": "Moroccan Chicken with Apricot and Olive Relish",
         "prix": 50,
         "type": "dinner",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has su",
+        "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
         "image": "myrepas\\Moroccan_Chicken_with_Apricot_and_Olive_Relish.jpg"
     },
     {
-        "id": 10,
+        "id": 9,
         "nom": "Fiery Moroccan Lamb Merguez",
         "prix": 50,
         "type": "dinner",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has su",
+        "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
         "image": "myrepas\\Fiery_Moroccan_Lamb_Merguez.jpg"
     },
     {
-        "id": 11,
+        "id": 10,
         "nom": "Iced latte",
         "prix": 22,
         "type": "drink",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
         "image": "myrepas\\Iced_latte.jpg"
     },
     {
-        "id": 13,
+        "id": 11,
         "nom": "Café Noir",
+        "prix": 14,
+        "type": "Espresso",
+        "description": null,
+        "image": "myrepas\\Café_Noir.jpg"
+    },
+    {
+        "id": 12,
+        "nom": "Café Nespresso",
         "prix": 16,
+        "type": "Espresso",
+        "description": null,
+        "image": "myrepas\\Café_Nespresso.jpg"
+    },
+    {
+        "id": 13,
+        "nom": "Café Noir Aromatisé",
+        "prix": 0,
         "type": "Espresso",
         "description": null,
         "image": "myrepas\\Café_Noir.jpg"
     },
     {
         "id": 14,
-        "nom": "Café Nespresso",
-        "prix": 18,
-        "type": "Espresso",
-        "description": null,
-        "image": "myrepas\\Café_Nespresso.jpg"
-    },
-    {
-        "id": 15,
-        "nom": "Café Noir Aromatisé",
-        "prix": 20,
-        "type": "Espresso",
-        "description": null,
-        "image": "myrepas\\Café_Noir_Aromatisé.jpg"
-    },
-    {
-        "id": 16,
         "nom": "Thé à la menthe",
         "prix": 15,
         "type": "Thé",
         "description": null,
-        "image": "myrepas\\Thé_à_la_menthe.jpg"
+        "image": "myrepas\\Café_Noir.jpg"
     },
     {
-        "id": 17,
+        "id": 15,
         "nom": "Verveine",
         "prix": 15,
         "type": "Thé",
         "description": "Lait,Thé,Eau",
-        "image": "myrepas\\Verveine.jpg"
+        "image": "myrepas\\Café_Noir.jpg"
     },
     {
-        "id": 18,
+        "id": 16,
         "nom": "The infusion",
         "prix": 15,
         "type": "Thé",
         "description": null,
-        "image": "myrepas\\The_infusion.jpg"
+        "image": "myrepas\\Café_Noir.jpg"
     },
     {
-        "id": 19,
+        "id": 17,
         "nom": "Normal capuccino",
         "prix": 17,
         "type": "Cappuccino",
@@ -136,7 +136,7 @@
         "image": "myrepas\\Normal_capuccino.jpg"
     },
     {
-        "id": 20,
+        "id": 18,
         "nom": "Vanilla cappuccino",
         "prix": 19,
         "type": "Cappuccino",
@@ -144,7 +144,7 @@
         "image": "myrepas\\Vanilla_cappuccino.jpg"
     },
     {
-        "id": 21,
+        "id": 19,
         "nom": "Cappuccino noisette",
         "prix": 19,
         "type": "Cappuccino",
@@ -152,7 +152,7 @@
         "image": "myrepas\\Cappuccino_noisette.jpg"
     },
     {
-        "id": 22,
+        "id": 20,
         "nom": "Cappuccino caramel",
         "prix": 19,
         "type": "Cappuccino",
@@ -160,7 +160,7 @@
         "image": "myrepas\\Cappuccino_caramel.jpg"
     },
     {
-        "id": 23,
+        "id": 21,
         "nom": "Frappuccino Caramel",
         "prix": 23,
         "type": "Frappuccino",
@@ -168,7 +168,7 @@
         "image": "myrepas\\Frappuccino_Caramel.jpg"
     },
     {
-        "id": 24,
+        "id": 22,
         "nom": "Frappuccino noisette",
         "prix": 23,
         "type": "Frappuccino",
@@ -176,7 +176,7 @@
         "image": "myrepas\\Frappuccino_noisette.jpg"
     },
     {
-        "id": 25,
+        "id": 23,
         "nom": "Frappuccino chocolat",
         "prix": 23,
         "type": "Frappuccino",
@@ -184,7 +184,7 @@
         "image": "myrepas\\Frappuccino_chocolat.jpg"
     },
     {
-        "id": 26,
+        "id": 24,
         "nom": "Café au lait",
         "prix": 15,
         "type": "Café crème",
@@ -192,7 +192,7 @@
         "image": "myrepas\\Café_au_lait.jpg"
     },
     {
-        "id": 27,
+        "id": 25,
         "nom": "Vanilla latte",
         "prix": 18,
         "type": "Café crème",
@@ -200,7 +200,7 @@
         "image": "myrepas\\Vanilla_latte.jpg"
     },
     {
-        "id": 28,
+        "id": 26,
         "nom": "Caramel latte",
         "prix": 18,
         "type": "Café crème",
@@ -208,7 +208,7 @@
         "image": "myrepas\\Caramel_latte.jpg"
     },
     {
-        "id": 29,
+        "id": 27,
         "nom": "Latte noisette",
         "prix": 18,
         "type": "Café crème",
@@ -216,7 +216,7 @@
         "image": "myrepas\\Latte_noisette.jpg"
     },
     {
-        "id": 30,
+        "id": 28,
         "nom": "Chocolat Chaud",
         "prix": 17,
         "type": "Café crème",
@@ -224,55 +224,55 @@
         "image": "myrepas\\Chocolat_Chaud.jpg"
     },
     {
-        "id": 31,
+        "id": 29,
         "nom": "Ice tea Orange & Cannelle",
         "prix": 23,
         "type": "Ice tea",
         "description": null,
-        "image": "myrepas\\Ice_tea_Orange_and_Cannelle.jpg"
+        "image": "myrepas\\Café_Noir.jpg"
     },
     {
-        "id": 32,
+        "id": 30,
         "nom": "Ice tea Fruit rouge",
         "prix": 25,
         "type": "Ice tea",
         "description": null,
-        "image": "myrepas\\Ice_tea_Fruit_rouge.jpg"
+        "image": "myrepas\\Café_Noir.jpg"
     },
     {
-        "id": 33,
+        "id": 31,
         "nom": "Ice tea Vanille & miel",
         "prix": 24,
         "type": "Ice tea",
         "description": null,
-        "image": "myrepas\\Ice_tea_Vanille_and_miel.jpg"
+        "image": "myrepas\\Café_Noir.jpg"
     },
     {
-        "id": 34,
+        "id": 32,
         "nom": "Ice coffee Caramel",
         "prix": 27,
         "type": "Ice Coffée",
         "description": null,
-        "image": "myrepas\\Ice_coffee_Caramel.jpg"
+        "image": "myrepas\\Café_Noir.jpg"
     },
     {
-        "id": 35,
+        "id": 33,
         "nom": "Ice coffee Chocolat",
         "prix": 30,
         "type": "Ice Coffée",
         "description": null,
-        "image": "myrepas\\Ice_coffee_Chocolat.jpg"
+        "image": "myrepas\\Café_Noir.jpg"
     },
     {
-        "id": 36,
+        "id": 34,
         "nom": "Ice coffee Vanilla",
         "prix": 30,
         "type": "Ice Coffée",
         "description": null,
-        "image": "myrepas\\Ice_coffee_Vanilla.jpg"
+        "image": "myrepas\\Café_Noir.jpg"
     },
     {
-        "id": 37,
+        "id": 35,
         "nom": "Chocolat Fondue",
         "prix": 27,
         "type": "Fondue Au Chocolat",
@@ -280,7 +280,7 @@
         "image": "myrepas\\Chocolat_Fondue.jpg"
     },
     {
-        "id": 38,
+        "id": 36,
         "nom": "Vennoie",
         "prix": 28,
         "type": "Fondue Au Chocolat",
@@ -288,7 +288,7 @@
         "image": "myrepas\\Vennoie.jpg"
     },
     {
-        "id": 39,
+        "id": 37,
         "nom": "Orio",
         "prix": 30,
         "type": "Fondue Au Chocolat",
@@ -296,7 +296,7 @@
         "image": "myrepas\\Orio.jpg"
     },
     {
-        "id": 40,
+        "id": 38,
         "nom": "Kitkat",
         "prix": 32,
         "type": "Fondue Au Chocolat",
@@ -304,39 +304,39 @@
         "image": "myrepas\\Kitkat.jpg"
     },
     {
-        "id": 41,
+        "id": 39,
         "nom": "Fitness",
         "prix": 79,
         "type": "Brunch",
-        "description": "Boisson chaude au choix, 2 Tartine avocat jambon et fromage, 2 Œuf au plat, 2 Pancake au miel et fruits sec, 3 Croquette, salade verte, salade fruit, Panier de Pain accompagnement (Miel,Jben,Confiture,Olive),Jus d’orange,Hsoua.",
+        "description": "Boisson chaude au choix, 2 Tartine avocat jambon et fromage, 2 Œuf au plat, 2 Pancake au miel et fruits sec, 3 Croquette, salade verte, salade fruit, Panier de Pain accompagnement (Miel, Jben, Confiture, Olive), Jus d’orange, Hsoua.",
         "image": "myrepas\\Fitness.jpg"
     },
     {
-        "id": 42,
+        "id": 40,
         "nom": "Personnel",
         "prix": 25,
         "type": "Petits Déjeuners",
-        "description": "Boisson chaude au choix,Pain grillé avec Accompagnement(Miel,Confiture,Jben),Jus d’orange,Hsoua.",
+        "description": "Boisson chaude au choix, Pain grillé avec Accompagnement(Miel, Confiture, Jben), Jus d’orange, Hsoua.",
         "image": "myrepas\\Personnel.jpg"
     },
     {
-        "id": 43,
+        "id": 41,
         "nom": "Express",
         "prix": 35,
         "type": "Petits Déjeuners",
-        "description": "Boisson chaude au choix, 3 Viennoiseries,Panier de Pain Accompagnement (Jben,miel,confiture),Jus d’orange,Hsoua.",
+        "description": "Boisson chaude au choix, 3 Viennoiseries, Panier de Pain Accompagnement (Jben, miel, confiture), Jus d’orange, Hsoua.",
         "image": "myrepas\\Express.jpg"
     },
     {
-        "id": 44,
+        "id": 42,
         "nom": "Nature",
         "prix": 38,
         "type": "Petits Déjeuners",
-        "description": "Boisson chaude au choix,Omlette Nature, Panier de Pain Accompagnement(Huile d’olive, Olive, Jben )Jus d’orange,Hsoua.",
+        "description": "Boisson chaude au choix, Omlette Nature, Panier de Pain Accompagnement (Huile d’olive, Olive, Jben ), Jus d’orange, Hsoua.",
         "image": "myrepas\\Nature.jpg"
     },
     {
-        "id": 45,
+        "id": 43,
         "nom": "Pancake Nutella",
         "prix": 28,
         "type": "Pancake",
@@ -344,7 +344,7 @@
         "image": "myrepas\\Pancake_Nutella.jpg"
     },
     {
-        "id": 46,
+        "id": 44,
         "nom": "Pancake Caramel",
         "prix": 26,
         "type": "Pancake",
@@ -352,7 +352,7 @@
         "image": "myrepas\\Pancake_Caramel.jpg"
     },
     {
-        "id": 47,
+        "id": 45,
         "nom": "Pancake Banano",
         "prix": 35,
         "type": "Pancake",
@@ -360,7 +360,7 @@
         "image": "myrepas\\Pancake_Banano.jpg"
     },
     {
-        "id": 48,
+        "id": 46,
         "nom": "Pancake Oreo",
         "prix": 37,
         "type": "Pancake",
@@ -368,7 +368,7 @@
         "image": "myrepas\\Pancake_Oreo.jpg"
     },
     {
-        "id": 49,
+        "id": 47,
         "nom": "Pancake Lotus",
         "prix": 39,
         "type": "Pancake",
@@ -376,7 +376,7 @@
         "image": "myrepas\\Pancake_Lotus.jpg"
     },
     {
-        "id": 50,
+        "id": 48,
         "nom": "Pancake Trois chocolats",
         "prix": 38,
         "type": "Pancake",
@@ -384,7 +384,7 @@
         "image": "myrepas\\Pancake_Trois_chocolats.jpg"
     },
     {
-        "id": 51,
+        "id": 49,
         "nom": "Pancake Frutti",
         "prix": 45,
         "type": "Pancake",
@@ -392,7 +392,7 @@
         "image": "myrepas\\Pancake_Frutti.jpg"
     },
     {
-        "id": 52,
+        "id": 50,
         "nom": "Pancake Fruit Sec",
         "prix": 65,
         "type": "Pancake",
@@ -400,7 +400,7 @@
         "image": "myrepas\\Pancake_Fruit_Sec.jpg"
     },
     {
-        "id": 53,
+        "id": 51,
         "nom": "Crêpe Nutella",
         "prix": 23,
         "type": "Crêpe",
@@ -408,7 +408,7 @@
         "image": "myrepas\\Crêpe_Nutella.jpg"
     },
     {
-        "id": 54,
+        "id": 52,
         "nom": "Crêpe Caramel",
         "prix": 21,
         "type": "Crêpe",
@@ -416,7 +416,7 @@
         "image": "myrepas\\Crêpe_Caramel.jpg"
     },
     {
-        "id": 55,
+        "id": 53,
         "nom": "Crêpe Banano",
         "prix": 30,
         "type": "Crêpe",
@@ -424,7 +424,7 @@
         "image": "myrepas\\Crêpe_Banano.jpg"
     },
     {
-        "id": 56,
+        "id": 54,
         "nom": "Crêpe Oreo",
         "prix": 32,
         "type": "Crêpe",
@@ -432,7 +432,7 @@
         "image": "myrepas\\Crêpe_Oreo.jpg"
     },
     {
-        "id": 57,
+        "id": 55,
         "nom": "Crêpe Lotus",
         "prix": 34,
         "type": "Crêpe",
@@ -440,7 +440,7 @@
         "image": "myrepas\\Crêpe_Lotus.jpg"
     },
     {
-        "id": 58,
+        "id": 56,
         "nom": "Trois chocolats",
         "prix": 36,
         "type": "Crêpe",
@@ -448,7 +448,7 @@
         "image": "myrepas\\Trois_chocolats.jpg"
     },
     {
-        "id": 59,
+        "id": 57,
         "nom": "Crêpe Frutti",
         "prix": 42,
         "type": "Crêpe",
@@ -456,7 +456,7 @@
         "image": "myrepas\\Crêpe_Frutti.jpg"
     },
     {
-        "id": 60,
+        "id": 58,
         "nom": "Crêpe Fruit Sec",
         "prix": 65,
         "type": "Crêpe",
@@ -464,7 +464,7 @@
         "image": "myrepas\\Crêpe_Fruit_Sec.jpg"
     },
     {
-        "id": 61,
+        "id": 59,
         "nom": "Gaufre Nutella",
         "prix": 30,
         "type": "Gaufre",
@@ -472,7 +472,7 @@
         "image": "myrepas\\Gaufre_Nutella.jpg"
     },
     {
-        "id": 62,
+        "id": 60,
         "nom": "Gaufre Caramel",
         "prix": 28,
         "type": "Gaufre",
@@ -480,7 +480,7 @@
         "image": "myrepas\\Gaufre_Caramel.jpg"
     },
     {
-        "id": 64,
+        "id": 61,
         "nom": "Gaufre Banano",
         "prix": 37,
         "type": "Gaufre",
@@ -488,7 +488,7 @@
         "image": "myrepas\\Gaufre_Banano.jpg"
     },
     {
-        "id": 65,
+        "id": 62,
         "nom": "Gaufre Oreo",
         "prix": 39,
         "type": "Gaufre",
@@ -496,7 +496,7 @@
         "image": "myrepas\\Gaufre_Oreo.jpg"
     },
     {
-        "id": 66,
+        "id": 63,
         "nom": "Gaufre Lotus",
         "prix": 41,
         "type": "Gaufre",
@@ -504,7 +504,7 @@
         "image": "myrepas\\Gaufre_Lotus.jpg"
     },
     {
-        "id": 67,
+        "id": 64,
         "nom": "Gaufre Trois chocolats",
         "prix": 40,
         "type": "Gaufre",
@@ -512,7 +512,7 @@
         "image": "myrepas\\Gaufre_Trois_chocolats.jpg"
     },
     {
-        "id": 68,
+        "id": 65,
         "nom": "Gaufre Frutti",
         "prix": 44,
         "type": "Gaufre",
@@ -520,7 +520,7 @@
         "image": "myrepas\\Gaufre_Frutti.jpg"
     },
     {
-        "id": 69,
+        "id": 66,
         "nom": "Gaufre Fruit Sec",
         "prix": 65,
         "type": "Gaufre",
@@ -528,7 +528,7 @@
         "image": "myrepas\\Gaufre_Fruit_Sec.jpg"
     },
     {
-        "id": 70,
+        "id": 67,
         "nom": "Crêpe Dinde",
         "prix": 42,
         "type": "Crêpe salé",
@@ -536,7 +536,7 @@
         "image": "myrepas\\Crêpe_Dinde.jpg"
     },
     {
-        "id": 71,
+        "id": 68,
         "nom": "Crêpe Viande Hachée",
         "prix": 45,
         "type": "Crêpe salé",
@@ -544,7 +544,7 @@
         "image": "myrepas\\Crêpe_Viande_Hachée.jpg"
     },
     {
-        "id": 72,
+        "id": 69,
         "nom": "Crêpe Jambon",
         "prix": 45,
         "type": "Crêpe salé",
@@ -552,7 +552,7 @@
         "image": "myrepas\\Crêpe_Jambon.jpg"
     },
     {
-        "id": 73,
+        "id": 70,
         "nom": "Crêpe Mix fromagère",
         "prix": 43,
         "type": "Crêpe salé",
@@ -560,7 +560,7 @@
         "image": "myrepas\\Crêpe_Mix_fromagère.jpg"
     },
     {
-        "id": 74,
+        "id": 71,
         "nom": "Crêpe Spéciale",
         "prix": 60,
         "type": "Crêpe salé",
@@ -568,15 +568,15 @@
         "image": "myrepas\\Crêpe_Spéciale.jpg"
     },
     {
-        "id": 75,
+        "id": 72,
         "nom": "Salade fruits",
         "prix": 30,
-        "type": "Dessert",
+        "type": "Salade",
         "description": null,
-        "image": "myrepas\\Salade_fruits.jpg"
+        "image": "myrepas\\Café_Noir.jpg"
     },
     {
-        "id": 76,
+        "id": 73,
         "nom": "Cheesecake Fromage",
         "prix": 25,
         "type": "Dessert",
@@ -584,7 +584,7 @@
         "image": "myrepas\\Cheesecake_Fromage.jpg"
     },
     {
-        "id": 77,
+        "id": 74,
         "nom": "Cheesecake Café",
         "prix": 25,
         "type": "Dessert",
@@ -592,7 +592,7 @@
         "image": "myrepas\\Cheesecake_Café.jpg"
     },
     {
-        "id": 78,
+        "id": 75,
         "nom": "Cheesecake Orio",
         "prix": 25,
         "type": "Dessert",
@@ -600,7 +600,7 @@
         "image": "myrepas\\Cheesecake_Orio.jpg"
     },
     {
-        "id": 79,
+        "id": 76,
         "nom": "Cheesecake Fraise",
         "prix": 25,
         "type": "Dessert",
@@ -608,7 +608,7 @@
         "image": "myrepas\\Cheesecake_Fraise.jpg"
     },
     {
-        "id": 80,
+        "id": 77,
         "nom": "Sandwich Œuf",
         "prix": 18,
         "type": "Sandwich",
@@ -616,7 +616,7 @@
         "image": "myrepas\\Sandwich_Œuf.jpg"
     },
     {
-        "id": 81,
+        "id": 78,
         "nom": "Sandwich Poulet",
         "prix": 26,
         "type": "Sandwich",
@@ -624,7 +624,7 @@
         "image": "myrepas\\Sandwich_Poulet.jpg"
     },
     {
-        "id": 82,
+        "id": 79,
         "nom": "Sandwich Thon",
         "prix": 23,
         "type": "Sandwich",
@@ -632,7 +632,7 @@
         "image": "myrepas\\Sandwich_Thon.jpg"
     },
     {
-        "id": 83,
+        "id": 80,
         "nom": "Sandwich Viande hachée",
         "prix": 35,
         "type": "Sandwich",
@@ -640,7 +640,7 @@
         "image": "myrepas\\Sandwich_Viande_hachée.jpg"
     },
     {
-        "id": 84,
+        "id": 81,
         "nom": "Sandwich Escalopes",
         "prix": 30,
         "type": "Sandwich",
@@ -648,7 +648,7 @@
         "image": "myrepas\\Sandwich_Escalopes.jpg"
     },
     {
-        "id": 85,
+        "id": 82,
         "nom": "Sandwich Croque-monsieur",
         "prix": 25,
         "type": "Sandwich",
@@ -656,7 +656,7 @@
         "image": "myrepas\\Sandwich_Croque-monsieur.jpg"
     },
     {
-        "id": 86,
+        "id": 83,
         "nom": "Sandwich Croque-madame",
         "prix": 27,
         "type": "Sandwich",
@@ -664,7 +664,7 @@
         "image": "myrepas\\Sandwich_Croque-madame.jpg"
     },
     {
-        "id": 87,
+        "id": 84,
         "nom": "Jus Orange",
         "prix": 22,
         "type": "Nos Jus",
@@ -672,7 +672,7 @@
         "image": "myrepas\\Jus_Orange.jpg"
     },
     {
-        "id": 88,
+        "id": 85,
         "nom": "Jus Banane",
         "prix": 23,
         "type": "Nos Jus",
@@ -680,7 +680,7 @@
         "image": "myrepas\\Jus_Banane.jpg"
     },
     {
-        "id": 89,
+        "id": 86,
         "nom": "Jus Citron",
         "prix": 20,
         "type": "Nos Jus",
@@ -688,7 +688,7 @@
         "image": "myrepas\\Jus_Citron.jpg"
     },
     {
-        "id": 90,
+        "id": 87,
         "nom": "Jus Fruit rouge",
         "prix": 27,
         "type": "Nos Jus",
@@ -696,7 +696,7 @@
         "image": "myrepas\\Jus_Fruit_rouge.jpg"
     },
     {
-        "id": 91,
+        "id": 88,
         "nom": "Jus Pomme",
         "prix": 25,
         "type": "Nos Jus",
@@ -704,7 +704,7 @@
         "image": "myrepas\\Jus_Pomme.jpg"
     },
     {
-        "id": 92,
+        "id": 89,
         "nom": "Jus Mangue",
         "prix": 30,
         "type": "Nos Jus",
@@ -712,7 +712,7 @@
         "image": "myrepas\\Jus_Mangue.jpg"
     },
     {
-        "id": 93,
+        "id": 90,
         "nom": "Jus Ananas",
         "prix": 32,
         "type": "Nos Jus",
@@ -720,7 +720,7 @@
         "image": "myrepas\\Jus_Ananas.jpg"
     },
     {
-        "id": 94,
+        "id": 91,
         "nom": "Jus Avocat",
         "prix": 35,
         "type": "Nos Jus",
@@ -728,7 +728,7 @@
         "image": "myrepas\\Jus_Avocat.jpg"
     },
     {
-        "id": 95,
+        "id": 92,
         "nom": "Jus Exotique",
         "prix": 38,
         "type": "Nos Jus",
@@ -736,7 +736,7 @@
         "image": "myrepas\\Jus_Exotique.jpg"
     },
     {
-        "id": 96,
+        "id": 93,
         "nom": "Jus Citron gingembre menthe",
         "prix": 25,
         "type": "Nos Jus",
@@ -744,7 +744,7 @@
         "image": "myrepas\\Jus_Citron_gingembre_menthe.jpg"
     },
     {
-        "id": 97,
+        "id": 94,
         "nom": "Jus Cocktails de fruits",
         "prix": 38,
         "type": "Nos Jus",
@@ -752,47 +752,47 @@
         "image": "myrepas\\Jus_Cocktails_de_fruits.jpg"
     },
     {
-        "id": 98,
+        "id": 95,
         "nom": "Cocktail Pinna colada",
         "prix": 35,
         "type": "Cocktail",
-        "description": "Orange,Ananas,vanilla,lait coco,grenadine",
+        "description": "Orange, Ananas, vanilla, lait coco, grenadine",
         "image": "myrepas\\Cocktail_Pinna_colada.jpg"
     },
     {
-        "id": 99,
+        "id": 96,
         "nom": "Cocktail Bleu marine",
         "prix": 35,
         "type": "Cocktail",
-        "description": "Noisette,citron vert,bleu corassan,sprait",
+        "description": "Noisette, citron vert, bleu corassan, sprit",
         "image": "myrepas\\Cocktail_Bleu_marine.jpg"
     },
     {
-        "id": 100,
+        "id": 97,
         "nom": "Cocktail Bleu Paradise",
         "prix": 35,
         "type": "Cocktail",
-        "description": "Ananas,vanilla,lait coco,bleu corassa",
+        "description": "Ananas, vanilla, lait coco, bleu corassa",
         "image": "myrepas\\Cocktail_Bleu_Paradise.jpg"
     },
     {
-        "id": 101,
+        "id": 98,
         "nom": "Cocktail Virgin Colada",
         "prix": 35,
         "type": "Cocktail",
-        "description": "Lait,ananas,lait coco,vanilla,cream liquid",
+        "description": "Lait, ananas, lait coco, vanilla, cream liquid",
         "image": "myrepas\\Cocktail_Virgin_Colada.jpg"
     },
     {
-        "id": 102,
+        "id": 99,
         "nom": "Cocktail Special",
         "prix": 40,
         "type": "Cocktail",
-        "description": "Cream soda,blue coraca,grenadine,cream",
+        "description": "Cream soda, blue coraca, grenadine, cream",
         "image": "myrepas\\Cocktail_Special.jpg"
     },
     {
-        "id": 103,
+        "id": 100,
         "nom": "Sweet Smoothies",
         "prix": 37,
         "type": "Nos Smoothies",
@@ -800,7 +800,7 @@
         "image": "myrepas\\Sweet_Smoothies.jpg"
     },
     {
-        "id": 104,
+        "id": 101,
         "nom": "Tropical Smoothies",
         "prix": 35,
         "type": "Nos Smoothies",
@@ -808,7 +808,7 @@
         "image": "myrepas\\Tropical_Smoothies.jpg"
     },
     {
-        "id": 105,
+        "id": 102,
         "nom": "Paradis Smoothies",
         "prix": 35,
         "type": "Nos Smoothies",
@@ -816,7 +816,7 @@
         "image": "myrepas\\Paradis_Smoothies.jpg"
     },
     {
-        "id": 106,
+        "id": 103,
         "nom": "Steel-blue Smoothies",
         "prix": 40,
         "type": "Nos Smoothies",
@@ -824,7 +824,7 @@
         "image": "myrepas\\Steel-blue_Smoothies.jpg"
     },
     {
-        "id": 107,
+        "id": 104,
         "nom": "Milk shakes Chocolat",
         "prix": 35,
         "type": "Milk shakes",
@@ -832,7 +832,7 @@
         "image": "myrepas\\Milk_shakes_Chocolat.jpg"
     },
     {
-        "id": 108,
+        "id": 105,
         "nom": "Milk shakes Caramel",
         "prix": 35,
         "type": "Milk shakes",
@@ -840,7 +840,7 @@
         "image": "myrepas\\Milk_shakes_Caramel.jpg"
     },
     {
-        "id": 109,
+        "id": 106,
         "nom": "Milk shakes Vanille",
         "prix": 35,
         "type": "Milk shakes",
@@ -848,7 +848,7 @@
         "image": "myrepas\\Milk_shakes_Vanille.jpg"
     },
     {
-        "id": 110,
+        "id": 107,
         "nom": "Milk shakes Fraise",
         "prix": 35,
         "type": "Milk shakes",
@@ -856,7 +856,7 @@
         "image": "myrepas\\Milk_shakes_Fraise.jpg"
     },
     {
-        "id": 111,
+        "id": 108,
         "nom": "Milk shakes Orio",
         "prix": 38,
         "type": "Milk shakes",
@@ -864,7 +864,7 @@
         "image": "myrepas\\Milk_shakes_Orio.jpg"
     },
     {
-        "id": 112,
+        "id": 109,
         "nom": "Milk shakes Kitkat",
         "prix": 38,
         "type": "Milk shakes",
@@ -872,7 +872,7 @@
         "image": "myrepas\\Milk_shakes_Kitkat.jpg"
     },
     {
-        "id": 113,
+        "id": 110,
         "nom": "Milk shakes Nutella",
         "prix": 40,
         "type": "Milk shakes",
@@ -880,7 +880,7 @@
         "image": "myrepas\\Milk_shakes_Nutella.jpg"
     },
     {
-        "id": 114,
+        "id": 111,
         "nom": "Milk shakes Magnum",
         "prix": 45,
         "type": "Milk shakes",
@@ -888,7 +888,7 @@
         "image": "myrepas\\Milk_shakes_Magnum.jpg"
     },
     {
-        "id": 115,
+        "id": 112,
         "nom": "Classic Virgin Mojito",
         "prix": 25,
         "type": "Mojito",
@@ -896,7 +896,7 @@
         "image": "myrepas\\Classic_Virgin_Mojito.jpg"
     },
     {
-        "id": 116,
+        "id": 113,
         "nom": "Black Mojito",
         "prix": 27,
         "type": "Mojito",
@@ -904,7 +904,7 @@
         "image": "myrepas\\Black_Mojito.jpg"
     },
     {
-        "id": 117,
+        "id": 114,
         "nom": "Red Bull Mojito",
         "prix": 40,
         "type": "Mojito",
@@ -912,7 +912,7 @@
         "image": "myrepas\\Red_Bull_Mojito.jpg"
     },
     {
-        "id": 118,
+        "id": 115,
         "nom": "Yellow Virgin Mojito",
         "prix": 40,
         "type": "Mojito",
@@ -920,39 +920,39 @@
         "image": "myrepas\\Yellow_Virgin_Mojito.jpg"
     },
     {
-        "id": 119,
+        "id": 116,
         "nom": "Energy",
         "prix": 40,
         "type": "Detox",
-        "description": "Orange,betterave,gingembre,citron vert,miel",
-        "image": "myrepas\\Energy.jpg"
+        "description": "Orange, betterave, gingembre, citron vert, miel",
+        "image": "myrepas\\Café_Noir.jpg"
     },
     {
-        "id": 120,
+        "id": 117,
         "nom": "Good morning",
         "prix": 40,
         "type": "Detox",
-        "description": "Pomme,carotte,ananas,gingembre,miel",
-        "image": "myrepas\\Good_morning.jpg"
+        "description": "Pomme, carotte, ananas, gingembre, miel",
+        "image": "myrepas\\Café_Noir.jpg"
     },
     {
-        "id": 121,
+        "id": 118,
         "nom": "Vert vitamine",
         "prix": 40,
         "type": "Detox",
-        "description": "Kiwi,menthe,citron vert,gingembre,orange",
-        "image": "myrepas\\Vert_vitamine.jpg"
+        "description": "Kiwi, menthe, citron vert, gingembre, orange",
+        "image": "myrepas\\Café_Noir.jpg"
     },
     {
-        "id": 122,
+        "id": 119,
         "nom": "Merci",
         "prix": 40,
         "type": "Detox",
-        "description": "Avocat,pomme,concombre,citron vert,miel",
-        "image": "myrepas\\Merci.jpg"
+        "description": "Avocat, pomme, concombre, citron vert, miel",
+        "image": "myrepas\\Café_Noir.jpg"
     },
     {
-        "id": 123,
+        "id": 120,
         "nom": "Eau plate",
         "prix": 7,
         "type": "Boissons Fraiches",
@@ -960,7 +960,7 @@
         "image": "myrepas\\Eau_plate.jpg"
     },
     {
-        "id": 124,
+        "id": 121,
         "nom": "Eau gazeuse",
         "prix": 8,
         "type": "Boissons Fraiches",
@@ -968,7 +968,7 @@
         "image": "myrepas\\Eau_gazeuse.jpg"
     },
     {
-        "id": 125,
+        "id": 122,
         "nom": "Soda",
         "prix": 10,
         "type": "Boissons Fraiches",
@@ -976,23 +976,23 @@
         "image": "myrepas\\Soda.jpg"
     },
     {
-        "id": 126,
+        "id": 123,
         "nom": "Le Tradi",
         "prix": 65,
         "type": "Brunch",
-        "description": "Boisson chaude au choix, Tajine au khelii, 2 hercha (normal et avec les olives), 1msemna, Panier de Pain accompagnement (huile d’olive, miel, Confiture, Olive), salade fruits, Jus d’orange,Hsoua.",
+        "description": "Boisson chaude au choix, Tajine au khelii, 2 hercha (normal et avec les olives), 1 msemna, Panier de Pain accompagnement (huile d’olive, miel, Confiture, Olive), salade fruits, Jus d’orange, Hsoua.",
         "image": "myrepas\\Le_Tradi.jpg"
     },
     {
-        "id": 127,
+        "id": 124,
         "nom": "American taste",
         "prix": 85,
         "type": "Brunch",
-        "description": "Boisson chaude au choix, 2 Tartine au œuf et fromage, Brochette dinde, Saucisse, Salade verte, 3 Croquettes, 2 Pancake au miel, Salade fruits, Panier de Pain accompagnement (Miel,Confiture,Olive), jus d’orange,Hsoua.",
+        "description": "Boisson chaude au choix, 2 Tartine au œuf et fromage, Brochette dinde, Saucisse, Salade verte, 3 Croquettes, 2 Pancake au miel, Salade fruits, Panier de Pain accompagnement (Miel, Confiture, Olive), jus d’orange, Hsoua.",
         "image": "myrepas\\American_taste.jpg"
     },
     {
-        "id": 128,
+        "id": 125,
         "nom": "MERCI (2 personne)",
         "prix": 120,
         "type": "Brunch",
@@ -1000,7 +1000,7 @@
         "image": "myrepas\\MERCI_(2_personne).jpg"
     },
     {
-        "id": 133,
+        "id": 126,
         "nom": "Croquer (4pc)",
         "prix": 20,
         "type": "à la carte",
@@ -1008,7 +1008,7 @@
         "image": "myrepas\\Croquer_(4pc).jpg"
     },
     {
-        "id": 138,
+        "id": 127,
         "nom": "Mesman",
         "prix": 12,
         "type": "à la carte",
@@ -1016,7 +1016,7 @@
         "image": "myrepas\\Mesman.jpg"
     },
     {
-        "id": 139,
+        "id": 128,
         "nom": "harcha",
         "prix": 12,
         "type": "à la carte",
@@ -1024,7 +1024,7 @@
         "image": "myrepas\\harcha.jpg"
     },
     {
-        "id": 140,
+        "id": 129,
         "nom": "Viennoiserie (3pc)",
         "prix": 12,
         "type": "Supplements",
@@ -1032,7 +1032,7 @@
         "image": "myrepas\\Viennoiserie_(3pc).jpg"
     },
     {
-        "id": 141,
+        "id": 130,
         "nom": "Amlou",
         "prix": 10,
         "type": "Supplements",
@@ -1040,112 +1040,111 @@
         "image": "myrepas\\Amlou.jpg"
     },
     {
-        "id": 142,
+        "id": 131,
         "nom": "Miel",
         "prix": 5,
-        "type": "Supplements",
+        "type": "Condiment",
         "description": null,
-        "image": "myrepas\\Miel.jpg"
+        "image": "myrepas\\Café_Noir.jpg"
     },
     {
-        "id": 143,
+        "id": 132,
         "nom": "Confiture",
         "prix": 5,
-        "type": "Supplements",
+        "type": "Condiment",
         "description": null,
-        "image": "myrepas\\Confiture.jpg"
+        "image": "myrepas\\Café_Noir.jpg"
     },
     {
-        "id": 144,
+        "id": 133,
         "nom": "Olives",
         "prix": 5,
-        "type": "Supplements",
+        "type": "Condiment",
         "description": null,
-        "image": "myrepas\\Olives.jpg"
+        "image": "myrepas\\Café_Noir.jpg"
     },
     {
-        "id": 145,
+        "id": 134,
         "nom": "Huile d’olives",
         "prix": 5,
-        "type": "Supplements",
+        "type": "Condiment",
         "description": null,
-        "image": "myrepas\\Huile_d’olives.jpg"
+        "image": "myrepas\\Café_Noir.jpg"
     },
     {
-        "id": 146,
+        "id": 135,
         "nom": "Jben",
         "prix": 5,
-        "type": "Supplements",
+        "type": "Condiment",
         "description": null,
-        "image": "myrepas\\Jben.jpg"
+        "image": "myrepas\\Café_Noir.jpg"
     },
     {
-        "id": 147,
+        "id": 136,
         "nom": "Omelette fromage",
         "prix": 15,
-        "type": "Lesomelettes",
+        "type": "Omelette",
         "description": null,
         "image": "myrepas\\Omelette_fromage.jpg"
     },
     {
-        "id": 148,
+        "id": 137,
         "nom": "Omelette jambon",
         "prix": 18,
-        "type": "Lesomelettes",
+        "type": "Omelette",
         "description": null,
         "image": "myrepas\\Omelette_jambon.jpg"
     },
     {
-        "id": 149,
+        "id": 138,
         "nom": "Omelette champignon",
         "prix": 17,
-        "type": "Lesomelettes",
+        "type": "Omelette",
         "description": null,
         "image": "myrepas\\Omelette_champignon.jpg"
     },
     {
-        "id": 150,
+        "id": 139,
         "nom": "Omelette normale",
-        "prix": 18,
-        "type": "Lesomelettes",
+        "prix": 12,
+        "type": "Omelette",
         "description": null,
         "image": "myrepas\\Omelette_normale.jpg"
     },
     {
-        "id": 151,
+        "id": 140,
         "nom": "Tagine khelii",
         "prix": 30,
-        "type": "Lesomelettes",
+        "type": "Tajine",
         "description": null,
-        "image": "myrepas\\Tagine_khelii.jpg"
+        "image": "myrepas\\Café_Noir.jpg"
     },
     {
-        "id": 152,
+        "id": 141,
         "nom": "Tagine crevette",
         "prix": 35,
-        "type": "Lesomelettes",
+        "type": "Tajine",
         "description": null,
-        "image": "myrepas\\Tagine_crevette.jpg"
+        "image": "myrepas\\Café_Noir.jpg"
     },
     {
-        "id": 153,
+        "id": 142,
         "nom": "Tagine œuf & Tomate",
         "prix": 15,
-        "type": "Lesomelettes",
+        "type": "Tajine",
         "description": null,
-        "image": "myrepas\\Tagine_œuf_and_Tomate.jpg"
+        "image": "myrepas\\Café_Noir.jpg"
     },
     {
-        "id": 154,
+        "id": 143,
         "nom": "Tagine viande haché",
         "prix": 32,
-        "type": "Lesomelettes",
+        "type": "Tajine",
         "description": null,
-        "image": "myrepas\\Tagine_viande_haché.jpg"
+        "image": "myrepas\\Café_Noir.jpg"
     },
-   
     {
-        "id": 155,
+        "id": 144,
         "nom": "VANILLA FOREST FRUITS",
         "prix": 38,
         "type": "Cocktail",
@@ -1153,7 +1152,7 @@
         "image": "myrepas\\Café_Noir.jpg"
     },
     {
-        "id": 156,
+        "id": 145,
         "nom": "VIERGE BORA BORA",
         "prix": 39,
         "type": "Cocktail",
@@ -1161,7 +1160,7 @@
         "image": "myrepas\\Café_Noir.jpg"
     },
     {
-        "id": 157,
+        "id": 146,
         "nom": "LUNNA ICE",
         "prix": 39,
         "type": "Cocktail",
@@ -1169,7 +1168,7 @@
         "image": "myrepas\\Café_Noir.jpg"
     },
     {
-        "id": 158,
+        "id": 147,
         "nom": "BLOODY MARY",
         "prix": 45,
         "type": "Cocktail",
@@ -1177,7 +1176,7 @@
         "image": "myrepas\\Café_Noir.jpg"
     },
     {
-        "id": 159,
+        "id": 148,
         "nom": "SANDRELLA",
         "prix": 35,
         "type": "Cocktail",
@@ -1185,7 +1184,7 @@
         "image": "myrepas\\Café_Noir.jpg"
     },
     {
-        "id": 160,
+        "id": 149,
         "nom": "BLEU HAWAI",
         "prix": 35,
         "type": "Cocktail",
@@ -1193,7 +1192,7 @@
         "image": "myrepas\\Café_Noir.jpg"
     },
     {
-        "id": 161,
+        "id": 150,
         "nom": "MAJIK MERCI",
         "prix": 38,
         "type": "Cocktail",
@@ -1201,7 +1200,7 @@
         "image": "myrepas\\Café_Noir.jpg"
     },
     {
-        "id": 162,
+        "id": 151,
         "nom": "PÊCHE",
         "prix": 28,
         "type": "Ice tea",
@@ -1209,7 +1208,7 @@
         "image": "myrepas\\Café_Noir.jpg"
     },
     {
-        "id": 163,
+        "id": 152,
         "nom": "FRUIT ROUGE",
         "prix": 32,
         "type": "Ice tea",
@@ -1217,7 +1216,7 @@
         "image": "myrepas\\Café_Noir.jpg"
     },
     {
-        "id": 164,
+        "id": 153,
         "nom": "CITRON",
         "prix": 26,
         "type": "Ice tea",
@@ -1225,7 +1224,7 @@
         "image": "myrepas\\Café_Noir.jpg"
     },
     {
-        "id": 165,
+        "id": 154,
         "nom": "Ice Coffee Caramel",
         "prix": 29,
         "type": "Ice Coffée",
@@ -1233,7 +1232,7 @@
         "image": "myrepas\\Café_Noir.jpg"
     },
     {
-        "id": 166,
+        "id": 155,
         "nom": "Ice Coffee Vanilla",
         "prix": 29,
         "type": "Ice Coffée",
@@ -1241,7 +1240,7 @@
         "image": "myrepas\\Café_Noir.jpg"
     },
     {
-        "id": 167,
+        "id": 156,
         "nom": "Ice Coffee Chocolat",
         "prix": 29,
         "type": "Ice Coffée",
@@ -1249,7 +1248,7 @@
         "image": "myrepas\\Café_Noir.jpg"
     },
     {
-        "id": 168,
+        "id": 157,
         "nom": "Ice Coffee Noisette",
         "prix": 29,
         "type": "Ice Coffée",
@@ -1257,7 +1256,7 @@
         "image": "myrepas\\Café_Noir.jpg"
     },
     {
-        "id": 169,
+        "id": 158,
         "nom": "MIHALABIA",
         "prix": 25,
         "type": "Dessert",
@@ -1265,7 +1264,7 @@
         "image": "myrepas\\Café_Noir.jpg"
     },
     {
-        "id": 170,
+        "id": 159,
         "nom": "CHEESECAKE VANILLE",
         "prix": 25,
         "type": "Dessert",
@@ -1273,7 +1272,7 @@
         "image": "myrepas\\Café_Noir.jpg"
     },
     {
-        "id": 171,
+        "id": 160,
         "nom": "CHEESECAKE BLUEBERRY",
         "prix": 35,
         "type": "Dessert",
@@ -1281,7 +1280,7 @@
         "image": "myrepas\\Café_Noir.jpg"
     },
     {
-        "id": 172,
+        "id": 161,
         "nom": "SALADE FRUITS",
         "prix": 30,
         "type": "Dessert",
@@ -1289,7 +1288,7 @@
         "image": "myrepas\\Café_Noir.jpg"
     },
     {
-        "id": 173,
+        "id": 162,
         "nom": "CHEESECAKE ORYO",
         "prix": 29,
         "type": "Dessert",
@@ -1297,7 +1296,7 @@
         "image": "myrepas\\Café_Noir.jpg"
     },
     {
-        "id": 174,
+        "id": 163,
         "nom": "MIX DE FRUITS A LA NUTELLA",
         "prix": 38,
         "type": "Dessert",
@@ -1305,7 +1304,7 @@
         "image": "myrepas\\Café_Noir.jpg"
     },
     {
-        "id": 175,
+        "id": 164,
         "nom": "MIX DE FRUITS",
         "prix": 40,
         "type": "Dessert",
@@ -1313,7 +1312,7 @@
         "image": "myrepas\\Café_Noir.jpg"
     },
     {
-        "id": 176,
+        "id": 165,
         "nom": "MINI PANCAKES (PACK OF NINE)",
         "prix": 36,
         "type": "Pancake",
@@ -1321,7 +1320,7 @@
         "image": "myrepas\\Café_Noir.jpg"
     },
     {
-        "id": 177,
+        "id": 166,
         "nom": "MINI PANCAKES (PACK OF TWELVE)",
         "prix": 48,
         "type": "Pancake",
@@ -1329,7 +1328,7 @@
         "image": "myrepas\\Café_Noir.jpg"
     },
     {
-        "id": 178,
+        "id": 167,
         "nom": "MINI PANCAKES (PACK OF FIFTEEN)",
         "prix": 62,
         "type": "Pancake",
@@ -1337,7 +1336,7 @@
         "image": "myrepas\\Café_Noir.jpg"
     },
     {
-        "id": 179,
+        "id": 168,
         "nom": "MIX FROMAGÈRE",
         "prix": 37,
         "type": "Crêpe salé",
@@ -1345,7 +1344,7 @@
         "image": "myrepas\\Café_Noir.jpg"
     },
     {
-        "id": 180,
+        "id": 169,
         "nom": "POULET",
         "prix": 42,
         "type": "Crêpe salé",
@@ -1353,7 +1352,7 @@
         "image": "myrepas\\Café_Noir.jpg"
     },
     {
-        "id": 181,
+        "id": 170,
         "nom": "VIANDE HACHÉE",
         "prix": 45,
         "type": "Crêpe salé",
@@ -1361,7 +1360,7 @@
         "image": "myrepas\\Café_Noir.jpg"
     },
     {
-        "id": 182,
+        "id": 171,
         "nom": "JAMBON",
         "prix": 45,
         "type": "Crêpe salé",
@@ -1369,7 +1368,7 @@
         "image": "myrepas\\Café_Noir.jpg"
     },
     {
-        "id": 183,
+        "id": 172,
         "nom": "SPECIALE MERCI",
         "prix": 60,
         "type": "Crêpe salé",
@@ -1377,20 +1376,283 @@
         "image": "myrepas\\Café_Noir.jpg"
     },
     {
-        "id": 184,
+        "id": 173,
         "nom": "OMELETTE KHLII",
         "prix": 30,
-        "type": "Lesomelettes",
+        "type": "Omelette",
+        "description": null,
+        "image": "myrepas\\Café_Noir.jpg"
+    },
+    {
+        "id": 174,
+        "nom": "TAJINE CREVETTE",
+        "prix": 45,
+        "type": "Tajine",
+        "description": null,
+        "image": "myrepas\\Café_Noir.jpg"
+    },
+    {
+        "id": 175,
+        "nom": "Tajine de poulet",
+        "prix": 85,
+        "type": "Tajine",
+        "description": null,
+        "image": "myrepas\\Café_Noir.jpg"
+    },
+    {
+        "id": 176,
+        "nom": "Tajine de poisson",
+        "prix": 90,
+        "type": "Tajine",
+        "description": null,
+        "image": "myrepas\\Café_Noir.jpg"
+    },
+    {
+        "id": 177,
+        "nom": "Tajine aux légumes",
+        "prix": 70,
+        "type": "Tajine",
+        "description": null,
+        "image": "myrepas\\Café_Noir.jpg"
+    },
+    {
+        "id": 178,
+        "nom": "Tajine kefta",
+        "prix": 75,
+        "type": "Tajine",
+        "description": null,
+        "image": "myrepas\\Café_Noir.jpg"
+    },
+    {
+        "id": 179,
+        "nom": "Tajine de bœuf",
+        "prix": 80,
+        "type": "Tajine",
+        "description": null,
+        "image": "myrepas\\Café_Noir.jpg"
+    },
+    {
+        "id": 180,
+        "nom": "Tajine d'agneau",
+        "prix": 85,
+        "type": "Tajine",
+        "description": null,
+        "image": "myrepas\\Café_Noir.jpg"
+    },
+    {
+        "id": 181,
+        "nom": "Tajine au citron",
+        "prix": 90,
+        "type": "Tajine",
+        "description": null,
+        "image": "myrepas\\Café_Noir.jpg"
+    },
+    {
+        "id": 182,
+        "nom": "Tajine aux pommes de terre",
+        "prix": 80,
+        "type": "Tajine",
+        "description": null,
+        "image": "myrepas\\Café_Noir.jpg"
+    },
+    {
+        "id": 183,
+        "nom": "Harira",
+        "prix": 25,
+        "type": "Soupe",
+        "description": null,
+        "image": "myrepas\\Café_Noir.jpg"
+    },
+    {
+        "id": 184,
+        "nom": "Salade Méchouia",
+        "prix": 20,
+        "type": "Salade",
         "description": null,
         "image": "myrepas\\Café_Noir.jpg"
     },
     {
         "id": 185,
-        "nom": "TAJINE CREVETTE",
-        "prix": 45,
-        "type": "Lesomelettes",
+        "nom": "Salade Marocaine",
+        "prix": 30,
+        "type": "Salade",
+        "description": null,
+        "image": "myrepas\\Café_Noir.jpg"
+    },
+    {
+        "id": 186,
+        "nom": "Jben",
+        "prix": 12,
+        "type": "Fromage",
+        "description": null,
+        "image": "myrepas\\Jben.jpg"
+    },
+    {
+        "id": 187,
+        "nom": "Moutarde",
+        "prix": 5,
+        "type": "Condiment",
+        "description": null,
+        "image": "myrepas\\Café_Noir.jpg"
+    },
+    {
+        "id": 188,
+        "nom": "Mayonnaise",
+        "prix": 5,
+        "type": "Condiment",
+        "description": null,
+        "image": "myrepas\\Café_Noir.jpg"
+    },
+    {
+        "id": 189,
+        "nom": "Ketchup",
+        "prix": 5,
+        "type": "Condiment",
+        "description": null,
+        "image": "myrepas\\Café_Noir.jpg"
+    },
+    {
+        "id": 190,
+        "nom": "Huile d'olive",
+        "prix": 10,
+        "type": "Condiment",
+        "description": null,
+        "image": "myrepas\\Café_Noir.jpg"
+    },
+    {
+        "id": 191,
+        "nom": "Vinaigre",
+        "prix": 5,
+        "type": "Condiment",
+        "description": null,
+        "image": "myrepas\\Café_Noir.jpg"
+    },
+    {
+        "id": 192,
+        "nom": "Herbes de Provence",
+        "prix": 7,
+        "type": "Épice",
+        "description": null,
+        "image": "myrepas\\Café_Noir.jpg"
+    },
+    {
+        "id": 193,
+        "nom": "Cumin",
+        "prix": 5,
+        "type": "Épice",
+        "description": null,
+        "image": "myrepas\\Café_Noir.jpg"
+    },
+    {
+        "id": 194,
+        "nom": "Paprika",
+        "prix": 5,
+        "type": "Épice",
+        "description": null,
+        "image": "myrepas\\Café_Noir.jpg"
+    },
+    {
+        "id": 195,
+        "nom": "Curry",
+        "prix": 5,
+        "type": "Épice",
+        "description": null,
+        "image": "myrepas\\Café_Noir.jpg"
+    },
+    {
+        "id": 196,
+        "nom": "Garam Masala",
+        "prix": 7,
+        "type": "Épice",
+        "description": null,
+        "image": "myrepas\\Café_Noir.jpg"
+    },
+    {
+        "id": 197,
+        "nom": "Basilic",
+        "prix": 5,
+        "type": "Épice",
+        "description": null,
+        "image": "myrepas\\Café_Noir.jpg"
+    },
+    {
+        "id": 198,
+        "nom": "Thym",
+        "prix": 5,
+        "type": "Épice",
+        "description": null,
+        "image": "myrepas\\Café_Noir.jpg"
+    },
+    {
+        "id": 199,
+        "nom": "Origan",
+        "prix": 5,
+        "type": "Épice",
+        "description": null,
+        "image": "myrepas\\Café_Noir.jpg"
+    },
+    {
+        "id": 200,
+        "nom": "Sel",
+        "prix": 1,
+        "type": "Épice",
+        "description": null,
+        "image": "myrepas\\Café_Noir.jpg"
+    },
+    {
+        "id": 201,
+        "nom": "Poivre",
+        "prix": 5,
+        "type": "Épice",
+        "description": null,
+        "image": "myrepas\\Café_Noir.jpg"
+    },
+    {
+        "id": 202,
+        "nom": "Pistaches",
+        "prix": 60,
+        "type": "Noix",
+        "description": null,
+        "image": "myrepas\\Café_Noir.jpg"
+    },
+    {
+        "id": 203,
+        "nom": "Amandes",
+        "prix": 55,
+        "type": "Noix",
+        "description": null,
+        "image": "myrepas\\Café_Noir.jpg"
+    },
+    {
+        "id": 204,
+        "nom": "Noix de cajou",
+        "prix": 60,
+        "type": "Noix",
+        "description": null,
+        "image": "myrepas\\Café_Noir.jpg"
+    },
+    {
+        "id": 205,
+        "nom": "Pécan",
+        "prix": 70,
+        "type": "Noix",
+        "description": null,
+        "image": "myrepas\\Café_Noir.jpg"
+    },
+    {
+        "id": 206,
+        "nom": "Noisettes",
+        "prix": 55,
+        "type": "Noix",
+        "description": null,
+        "image": "myrepas\\Café_Noir.jpg"
+    },
+    {
+        "id": 207,
+        "nom": "Mélange de noix",
+        "prix": 75,
+        "type": "Noix",
         "description": null,
         "image": "myrepas\\Café_Noir.jpg"
     }
-
 ]

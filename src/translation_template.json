@@ -1,64 +1,70 @@
 {
     "type": {
-        
-            "Standard drinks": {
-                "Français": "Boissons standards",
-                "Deutsch": "Standardgetränke",
-                "العربية": "مشروبات عادية",
-                "English": "Standard drinks",
-                "中文": "标准饮品",
-                "Español": "Bebidas estándar"
-            },
-            "Sucré": {
-                "Français": "Sucré",
-                "Deutsch": "Süß",
-                "العربية": "حلو",
-                "English": "Sweet",
-                "中文": "甜",
-                "Español": "Dulce"
-            },
-            "Salé": {
-                "Français": "Salé",
-                "Deutsch": "Salzig",
-                "العربية": "مالح",
-                "English": "Salty",
-                "中文": "咸",
-                "Español": "Salado"
-            },
-            "Gold drinks": {
-                "Français": "Boissons dorées",
-                "Deutsch": "Goldene Getränke",
-                "العربية": "مشروبات ذهبية",
-                "English": "Gold drinks",
-                "中文": "金色饮品",
-                "Español": "Bebidas doradas"
-            },
-            "Club Sandwich": {
-                "Français": "Club Sandwich",
-                "Deutsch": "Club-Sandwich",
-                "العربية": "شطيرة كلوب",
-                "English": "Club Sandwich",
-                "中文": "俱乐部三明治",
-                "Español": "Sándwich club"
-            },
-            "Menu": {
-                "Français": "Menu",
-                "Deutsch": "Menü",
-                "العربية": "القائمة",
-                "English": "Menu",
-                "中文": "菜单",
-                "Español": "Menú"
-            },
-            "tout": {
-                "Français": "Tout",
-                "Deutsch": "Alles",
-                "العربية": "الكل",
-                "English": "All",
-                "中文": "全部",
-                "Español": "Todo"
-            }
-        ,
-        
+        "Lesomelettes": {
+    "Français": "Lesomelettes",
+    "Deutsch": "Omeletts",
+    "العربية": "العجة",
+    "English": "Omelettes",
+    "中文": "煎蛋卷",
+    "Español": "Tortillas francesas"
+}
+,
+        "Standard drinks": {
+            "Français": "Boissons standards",
+            "Deutsch": "Standardgetränke",
+            "العربية": "مشروبات عادية",
+            "English": "Standard drinks",
+            "中文": "标准饮品",
+            "Español": "Bebidas estándar"
+        },
+        "Sucré": {
+            "Français": "Sucré",
+            "Deutsch": "Süß",
+            "العربية": "حلو",
+            "English": "Sweet",
+            "中文": "甜",
+            "Español": "Dulce"
+        },
+        "Salé": {
+            "Français": "Salé",
+            "Deutsch": "Salzig",
+            "العربية": "مالح",
+            "English": "Salty",
+            "中文": "咸",
+            "Español": "Salado"
+        },
+        "Gold drinks": {
+            "Français": "Boissons dorées",
+            "Deutsch": "Goldene Getränke",
+            "العربية": "مشروبات ذهبية",
+            "English": "Gold drinks",
+            "中文": "金色饮品",
+            "Español": "Bebidas doradas"
+        },
+        "Club Sandwich": {
+            "Français": "Club Sandwich",
+            "Deutsch": "Club-Sandwich",
+            "العربية": "شطيرة كلوب",
+            "English": "Club Sandwich",
+            "中文": "俱乐部三明治",
+            "Español": "Sándwich club"
+        },
+        "Menu": {
+            "Français": "Menu",
+            "Deutsch": "Menü",
+            "العربية": "القائمة",
+            "English": "Menu",
+            "中文": "菜单",
+            "Español": "Menú"
+        },
+        "tout": {
+            "Français": "Tout",
+            "Deutsch": "Alles",
+            "العربية": "الكل",
+            "English": "All",
+            "中文": "全部",
+            "Español": "Todo"
+        },
         "Sandwich": {
             "Français": "Sandwich",
             "Deutsch": "Sandwich",
@@ -67,13 +73,61 @@
             "中文": "三明治",
             "Español": "Sándwich"
         },
-        "Detox": {
-            "Français": "Détox",
-            "Deutsch": "Entgiftung",
-            "العربية": "إزالة السموم",
-            "English": "Detox",
-            "中文": "排毒",
-            "Español": "Desintoxicación"
+        "Pancake": {
+            "Français": "Pancake",
+            "Deutsch": "Pfannkuchen",
+            "العربية": "فطيرة",
+            "English": "Pancake",
+            "中文": "饼子",
+            "Español": "Pancake"
+        },
+        "starters": {
+            "Français": "entrées",
+            "Deutsch": "Vorspeisen",
+            "العربية": "مبتدئين",
+            "English": "starters",
+            "中文": "开胃菜",
+            "Español": "Entrantes"
+        },
+        "Brunch": {
+            "Français": "Brunch",
+            "Deutsch": "Brunch",
+            "العربية": "وجبة فطور وغداء",
+            "English": "Brunch",
+            "中文": "早午餐",
+            "Español": "Desalmuerzo"
+        },
+        "Cappuccino": {
+            "Français": "Cappuccino",
+            "Deutsch": "Cappuccino",
+            "العربية": "كابتشينو",
+            "English": "Cappuccino",
+            "中文": "卡布奇诺",
+            "Español": "Capuchino"
+        },
+        "Gaufre": {
+            "Français": "Gaufre",
+            "Deutsch": "Waffel",
+            "العربية": "وافل",
+            "English": "Waffle",
+            "中文": "胡扯",
+            "Español": "Gofre"
+        },
+        "à la carte": {
+            "Français": "à la carte",
+            "Deutsch": "à la carte",
+            "العربية": "حسب الطلب",
+            "English": "a la carte",
+            "中文": "点菜",
+            "Español": "A la carta"
+        },
+        "Nos Jus": {
+            "Français": "Nous venons de",
+            "Deutsch": "Wir haben gerade",
+            "العربية": "نحن فقط",
+            "English": "We Just",
+            "中文": "我们只是",
+            "Español": "Nos Jus"
         },
         "drink": {
             "Français": "boire",
@@ -89,183 +143,7 @@
             "العربية": "فوندو الشوكولاتة",
             "English": "Chocolate Fondue",
             "中文": "巧克力火锅",
-            "Español": "Fondue de chocolate"
-        },
-        "à la carte": {
-            "Français": "à la carte",
-            "Deutsch": "à la carte",
-            "العربية": "حسب الطلب",
-            "English": "a la carte",
-            "中文": "点菜",
-            "Español": "A la carta"
-        },
-        "Brunch": {
-            "Français": "Brunch",
-            "Deutsch": "Brunch",
-            "العربية": "وجبة فطور وغداء",
-            "English": "Brunch",
-            "中文": "早午餐",
-            "Español": "Desalmuerzo"
-        },
-        "Cocktail": {
-            "Français": "Cocktail",
-            "Deutsch": "Cocktail",
-            "العربية": "كوكتيل",
-            "English": "Cocktail",
-            "中文": "鸡尾酒",
-            "Español": "Cóctel"
-        },
-        "Thé": {
-            "Français": "Thé",
-            "Deutsch": "Tee",
-            "العربية": "الشاي",
-            "English": "Tea",
-            "中文": " 茶",
-            "Español": "Té"
-        },
-        "Espresso": {
-            "Français": "Espresso",
-            "Deutsch": "Espresso",
-            "العربية": "إسبرسو",
-            "English": "Espresso",
-            "中文": "浓缩咖啡",
-            "Español": "Café exprés"
-        },
-        "Mojito": {
-            "Français": "Mojito",
-            "Deutsch": "Mojito",
-            "العربية": "موخيتو",
-            "English": "Mojito",
-            "中文": "莫吉托",
-            "Español": "Mojito"
-        },
-        "Nos Smoothies": {
-            "Français": "Nos smoothies",
-            "Deutsch": "Unsere Smoothies",
-            "العربية": "عصائرنا",
-            "English": "Nos Smoothies",
-            "中文": "诺斯冰沙",
-            "Español": "Batidos Nos"
-        },
-        "Boissons Fraiches": {
-            "Français": "Boissons Fraiches",
-            "Deutsch": "Kalte Getränke",
-            "العربية": "المشروبات الباردة",
-            "English": "Cold Drinks",
-            "中文": "冷饮",
-            "Español": "Bebidas frías"
-        },
-        "Gaufre": {
-            "Français": "Gaufre",
-            "Deutsch": "Waffel",
-            "العربية": "وافل",
-            "English": "Waffle",
-            "中文": "胡扯",
-            "Español": "Gofre"
-        },
-        "Petits Déjeuners": {
-            "Français": "Petits Déjeuners",
-            "Deutsch": "Frühstück",
-            "العربية": "وجبات الإفطار",
-            "English": "Breakfasts",
-            "中文": "早餐",
-            "Español": "Desayunos"
-        },
-        "Dessert": {
-            "Français": "Dessert",
-            "Deutsch": "Nachtisch",
-            "العربية": "حَلوَى",
-            "English": "Dessert",
-            "中文": "甜点",
-            "Español": "Postre"
-        },
-        "Ice Coffée": {
-            "Français": "Café glacé",
-            "Deutsch": "Eiskaffee",
-            "العربية": "قهوة مثلجة",
-            "English": "Ice Coffée",
-            "中文": "冰咖啡",
-            "Español": "Café helado"
-        },
-        "Pancake": {
-            "Français": "Crêpe",
-            "Deutsch": "Pfannkuchen",
-            "العربية": "فطيرة",
-            "English": "Pancake",
-            "中文": "饼子",
-            "Español": "Crepe"
-        },
-        "dinner": {
-            "Français": "dîner",
-            "Deutsch": "Abendessen",
-            "العربية": "عشاء",
-            "English": "dinner",
-            "中文": "晚餐",
-            "Español": "cena"
-        },
-        "Cappuccino": {
-            "Français": "Cappuccino",
-            "Deutsch": "Cappuccino",
-            "العربية": "كابتشينو",
-            "English": "Cappuccino",
-            "中文": "卡布奇诺",
-            "Español": "Capuchino"
-        },
-        "Frappuccino": {
-            "Français": "Frappuccino",
-            "Deutsch": "Frappuccino",
-            "العربية": "فرابوتشينو",
-            "English": "Frappuccino",
-            "中文": "星冰乐",
-            "Español": "Frappuccino"
-        },
-        "main": {
-            "Français": "principal",
-            "Deutsch": "hauptsächlich",
-            "العربية": "رئيسي",
-            "English": "main",
-            "中文": "主要的",
-            "Español": "principal"
-        },
-        "starters": {
-            "Français": "entrées",
-            "Deutsch": "Vorspeisen",
-            "العربية": "مبتدئين",
-            "English": "starters",
-            "中文": "开胃菜",
-            "Español": "Entrantes"
-        },
-        "Supplements": {
-            "Français": "Suppléments",
-            "Deutsch": "Ergänzungen",
-            "العربية": "المكملات الغذائية",
-            "English": "Supplements",
-            "中文": "补充剂",
-            "Español": "Suplementos"
-        },
-        "Crêpe": {
-            "Français": "Crêpe",
-            "Deutsch": "Pfannkuchen",
-            "العربية": "فطيرة",
-            "English": "Pancake",
-            "中文": "饼子",
-            "Español": "Crepe"
-        },
-        "lunch": {
-            "Français": "déjeuner",
-            "Deutsch": "Mittagessen",
-            "العربية": "غداء",
-            "English": "lunch",
-            "中文": "午餐",
-            "Español": "almuerzo"
-        },
-        "Nos Jus": {
-            "Français": "Nous venons de",
-            "Deutsch": "Wir haben gerade",
-            "العربية": "نحن فقط",
-            "English": "We Just",
-            "中文": "我们只是",
-            "Español": "Nos Jus"
+            "Español": "fondue de chocolate"
         },
         "Crêpe salé": {
             "Français": "Crêpe salé",
@@ -283,13 +161,109 @@
             "中文": "奶昔",
             "Español": "Batidos de leche"
         },
-        "Ice tea": {
-            "Français": "Thé glacé",
-            "Deutsch": "Eistee",
-            "العربية": "شاي مثلج",
-            "English": "Ice tea",
-            "中文": "冰茶",
-            "Español": "Té helado"
+        "Espresso": {
+            "Français": "Espresso",
+            "Deutsch": "Espresso",
+            "العربية": "إسبرسو",
+            "English": "Espresso",
+            "中文": "浓缩咖啡",
+            "Español": "Café exprés"
+        },
+        "Frappuccino": {
+            "Français": "Frappuccino",
+            "Deutsch": "Frappuccino",
+            "العربية": "فرابوتشينو",
+            "English": "Frappuccino",
+            "中文": "星冰乐",
+            "Español": "Frappuccino"
+        },
+        "lunch": {
+            "Français": "déjeuner",
+            "Deutsch": "Mittagessen",
+            "العربية": "غداء",
+            "English": "lunch",
+            "中文": "午餐",
+            "Español": "almuerzo"
+        },
+        "dinner": {
+            "Français": "dîner",
+            "Deutsch": "Abendessen",
+            "العربية": "عشاء",
+            "English": "dinner",
+            "中文": "晚餐",
+            "Español": "cena"
+        },
+        "Detox": {
+            "Français": "Détox",
+            "Deutsch": "Entgiftung",
+            "العربية": "إزالة السموم",
+            "English": "Detox",
+            "中文": "排毒",
+            "Español": "Desintoxicación"
+        },
+        "Ice Coffée": {
+            "Français": "Café glacé",
+            "Deutsch": "Eiskaffee",
+            "العربية": "قهوة مثلجة",
+            "English": "Ice Coffée",
+            "中文": "冰咖啡",
+            "Español": "Café helado"
+        },
+        "Thé": {
+            "Français": "Le",
+            "Deutsch": "Der",
+            "العربية": "ال",
+            "English": "Thé",
+            "中文": "这",
+            "Español": "El"
+        },
+        "Petits Déjeuners": {
+            "Français": "Petits Déjeuners",
+            "Deutsch": "Frühstück",
+            "العربية": "وجبات الإفطار",
+            "English": "Breakfasts",
+            "中文": "早餐",
+            "Español": "Desayunos"
+        },
+        "Boissons Fraiches": {
+            "Français": "Boissons Fraiches",
+            "Deutsch": "Kalte Getränke",
+            "العربية": "المشروبات الباردة",
+            "English": "Cold Drinks",
+            "中文": "冷饮",
+            "Español": "Bebidas frías"
+        },
+        "Mojito": {
+            "Français": "Mojito",
+            "Deutsch": "Mojito",
+            "العربية": "موخيتو",
+            "English": "Mojito",
+            "中文": "莫吉托",
+            "Español": "Mojito"
+        },
+        "Cocktail": {
+            "Français": "Cocktail",
+            "Deutsch": "Cocktail",
+            "العربية": "كوكتيل",
+            "English": "Cocktail",
+            "中文": "鸡尾酒",
+            "Español": "Cóctel"
+        },
+        "main": {
+            "Français": "principal",
+            "Deutsch": "hauptsächlich",
+            "العربية": "رئيسي",
+            "English": "main",
+            "中文": "主要的",
+            "Español": "principal"
+        },
+        "Nos Smoothies": {
+            "Français": "Nos smoothies",
+            "Deutsch": "Unsere Smoothies",
+            "العربية": "عصائرنا",
+            "English": "Nos Smoothies",
+            "中文": "诺斯冰沙",
+            "Español": "Batidos Nos"
         },
         "Café crème": {
             "Français": "Café crème",
@@ -298,952 +272,48 @@
             "English": "Coffee cream",
             "中文": "咖啡奶油",
             "Español": "Crema de café"
+        },
+        "Dessert": {
+            "Français": "Dessert",
+            "Deutsch": "Nachtisch",
+            "العربية": "حَلوَى",
+            "English": "Dessert",
+            "中文": "甜点",
+            "Español": "Postre"
+        },
+        "Ice tea": {
+            "Français": "Thé glacé",
+            "Deutsch": "Eistee",
+            "العربية": "شاي مثلج",
+            "English": "Ice tea",
+            "中文": "冰茶",
+            "Español": "Té helado"
+        },
+        "Supplements": {
+            "Français": "Suppléments",
+            "Deutsch": "Ergänzungen",
+            "العربية": "المكملات الغذائية",
+            "English": "Supplements",
+            "中文": "补充剂",
+            "Español": "Suplementos"
+        },
+        "Crêpe": {
+            "Français": "Crêpe",
+            "Deutsch": "Pfannkuchen",
+            "العربية": "فطيرة",
+            "English": "Crepe",
+            "中文": "饼子",
+            "Español": "Crepe"
         }
     },
     "nom": {
-        "Jus Ananas": {
-            "Français": "Jus Ananas",
-            "Deutsch": "Ananassaft",
-            "العربية": "عصير الأناناس",
-            "English": "Pineapple Juice",
-            "中文": "菠萝汁",
-            "Español": "Jugo de piña"
-        },
-        "Express": {
-            "Français": "Exprimer",
-            "Deutsch": "Äußern",
-            "العربية": "يعبر",
-            "English": "Express",
-            "中文": "表达",
-            "Español": "Expresar"
-        },
-        "Jus Exotique": {
-            "Français": "Jus Exotique",
-            "Deutsch": "Exotischer Saft",
-            "العربية": "عصير غريب",
-            "English": "Exotic Juice",
-            "中文": "异国风味果汁",
-            "Español": "Jugo exótico"
-        },
-        "Milk shakes Magnum": {
-            "Français": "Milk-shakes Magnum",
-            "Deutsch": "Milchshakes Magnum",
-            "العربية": "ميلك شيك ماجنوم",
-            "English": "Milk shakes Magnum",
-            "中文": "玛格南奶昔",
-            "Español": "Batidos de leche Magnum"
-        },
-        "Croquer (4pc)": {
-            "Français": "Croquer (4pc)",
-            "Deutsch": "Knuspern (4 Stück)",
-            "العربية": "كرانش (4 قطع)",
-            "English": "Crunch (4pc)",
-            "中文": "紧缩（4件）",
-            "Español": "Crunch (4 piezas)"
-        },
-        "Pancake Caramel": {
-            "Français": "Crêpes Caramel",
-            "Deutsch": "Pfannkuchen Karamell",
-            "العربية": "فطيرة الكراميل",
-            "English": "Pancake Caramel",
-            "中文": "煎饼焦糖",
-            "Español": "Panqueque de caramelo"
-        },
-        "Soda": {
-            "Français": "Soude",
-            "Deutsch": "Soda",
-            "العربية": "صودا",
-            "English": "Soda",
-            "中文": "苏打",
-            "Español": "Soda"
-        },
-        "Ice coffee Chocolat": {
-            "Français": "Café glacé Chocolat",
-            "Deutsch": "Eiskaffee Schokolade",
-            "العربية": "قهوة مثلجة بالشوكولاتة",
-            "English": "Ice coffee Chocolat",
-            "中文": "冰咖啡 巧克力",
-            "Español": "Café helado con chocolate"
-        },
-        "Crêpe Mix fromagère": {
-            "Français": "Crêpe Mix fromagère",
-            "Deutsch": "Crepe-Mix-Käse",
-            "العربية": "مزيج كريب الجبن",
-            "English": "Cheese Crepe Mix",
-            "中文": "奶酪薄饼混合物",
-            "Español": "Mezcla para crepes de queso"
-        },
-        "Paradis Smoothies": {
-            "Français": "Paradis Smoothies",
-            "Deutsch": "Paradies-Smoothies",
-            "العربية": "عصائر باراديس",
-            "English": "Paradis Smoothies",
-            "中文": "天堂冰沙",
-            "Español": "Batidos Paradis"
-        },
-        "Viennoiserie (3pc)": {
-            "Français": "Viennoiserie (3pc)",
-            "Deutsch": "Wiener Gebäck (3 Stück)",
-            "العربية": "معجنات فيينا (3 قطع)",
-            "English": "Viennese pastry (3pc)",
-            "中文": "维也纳糕点 (3件)",
-            "Español": "Pasteles vieneses (3 piezas)"
-        },
-        "Merci": {
-            "Français": "Merci",
-            "Deutsch": "Danke",
-            "العربية": "شكرا",
-            "English": "Merci",
-            "中文": "谢谢",
-            "Español": "Gracias"
-        },
-        "Frappuccino Caramel": {
-            "Français": "Frappuccino Caramel",
-            "Deutsch": "Frappuccino Karamell",
-            "العربية": "فرابوتشينو كراميل",
-            "English": "Frappuccino Caramel",
-            "中文": "焦糖星冰乐",
-            "Español": "Frappuccino de caramelo"
-        },
-        "Gaufre Lotus": {
-            "Français": "Gaufre Lotus",
-            "Deutsch": "Lotus Waffel",
-            "العربية": "وافل اللوتس",
-            "English": "Lotus Waffle",
-            "中文": "莲花华夫饼",
-            "Español": "Gofre de loto"
-        },
-        "Jben": {
-            "Français": "Jben",
-            "Deutsch": "Jben",
-            "العربية": "جبين",
-            "English": "Jben",
-            "中文": "杰本",
-            "Español": "Jben"
-        },
-        "Pancake Frutti": {
-            "Français": "Crêpes aux fruits",
-            "Deutsch": "Fruchtpfannkuchen",
-            "العربية": "فطائر الفاكهة",
-            "English": "Fruit Pancakes",
-            "中文": "水果煎饼",
-            "Español": "Panqueques de frutas"
-        },
-        "Café Noir Aromatisé": {
-            "Français": "Café Noir Aromatisé",
-            "Deutsch": "Aromatisierter schwarzer Kaffee",
-            "العربية": "قهوة سوداء بنكهة",
-            "English": "Flavored Black Coffee",
-            "中文": "风味黑咖啡",
-            "Español": "Café negro con sabor"
-        },
-        "Nature": {
-            "Français": "Nature",
-            "Deutsch": "Natur",
-            "العربية": "طبيعة",
-            "English": "Nature",
-            "中文": "自然",
-            "Español": "Naturaleza"
-        },
-        "Cheesecake Orio": {
-            "Français": "Gâteau au fromage Orio",
-            "Deutsch": "Käsekuchen Orio",
-            "العربية": "تشيز كيك أوريو",
-            "English": "Cheesecake Orio",
-            "中文": "芝士蛋糕奥利奥",
-            "Español": "Tarta de queso Orio"
-        },
-        "Gaufre Fruit Sec": {
-            "Français": "Gaufre Fruit Sec",
-            "Deutsch": "Trockenfruchtwaffel",
-            "العربية": "وافل الفواكه المجففة",
-            "English": "Dried Fruit Waffle",
-            "中文": "干果华夫饼",
-            "Español": "Gofre de frutos secos"
-        },
-        "Cocktail Virgin Colada": {
-            "Français": "Cocktail Virgin Colada",
-            "Deutsch": "Cocktail Virgin Colada",
-            "العربية": "كوكتيل فيرجن كولادا",
-            "English": "Cocktail Virgin Colada",
-            "中文": "鸡尾酒 Virgin Colada",
-            "Español": "Cóctel colada virgen"
-        },
-        "Milk shakes Fraise": {
-            "Français": "Milk-shakes à la fraise",
-            "Deutsch": "Milchshakes Fraise",
-            "العربية": "ميلك شيك فرايز",
-            "English": "Milk shakes Fraise",
-            "中文": "奶昔 Fraise",
-            "Español": "Batidos de leche Fraise"
-        },
-        "Tropical Smoothies": {
-            "Français": "Smoothies tropicaux",
-            "Deutsch": "Tropische Smoothies",
-            "العربية": "العصائر الاستوائية",
-            "English": "Tropical Smoothies",
-            "中文": "热带冰沙",
-            "Español": "Batidos tropicales"
-        },
-        "Amlou": {
-            "Français": "Amlou",
-            "Deutsch": "Amlou",
-            "العربية": "Amlou",
-            "English": "Amlou",
-            "中文": "阿姆卢",
-            "Español": "Amlou"
-        },
-        "Orio": {
-            "Français": "Orio",
-            "Deutsch": "Orio",
-            "العربية": "أوريو",
-            "English": "Orio",
-            "中文": "奥里奥",
-            "Español": "Orio"
-        },
-        "Sandwich Croque-monsieur": {
-            "Français": "Sandwich Croque-monsieur",
-            "Deutsch": "Croque-Monsieur-Sandwich",
-            "العربية": "ساندويتش كروك مسيو",
-            "English": "Croque-monsieur sandwich",
-            "中文": "法式烤面包三明治",
-            "Español": "Sándwich de croque-monsieur"
-        },
-        "Sandwich Thon": {
-            "Français": "Sandwich Thon",
-            "Deutsch": "Sandwich Thon",
-            "العربية": "ساندويتش ثون",
-            "English": "Sandwich Thon",
-            "中文": "三明治",
-            "Español": "Maratón de sándwiches"
-        },
-        "Chocolat Fondue": {
-            "Français": "Chocolat Fondue",
-            "Deutsch": "Schokoladenfondue",
-            "العربية": "فوندو الشوكولاتة",
-            "English": "Chocolate Fondue",
-            "中文": "巧克力火锅",
-            "Español": "fondue de chocolate"
-        },
-        "Jus Fruit rouge": {
-            "Français": "Jus de fruit rouge",
-            "Deutsch": "Jus Fruchtrot",
-            "العربية": "عصير الفاكهة الأحمر",
-            "English": "Jus Fruit rouge",
-            "中文": "红色水果酱",
-            "Español": "Jugo de fruta roja"
-        },
-        "Taktouka": {
-            "Français": "Tactouka",
-            "Deutsch": "Taketouka",
-            "العربية": "تاكيتوكا",
-            "English": "Taketouka",
-            "中文": "竹藤冈",
-            "Español": "Taketouka"
-        },
-        "Jus Avocat": {
-            "Français": "Jus Avocat",
-            "Deutsch": "Avocadosaft",
-            "العربية": "عصير الافوكادو",
-            "English": "Avocado Juice",
-            "中文": "鳄梨汁",
-            "Español": "Jugo de aguacate"
-        },
-        "Crêpe Fruit Sec": {
-            "Français": "Crêpe Fruit Sec",
-            "Deutsch": "Crêpe mit Trockenfrüchten",
-            "العربية": "كريب الفواكه المجففة",
-            "English": "Dried Fruit Crepe",
-            "中文": "干果薄饼",
-            "Español": "Crepe de frutos secos"
-        },
-        "tajine": {
-            "Français": "tajine",
-            "Deutsch": "Tajine",
-            "العربية": "طاجين",
-            "English": "tagine",
-            "中文": "塔吉锅",
-            "Español": "tajine"
-        },
-        "Energy": {
-            "Français": "Énergie",
-            "Deutsch": "Energie",
-            "العربية": "طاقة",
-            "English": "Energy",
-            "中文": "活力",
-            "Español": "Energía"
-        },
-        "Jus Orange": {
-            "Français": "Jus d'orange",
-            "Deutsch": "Orangensaft",
-            "العربية": "عصير البرتقال",
-            "English": "Jus Orange",
-            "中文": "橙汁法",
-            "Español": "Jugo de naranja"
-        },
-        "Tagine viande haché": {
-            "Français": "Tagine viande haché",
-            "Deutsch": "Hackfleisch-Tajine",
-            "العربية": "طاجن لحم مفروم",
-            "English": "Minced meat tagine",
-            "中文": "碎肉塔吉锅",
-            "Español": "Tajine de carne picada"
-        },
-        "Jus Cocktails de fruits": {
-            "Français": "Jus Cocktails de fruits",
-            "Deutsch": "Fruchtsäfte und Fruchtcocktails",
-            "العربية": "كوكتيلات عصير الفواكه",
-            "English": "Jus Cocktails de fruits",
-            "中文": "水果鸡尾酒",
-            "Español": "Cócteles de jugo de frutas"
-        },
-        "Crêpe Dinde": {
-            "Français": "Crêpe Dinde",
-            "Deutsch": "Puten-Crêpe",
-            "العربية": "كريب الديك الرومي",
-            "English": "Turkey Crepe",
-            "中文": "火鸡薄饼",
-            "Español": "Crepe de pavo"
-        },
-        "Moroccan Chicken with Apricot and Olive Relish": {
-            "Français": "Poulet marocain avec relish d'abricots et d'olives",
-            "Deutsch": "Marokkanisches Hähnchen mit Aprikosen-Oliven-Relish",
-            "العربية": "دجاج مغربي مع صلصة المشمش والزيتون",
-            "English": "Moroccan Chicken with Apricot and Olive Relish",
-            "中文": "摩洛哥杏子橄榄鸡",
-            "Español": "Pollo marroquí con salsa de albaricoque y aceitunas"
-        },
-        "Personnel": {
-            "Français": "Personnel",
-            "Deutsch": "Personal",
-            "العربية": "الموظفين",
-            "English": "Personnel",
-            "中文": "人员",
-            "Español": "Personal"
-        },
-        "Pancake Fruit Sec": {
-            "Français": "Crêpes aux fruits secs",
-            "Deutsch": "Pfannkuchen-Frucht-Sec",
-            "العربية": "فطيرة الفاكهة",
-            "English": "Pancake Fruit Sec",
-            "中文": "煎饼水果",
-            "Español": "Panqueque de fruta seca"
-        },
-        "Cheesecake Fraise": {
-            "Français": "Gâteau au fromage aux fraises",
-            "Deutsch": "Erdbeer-Käsekuchen",
-            "العربية": "تشيز كيك الفراولة",
-            "English": "Strawberry cheesecake",
-            "中文": "草莓芝士蛋糕",
-            "Español": "Tarta de queso y fresas"
-        },
-        "Crêpe Spéciale": {
-            "Français": "Crêpe Spéciale",
-            "Deutsch": "Spezial-Crêpe",
-            "العربية": "كريب خاص",
-            "English": "Special Crepe",
-            "中文": "特制绉布",
-            "Español": "Crepe Especial"
-        },
-        "Vert vitamine": {
-            "Français": "Vert vitamine",
-            "Deutsch": "Grünes Vitamin",
-            "العربية": "فيتامين اخضر",
-            "English": "Green vitamin",
-            "中文": "绿色维生素",
-            "Español": "Vitamina verde"
-        },
-        "Tagine œuf & Tomate": {
-            "Français": "Tagine œuf & Tomate",
-            "Deutsch": "Ei-Tomaten-Tajine",
-            "العربية": "طاجن البيض والطماطم",
-            "English": "Egg & Tomato Tagine",
-            "中文": "鸡蛋番茄塔吉锅",
-            "Español": "Tajine de huevo y tomate"
-        },
-        "Eau gazeuse": {
-            "Français": "Eau gazeuse",
-            "Deutsch": "Sprudelwasser",
-            "العربية": "المياه الفوارة",
-            "English": "sparkling water",
-            "中文": "汽水",
-            "Español": "agua con gas"
-        },
-        "Couscous": {
-            "Français": "Couscous",
-            "Deutsch": "Couscous",
-            "العربية": "الكسكس",
-            "English": "Couscous",
-            "中文": "蒸粗麦粉",
-            "Español": "Cuscús"
-        },
-        "Huile d’olives": {
-            "Français": "Huile d’olives",
-            "Deutsch": "Olivenöl",
-            "العربية": "زيت الزيتون",
-            "English": "Olive oil",
-            "中文": "橄榄油",
-            "Español": "Aceite de oliva"
-        },
-        "Jus Banane": {
-            "Français": "Jus Banane",
-            "Deutsch": "Bananensaft",
-            "العربية": "عصير الموز",
-            "English": "Banana Juice",
-            "中文": "香蕉汁",
-            "Español": "Jugo de plátano"
-        },
-        "Red Bull Mojito": {
-            "Français": "Mojito Red Bull",
-            "Deutsch": "Red Bull Mojito",
-            "العربية": "ريد بول موهيتو",
-            "English": "Red Bull Mojito",
-            "中文": "红牛莫吉托",
-            "Español": "Mojito Red Bull"
-        },
-        "Frappuccino noisette": {
-            "Français": "Frappuccino noisette",
-            "Deutsch": "Haselnuss-Frappuccino",
-            "العربية": "فرابوتشينو البندق",
-            "English": "Hazelnut Frappuccino",
-            "中文": "榛子星冰乐",
-            "Español": "Frappuccino de avellanas"
-        },
-        "Sandwich Œuf": {
-            "Français": "Sandwich Œuf",
-            "Deutsch": "Eier-Sandwich",
-            "العربية": "ساندويتش البيض",
-            "English": "Egg Sandwich",
-            "中文": "鸡蛋三明治",
-            "Español": "Sándwich de huevo"
-        },
-        "Gaufre Nutella": {
-            "Français": "Gaufre Nutella",
-            "Deutsch": "Nutella Waffel",
-            "العربية": "وافل نوتيلا",
-            "English": "Nutella Waffle",
-            "中文": "Nutella 华夫饼",
-            "Español": "gofre de nutella"
-        },
-        "Tagine crevette": {
-            "Français": "Tagine crevette",
-            "Deutsch": "Garnelen-Tajine",
-            "العربية": "طاجن الروبيان",
-            "English": "Shrimp tagine",
-            "中文": "虾塔吉锅",
-            "Español": "tajine de camarones"
-        },
-        "Gaufre Caramel": {
-            "Français": "Gaufre Caramel",
-            "Deutsch": "Karamellwaffel",
-            "العربية": "وافل الكراميل",
-            "English": "Caramel Waffle",
-            "中文": "焦糖华夫饼",
-            "Español": "Gofre de caramelo"
-        },
-        "Cheesecake Café": {
-            "Français": "Café au cheesecake",
-            "Deutsch": "Käsekuchen-Café",
-            "العربية": "مقهى تشيز كيك",
-            "English": "Cheesecake Cafe",
-            "中文": "芝士蛋糕咖啡厅",
-            "Español": "Café de tarta de queso"
-        },
-        "Crêpe Jambon": {
-            "Français": "Crêpe Jambon",
-            "Deutsch": "Schinken-Crêpe",
-            "العربية": "كريب لحم الخنزير",
-            "English": "Ham Crepe",
-            "中文": "火腿薄饼",
-            "Español": "Crepe de jamón"
-        },
-        "BEEF KEBAB": {
-            "Français": "KEBAB DE BŒUF",
-            "Deutsch": "RINDFLEISCH-KEBAB",
-            "العربية": "كباب لحم البقر",
-            "English": "BEEF KEBAB",
-            "中文": "牛肉串",
-            "Español": "BROCHETA DE CARNE DE TERNERA"
-        },
-        "Jus Citron gingembre menthe": {
-            "Français": "Jus Citron gingembre menthe",
-            "Deutsch": "Zitronen-Ingwer-Minzsaft",
-            "العربية": "عصير الليمون والزنجبيل والنعناع",
-            "English": "Lemon Ginger Mint Juice",
-            "中文": "柠檬姜薄荷汁",
-            "Español": "Jugo de limón, jengibre y menta"
-        },
-        "Crêpe Banano": {
-            "Français": "Crêpe à la banane",
-            "Deutsch": "Bananen-Crêpe",
-            "العربية": "كريب الموز",
-            "English": "Banana Crêpe",
-            "中文": "香蕉薄饼",
-            "Español": "Crepe de plátano"
-        },
-        "Latte noisette": {
-            "Français": "Latte noisette",
-            "Deutsch": "Haselnuss-Latte",
-            "العربية": "لاتيه البندق",
-            "English": "Hazelnut latte",
-            "中文": "榛子拿铁",
-            "Español": "Café con leche y avellanas"
-        },
-        "Kitkat": {
-            "Français": "Kit Kat",
-            "Deutsch": "KitKat",
-            "العربية": "كيت كات",
-            "English": "KitKat",
-            "中文": "奇巧",
-            "Español": "kitkat"
-        },
-        "Vanilla cappuccino": {
-            "Français": "Cappuccino à la vanille",
-            "Deutsch": "Vanille-Cappuccino",
-            "العربية": "كابتشينو الفانيليا",
-            "English": "Vanilla cappuccino",
-            "中文": "香草卡布奇诺",
-            "Español": "Capuchino de vainilla"
-        },
-        "Gaufre Trois chocolats": {
-            "Français": "Gaufre Trois chocolats",
-            "Deutsch": "Drei Schokoladenwaffeln",
-            "العربية": "وافل ثلاث حبات شوكولاتة",
-            "English": "Three Chocolate Waffle",
-            "中文": "三块巧克力华夫饼",
-            "Español": "Gofre de tres chocolates"
-        },
-        "Tagine khelii": {
-            "Français": "Tajine khelii",
-            "Deutsch": "Tagine khelii",
-            "العربية": "طاجن خليعي",
-            "English": "Tagine khelii",
-            "中文": "塔吉锅",
-            "Español": "Tajine de Khelii"
-        },
-        "Pancake Trois chocolats": {
-            "Français": "Pancake Trois chocolats",
-            "Deutsch": "Pfannkuchen Drei Pralinen",
-            "العربية": "فطيرة الشوكولاتة الثلاثة",
-            "English": "Three Chocolate Pancake",
-            "中文": "三层巧克力煎饼",
-            "Español": "Panqueque de tres chocolates"
-        },
-        "Pancake Lotus": {
-            "Français": "Crêpes au lotus",
-            "Deutsch": "Pfannkuchen-Lotus",
-            "العربية": "فطيرة اللوتس",
-            "English": "Pancake Lotus",
-            "中文": "煎饼莲花",
-            "Español": "Panqueque de loto"
-        },
-        "Cheesecake Fromage": {
-            "Français": "Gâteau au fromage",
-            "Deutsch": "Käsekuchen Fromage",
-            "العربية": "كعكة الجبن",
-            "English": "Cheesecake Fromage",
-            "中文": "芝士蛋糕",
-            "Español": "Queso de tarta de queso"
-        },
-        "Cocktail Pinna colada": {
-            "Français": "Cocktail Pinna colada",
-            "Deutsch": "Cocktail Pinna colada",
-            "العربية": "كوكتيل بينا كولادا",
-            "English": "Cocktail Pinna colada",
-            "中文": "鸡尾酒 Pinna colada",
-            "Español": "Cóctel piña colada"
-        },
-        "Whole braised chicken with lemon and olives": {
-            "Français": "Poulet entier braisé au citron et aux olives",
-            "Deutsch": "Ganzes geschmortes Hähnchen mit Zitrone und Oliven",
-            "العربية": "دجاجة كاملة مطهية بالليمون والزيتون",
-            "English": "Whole braised chicken with lemon and olives",
-            "中文": "柠檬橄榄炖整鸡",
-            "Español": "Pollo entero braseado con limón y aceitunas"
-        },
-        "Gaufre Oreo": {
-            "Français": "Gaufre Oreo",
-            "Deutsch": "Oreo Waffel",
-            "العربية": "وافل أوريو",
-            "English": "Oreo Waffle",
-            "中文": "奥利奥华夫饼",
-            "Español": "Gofre de oreo"
-        },
-        "Cocktail Bleu marine": {
-            "Français": "Cocktail Bleu marine",
-            "Deutsch": "Cocktail Bleu marine",
-            "العربية": "كوكتيل بلو مارين",
-            "English": "Cocktail Bleu marine",
-            "中文": "鸡尾酒 Bleu marine",
-            "Español": "Cóctel azul marino"
-        },
-        "Vanilla latte": {
-            "Français": "Latté vanille",
-            "Deutsch": "Vanille Latte",
-            "العربية": "لاتيه الفانيليا",
-            "English": "Vanilla latte",
-            "中文": "香草拿铁",
-            "Español": "Café con leche de vainilla"
-        },
-        "Ice coffee Caramel": {
-            "Français": "Café glacé Caramel",
-            "Deutsch": "Eiskaffee Karamell",
-            "العربية": "قهوة مثلجة بالكراميل",
-            "English": "Ice coffee Caramel",
-            "中文": "冰咖啡焦糖",
-            "Español": "Café helado con caramelo"
-        },
-        "Gaufre Banano": {
-            "Français": "Gaufre Banano",
-            "Deutsch": "Bananenwaffel",
-            "العربية": "وافل الموز",
-            "English": "Banano Waffle",
-            "中文": "香蕉华夫饼",
-            "Español": "gofre de plátano"
-        },
-        "Confiture": {
-            "Français": "Confiture",
-            "Deutsch": "Marmelade",
-            "العربية": "مربى",
-            "English": "Jam",
-            "中文": "果酱",
-            "Español": "Atasco"
-        },
-        "Ice tea Orange & Cannelle": {
-            "Français": "Ice tea Orange & Cannelle",
-            "Deutsch": "Orangen-Zimt-Eistee",
-            "العربية": "شاي مثلج بالبرتقال والقرفة",
-            "English": "Orange & Cinnamon Ice Tea",
-            "中文": "橙子肉桂冰茶",
-            "Español": "Té helado de naranja y canela"
-        },
-        "Milk shakes Kitkat": {
-            "Français": "Milk-shakes Kitkat",
-            "Deutsch": "Milchshakes Kitkat",
-            "العربية": "ميلك شيك كيت كات",
-            "English": "Milk shakes Kitkat",
-            "中文": "奶昔 Kitkat",
-            "Español": "Batidos de leche Kitkat"
-        },
-        "Trois chocolats": {
-            "Français": "Trois chocolats",
-            "Deutsch": "Drei Pralinen",
-            "العربية": "ثلاث شوكولاته",
-            "English": "Three chocolates",
-            "中文": "三块巧克力",
-            "Español": "Tres chocolates"
-        },
-        "Crêpe Frutti": {
-            "Français": "Crêpe aux fruits",
-            "Deutsch": "Frucht-Crêpe",
-            "العربية": "كريب الفواكه",
-            "English": "Fruit Crepe",
-            "中文": "水果薄饼",
-            "Español": "Crepe de frutas"
-        },
-        "Pancake Banano": {
-            "Français": "Crêpes à la banane",
-            "Deutsch": "Bananenpfannkuchen",
-            "العربية": "فطائر الموز",
-            "English": "Banana Pancakes",
-            "中文": "香蕉煎饼",
-            "Español": "Panqueques de plátano"
-        },
-        "Ice coffee Vanilla": {
-            "Français": "Café glacé à la vanille",
-            "Deutsch": "Eiskaffee Vanille",
-            "العربية": "قهوة مثلجة فانيليا",
-            "English": "Ice coffee Vanilla",
-            "中文": "冰咖啡 香草",
-            "Español": "Café helado vainilla"
-        },
-        "harcha": {
-            "Français": "harcha",
-            "Deutsch": "harcha",
-            "العربية": "هارشا",
-            "English": "harcha",
-            "中文": "哈查",
-            "Español": "harcha"
-        },
-        "Verveine": {
-            "Français": "Verveine",
-            "Deutsch": "Eisenkraut",
-            "العربية": "نبات اللويزة",
-            "English": "Verbena",
-            "中文": "马鞭草",
-            "Español": "Verbena"
-        },
-        "Jus Citron": {
-            "Français": "Jus Citron",
-            "Deutsch": "Zitronensaft",
-            "العربية": "عصير الليمون",
-            "English": "Lemon Juice",
-            "中文": "柠檬汁",
-            "Español": "Zumo de limón"
-        },
-        "Jus Pomme": {
-            "Français": "Jus Pomme",
-            "Deutsch": "Apfelsaft",
-            "العربية": "عصير التفاح",
-            "English": "Apple Juice",
-            "中文": "苹果汁",
-            "Español": "Zumo de manzana"
-        },
-        "Cocktail Special": {
-            "Français": "Cocktail Spécial",
-            "Deutsch": "Cocktail Spezial",
-            "العربية": "كوكتيل خاص",
-            "English": "Cocktail Special",
-            "中文": "特制鸡尾酒",
-            "Español": "Cóctel especial"
-        },
-        "MERCI (2 personne)": {
-            "Français": "MERCI (2 personne)",
-            "Deutsch": "DANKE (2 Personen)",
-            "العربية": "شكرا لك (2 شخص)",
-            "English": "THANK YOU (2 people)",
-            "中文": "谢谢 (2 人)",
-            "Español": "GRACIAS (2 personas)"
-        },
-        "Omelette normale": {
-            "Français": "Omelette normale",
-            "Deutsch": "Normales Omelett",
-            "العربية": "عجة عادية",
-            "English": "Normal omelette",
-            "中文": "普通煎蛋",
-            "Español": "Tortilla normal"
-        },
-        "Le Tradi": {
-            "Français": "Les Traditions",
-            "Deutsch": "Die Tradi",
-            "العربية": "التقاليد",
-            "English": "The Traditions",
-            "中文": "传统",
-            "Español": "Las tradiciones"
-        },
-        "Cappuccino caramel": {
-            "Français": "Cappuccino caramel",
-            "Deutsch": "Cappuccino Karamell",
-            "العربية": "كراميل الكابتشينو",
-            "English": "Cappuccino caramel",
-            "中文": "卡布奇诺焦糖",
-            "Español": "Caramelo de capuchino"
-        },
-        "Cappuccino noisette": {
-            "Français": "Cappuccino aux noisettes",
-            "Deutsch": "Nussiger Cappuccino",
-            "العربية": "كابتشينو البندق",
-            "English": "Hazelnut cappuccino",
-            "中文": "坚果卡布奇诺",
-            "Español": "Capuchino de avellana"
-        },
-        "Cocktail Bleu Paradise": {
-            "Français": "Cocktail Bleu Paradise",
-            "Deutsch": "Cocktail Bleu Paradise",
-            "العربية": "كوكتيل بلو بارادايس",
-            "English": "Cocktail Bleu Paradise",
-            "中文": "鸡尾酒蓝色天堂",
-            "Español": "Cóctel Bleu Paradise"
-        },
-        "Café au lait": {
-            "Français": "Café au lait",
-            "Deutsch": "Kaffee mit Milch",
-            "العربية": "القهوة مع الحليب",
-            "English": "Coffee with milk",
-            "中文": "咖啡加牛奶",
-            "Español": "Café con leche"
-        },
-        "Moroccan tea": {
-            "Français": "Thé marocain",
-            "Deutsch": "Marokkanischer Tee",
-            "العربية": "الشاي المغربي",
-            "English": "Moroccan tea",
-            "中文": "摩洛哥茶",
-            "Español": "Té marroquí"
-        },
-        "Café Nespresso": {
-            "Français": "Café Nespresso",
-            "Deutsch": "Nespresso Kaffee",
-            "العربية": "قهوة نسبرسو",
-            "English": "Nespresso Coffee",
-            "中文": "Nespresso 咖啡",
-            "Español": "Café Nespresso"
-        },
-        "Olives": {
-            "Français": "Olives",
-            "Deutsch": "Oliven",
-            "العربية": "زيتون",
-            "English": "Olives",
-            "中文": "橄榄",
-            "Español": "Aceitunas"
-        },
-        "Sweet Smoothies": {
-            "Français": "Smoothies sucrés",
-            "Deutsch": "Süße Smoothies",
-            "العربية": "عصائر حلوة",
-            "English": "Sweet Smoothies",
-            "中文": "甜冰沙",
-            "Español": "Batidos dulces"
-        },
-        "Milk shakes Nutella": {
-            "Français": "Milk-shakes au Nutella",
-            "Deutsch": "Milchshakes Nutella",
-            "العربية": "ميلك شيك نوتيلا",
-            "English": "Milk shakes Nutella",
-            "中文": "奶昔 Nutella",
-            "Español": "Batidos de leche Nutella"
-        },
-        "Sandwich Poulet": {
-            "Français": "Sandwich Poulet",
-            "Deutsch": "Hühnchen-Sandwich",
-            "العربية": "ساندويتش دجاج",
-            "English": "Chicken Sandwich",
-            "中文": "鸡肉三明治",
-            "Español": "Sándwich De Pollo"
-        },
-        "Fiery Moroccan Lamb Merguez": {
-            "Français": "Merguez d'agneau marocaine épicée",
-            "Deutsch": "Feurige marokkanische Lamm-Merguez",
-            "العربية": "مرقاز لحم الضأن المغربي الحار",
-            "English": "Fiery Moroccan Lamb Merguez",
-            "中文": "火热的摩洛哥羔羊肉",
-            "Español": "Merguez de cordero marroquí picante"
-        },
-        "Gaufre Frutti": {
-            "Français": "Gaufre aux fruits",
-            "Deutsch": "Fruchtwaffel",
-            "العربية": "وافل الفاكهة",
-            "English": "Fruit Waffle",
-            "中文": "水果华夫饼",
-            "Español": "Waffle de frutas"
-        },
-        "American taste": {
-            "Français": "Goût américain",
-            "Deutsch": "Amerikanischer Geschmack",
-            "العربية": "الطعم الامريكي",
-            "English": "American taste",
-            "中文": "美国口味",
-            "Español": "Gusto americano"
-        },
-        "Milk shakes Chocolat": {
-            "Français": "Milk-shakes au chocolat",
-            "Deutsch": "Milchshakes Schokolade",
-            "العربية": "ميلك شيك شوكولاتة",
-            "English": "Milk shakes Chocolat",
-            "中文": "奶昔 巧克力",
-            "Español": "Batidos de leche Chocolate"
-        },
-        "Yellow Virgin Mojito": {
-            "Français": "Mojito jaune vierge",
-            "Deutsch": "Gelber Virgin Mojito",
-            "العربية": "موخيتو فيرجن أصفر",
-            "English": "Yellow Virgin Mojito",
-            "中文": "黄处女莫吉托",
-            "Español": "Mojito virgen amarillo"
-        },
-        "Milk shakes Vanille": {
-            "Français": "Milk-shakes à la vanille",
-            "Deutsch": "Milchshakes Vanille",
-            "العربية": "ميلك شيك فانيليا",
-            "English": "Milk shakes Vanille",
-            "中文": "香草奶昔",
-            "Español": "Batidos de leche vainilla"
-        },
-        "Sandwich Viande hachée": {
-            "Français": "Sandwich Viande hachée",
-            "Deutsch": "Hackfleisch-Sandwich",
-            "العربية": "ساندويتش لحم مفروم",
-            "English": "Minced Meat Sandwich",
-            "中文": "碎肉三明治",
-            "Español": "Sándwich de carne picada"
-        },
-        "Chocolat Chaud": {
-            "Français": "Chocolat Chaud",
-            "Deutsch": "Heiße Schokolade",
-            "العربية": "شكولاته ساخنة",
-            "English": "Hot chocolate",
-            "中文": "热巧克力",
-            "Español": "Chocolate caliente"
-        },
-        "Good morning": {
-            "Français": "Good morning",
-            "Deutsch": "Guten Morgen",
-            "العربية": "صباح الخير",
-            "English": "Good morning",
-            "中文": "早上好",
-            "Español": "Buen día"
-        },
-        "Fitness": {
-            "Français": "Aptitude",
-            "Deutsch": "Fitness",
-            "العربية": "لياقة بدنية",
-            "English": "Fitness",
-            "中文": "健康",
-            "Español": "Aptitud física"
-        },
-        "Eau plate": {
-            "Français": "Eau plate",
-            "Deutsch": "Stilles Wasser",
-            "العربية": "مياه راكدة",
-            "English": "Still water",
-            "中文": "死水",
-            "Español": "Agua sin gas"
-        },
-        "Crêpe Caramel": {
-            "Français": "Crêpe Caramel",
-            "Deutsch": "Karamell-Crêpe",
-            "العربية": "كريب الكراميل",
-            "English": "Caramel Crepe",
-            "中文": "焦糖绉饼",
-            "Español": "Crepe de caramelo"
-        },
-        "Sandwich Escalopes": {
-            "Français": "Sandwich Escalopes",
-            "Deutsch": "Schnitzel-Sandwich",
-            "العربية": "ساندويتش اسكالوب",
-            "English": "Escalope Sandwich",
-            "中文": "薄肉排三明治",
-            "Español": "Sándwich de escalope"
-        },
-        "Salade fruits": {
-            "Français": "Salade fruits",
-            "Deutsch": "Obstsalat",
-            "العربية": "سلطة فواكه",
-            "English": "Fruit salad",
-            "中文": "水果沙拉",
-            "Español": "Ensalada de fruta"
-        },
-        "Crêpe Viande Hachée": {
-            "Français": "Crêpe Viande Hachée",
-            "Deutsch": "Hackfleisch-Crêpe",
-            "العربية": "كريب اللحم المفروم",
-            "English": "Minced Meat Crepe",
-            "中文": "肉末薄饼",
-            "Español": "Crepe de carne picada"
-        },
-        "Black Mojito": {
-            "Français": "Mojito noir",
-            "Deutsch": "Schwarzer Mojito",
-            "العربية": "موخيتو أسود",
-            "English": "Black Mojito",
-            "中文": "黑莫吉托",
-            "Español": "Mojito negro"
-        },
-        "Kalinte": {
-            "Français": "Kalinte",
-            "Deutsch": "Kalinte",
-            "العربية": "كالينتي",
-            "English": "Kalinte",
-            "中文": "卡林特",
-            "Español": "Kalinte"
-        },
-        "Jus Mangue": {
-            "Français": "Jus Mangue",
-            "Deutsch": "Mangosaft",
-            "العربية": "عصير المانجو",
-            "English": "Mango Juice",
-            "中文": "芒果汁",
-            "Español": "Jugo de mango"
+        "Iced latte": {
+            "Français": "Café au lait glacé",
+            "Deutsch": "Eiskaffee",
+            "العربية": "لاتيه مثلج",
+            "English": "Iced latte",
+            "中文": "冰拿铁",
+            "Español": "Café con leche helado"
         },
         "Miel": {
             "Français": "Miel",
@@ -1253,141 +323,77 @@
             "中文": "蜂蜜",
             "Español": "Miel"
         },
-        "Frappuccino chocolat": {
-            "Français": "Frappuccino au chocolat",
-            "Deutsch": "Frappuccino Schokolade",
-            "العربية": "فرابوتشينو شوكولاتة",
-            "English": "Frappuccino chocolate",
-            "中文": "星冰乐巧克力",
-            "Español": "Frappuccino de chocolate"
+        "VANILLA FOREST FRUITS": {
+            "Français": "FRUITS DES BOIS À LA VANILLE",
+            "Deutsch": "VANILLE WALDFRUCHT",
+            "العربية": "فاكهة الغابة الفانيليا",
+            "English": "VANILLA FOREST FRUITS",
+            "中文": "香草森林水果",
+            "Español": "VAINILLA FRUTAS DEL BOSQUE"
         },
-        "Caramel latte": {
-            "Français": "Latte au caramel",
-            "Deutsch": "Karamell-Latte",
-            "العربية": "لاتيه الكراميل",
-            "English": "Caramel latte",
-            "中文": "焦糖拿铁",
-            "Español": "Café con leche y caramelo"
+        "Cappuccino noisette": {
+            "Français": "Cappuccino aux noisettes",
+            "Deutsch": "Haselnuss-Cappuccino",
+            "العربية": "كابتشينو بالجوز",
+            "English": "Hazelnut cappuccino",
+            "中文": "坚果卡布奇诺",
+            "Español": "Capuchino de avellana"
         },
-        "Milk shakes Caramel": {
-            "Français": "Milk-shakes au caramel",
-            "Deutsch": "Milchshakes Karamell",
-            "العربية": "ميلك شيك كراميل",
-            "English": "Milk shakes Caramel",
-            "中文": "奶昔 焦糖",
-            "Español": "Batidos de leche Caramelo"
+        "Orio": {
+            "Français": "Orio",
+            "Deutsch": "Orio",
+            "العربية": "أوريو",
+            "English": "Orio",
+            "中文": "奥里奥",
+            "Español": "Orio"
         },
-        "Omelette champignon": {
-            "Français": "Omelette champignon",
-            "Deutsch": "Pilzomelett",
-            "العربية": "عجة الفطر",
-            "English": "Mushroom omelette",
-            "中文": "蘑菇煎蛋卷",
-            "Español": "Tortilla de champiñones"
+        "MIHALABIA": {
+            "Français": "MIHALABIA",
+            "Deutsch": "MIHALABIA",
+            "العربية": "مهلابيا",
+            "English": "MIHALABIA",
+            "中文": "米哈拉比亚",
+            "Español": "MIHALABIA"
         },
-        "Iced latte": {
-            "Français": "Café au lait glacé",
-            "Deutsch": "Eiskaffee",
-            "العربية": "لاتيه مثلج",
-            "English": "Iced latte",
-            "中文": "冰拿铁",
-            "Español": "Café con leche helado"
+        "Vert vitamine": {
+            "Français": "Vert vitamine",
+            "Deutsch": "Grünes Vitamin",
+            "العربية": "فيتامين اخضر",
+            "English": "Green vitamin",
+            "中文": "绿色维生素",
+            "Español": "Vitamina verde"
         },
-        "The infusion": {
-            "Français": "L'infusion",
-            "Deutsch": "Der Aufguss",
-            "العربية": "التسريب",
-            "English": "The infusion",
-            "中文": "输液",
-            "Español": "La infusión"
+        "Eau plate": {
+            "Français": "Eau plate",
+            "Deutsch": "Stilles Wasser",
+            "العربية": "مياه راكدة",
+            "English": "Still water",
+            "中文": "死水",
+            "Español": "Agua sin gas"
         },
-        "Crêpe Lotus": {
-            "Français": "Crêpe Lotus",
-            "Deutsch": "Lotus-Crêpe",
-            "العربية": "كريب لوتس",
-            "English": "Lotus Crepe",
-            "中文": "莲花绉饼",
-            "Español": "Crepe de loto"
+        "Crêpe Mix fromagère": {
+            "Français": "Crêpe Mix fromagère",
+            "Deutsch": "Käse-Crêpe-Mix",
+            "العربية": "مزيج كريب الجبن",
+            "English": "Cheese Crepe Mix",
+            "中文": "奶酪薄饼混合物",
+            "Español": "Mezcla De Queso Para Crepes"
         },
-        "Pancake Oreo": {
-            "Français": "Crêpes Oreo",
-            "Deutsch": "Pfannkuchen Oreo",
-            "العربية": "فطيرة أوريو",
-            "English": "Pancake Oreo",
-            "中文": "煎饼奥利奥",
-            "Español": "Panqueque Oreo"
+        "VIERGE BORA BORA": {
+            "Français": "VIERGE BORA BORA",
+            "Deutsch": "JUNGFRAU BORA BORA",
+            "العربية": "فيرجن بورا بورا",
+            "English": "VIRGIN BORA BORA",
+            "中文": "处女波拉波拉岛",
+            "Español": "VIRGEN BORA BORA"
         },
-        "Classic Virgin Mojito": {
-            "Français": "Mojito vierge classique",
-            "Deutsch": "Klassischer Virgin Mojito",
-            "العربية": "موخيتو فيرجن الكلاسيكي",
-            "English": "Classic Virgin Mojito",
-            "中文": "经典纯正莫吉托",
-            "Español": "Mojito virgen clásico"
-        },
-        "Café Noir": {
-            "Français": "Café Noir",
-            "Deutsch": "Schwarzer Kaffee",
-            "العربية": "قهوة سوداء",
-            "English": "Black coffee",
-            "中文": "黑咖啡",
-            "Español": "Café negro"
-        },
-        "Vennoie": {
-            "Français": "Partenaires",
-            "Deutsch": "Partner-Angebote",
-            "العربية": "الشركاء",
-            "English": "Partners",
-            "中文": "合作伙伴的优惠",
-            "Español": "Fogonadura"
-        },
-        "Sandwich Croque-madame": {
-            "Français": "Croque-madame",
-            "Deutsch": "Croque-Madame-Sandwich",
-            "العربية": "ساندويتش كروك مدام",
-            "English": "Croque-madame sandwich",
-            "中文": "法式烤面包三明治",
-            "Español": "Sandwich Croque-madame"
-        },
-        "Thé à la menthe": {
-            "Français": "Thé à la menthe",
-            "Deutsch": "Pfefferminztee",
-            "العربية": "شاي النعناع",
-            "English": "Mint tea",
-            "中文": "薄荷茶",
-            "Español": "Té de menta"
-        },
-        "Milk shakes Orio": {
-            "Français": "Milk-shakes Orio",
-            "Deutsch": "Milchshakes Orio",
-            "العربية": "ميلك شيك اوريو",
-            "English": "Milk shakes Orio",
-            "中文": "奶昔 Orio",
-            "Español": "Batidos de leche Orio"
-        },
-        "Crêpe Oreo": {
-            "Français": "Crêpe Oreo",
-            "Deutsch": "Oreo-Crêpe",
-            "العربية": "كريب أوريو",
-            "English": "Oreo crepe",
-            "中文": "奥利奥薄饼",
-            "Español": "Crêpe Oreo"
-        },
-        "Omelette jambon": {
-            "Français": "Omelette jambon",
-            "Deutsch": "Schinkenomelett",
-            "العربية": "عجة لحم الخنزير",
-            "English": "Ham omelette",
-            "中文": "火腿煎蛋",
-            "Español": "tortilla de jamón"
-        },
-        "Ice tea Fruit rouge": {
-            "Français": "Thé glacé Fruit rouge",
-            "Deutsch": "Eistee Fruchtrouge",
-            "العربية": "شاي مثلج فواكه حمراء",
-            "English": "Ice tea Fruit rouge",
-            "中文": "冰茶水果胭脂",
-            "Español": "Té helado Fruit Rouge"
+        "Croquer (4pc)": {
+            "Français": "Croquer (4pc)",
+            "Deutsch": "Knuspern (4 Stück)",
+            "العربية": "كرانش (4 قطع)",
+            "English": "Crunch (4pc)",
+            "中文": "脆脆 (4件)",
+            "Español": "Crunch (4 piezas)"
         },
         "Steel-blue Smoothies": {
             "Français": "Smoothies bleu acier",
@@ -1397,37 +403,318 @@
             "中文": "钢蓝色冰沙",
             "Español": "Batidos de color azul acero"
         },
-        "Omelette fromage": {
-            "Français": "Omelette fromage",
-            "Deutsch": "Käseomelett",
-            "العربية": "عجة الجبن",
-            "English": "Cheese omelette",
-            "中文": "芝士煎蛋",
-            "Español": "Tortilla de queso"
+        "Energy": {
+            "Français": "Énergie",
+            "Deutsch": "Energie",
+            "العربية": "طاقة",
+            "English": "Energy",
+            "中文": "活力",
+            "Español": "Energía"
         },
-        "Crêpe Nutella": {
-            "Français": "Crêpes au Nutella",
-            "Deutsch": "Nutella-Crêpes",
-            "العربية": "كريب نوتيلا",
-            "English": "Nutella crepes",
-            "中文": "能多益薄饼",
-            "Español": "Crepes de Nutella"
+        "CHEESECAKE VANILLE": {
+            "Français": "GÂTEAU AU FROMAGE À LA VANILLE",
+            "Deutsch": "VANILLE-KÄSEKUCHEN",
+            "العربية": "تشيز كيك الفانيليا",
+            "English": "VANILLA CHEESECAKE",
+            "中文": "香草芝士蛋糕",
+            "Español": "TARTA DE QUESO Y VAINILLA"
         },
-        "Normal capuccino": {
-            "Français": "Cappuccino normal",
-            "Deutsch": "Normaler Cappuccino",
-            "العربية": "كابتشينو عادي",
-            "English": "Normal capuccino",
-            "中文": "普通卡布奇诺",
-            "Español": "Capuchino normal"
+        "Merci": {
+            "Français": "Merci",
+            "Deutsch": "Merci",
+            "العربية": "ميغسي",
+            "English": "Merci",
+            "中文": "谢谢",
+            "Español": "Merci"
         },
-        "Mesman": {
-            "Français": "En effet",
-            "Deutsch": "Messmann",
-            "العربية": "ميسمان",
-            "English": "Messman",
-            "中文": "梅斯曼",
-            "Español": "Mesero"
+        "Sandwich Viande hachée": {
+            "Français": "Sandwich Viande hachée",
+            "Deutsch": "Hackfleisch-Sandwich",
+            "العربية": "ساندويتش لحم مفروم",
+            "English": "Minced Meat Sandwich",
+            "中文": "碎肉三明治",
+            "Español": "Sándwich de carne picada"
+        },
+        "Frappuccino Caramel": {
+            "Français": "Frappuccino Caramel",
+            "Deutsch": "Frappuccino Karamell",
+            "العربية": "فرابوتشينو كراميل",
+            "English": "Frappuccino Caramel",
+            "中文": "焦糖星冰乐",
+            "Español": "Frappuccino de caramelo"
+        },
+        "Moroccan tea": {
+            "Français": "Thé marocain",
+            "Deutsch": "Marokkanischer Tee",
+            "العربية": "الشاي المغربي",
+            "English": "Moroccan tea",
+            "中文": "摩洛哥茶",
+            "Español": "Té marroquí"
+        },
+        "Tagine viande haché": {
+            "Français": "Tagine viande haché",
+            "Deutsch": "Hackfleisch-Tajine",
+            "العربية": "طاجن لحم مفروم",
+            "English": "Minced meat tagine",
+            "中文": "碎肉塔吉锅",
+            "Español": "Tajine de carne picada"
+        },
+        "Yellow Virgin Mojito": {
+            "Français": "Mojito jaune vierge",
+            "Deutsch": "Gelber Virgin Mojito",
+            "العربية": "موخيتو فيرجن أصفر",
+            "English": "Yellow Virgin Mojito",
+            "中文": "黄色的维珍莫吉托",
+            "Español": "Mojito virgen amarillo"
+        },
+        "SANDRELLA": {
+            "Français": "SANDRELLA",
+            "Deutsch": "SANDRELLA",
+            "العربية": "ساندريلا",
+            "English": "SANDRELLA",
+            "中文": "桑德拉",
+            "Español": "SANDRA"
+        },
+        "Trois chocolats": {
+            "Français": "Trois chocolats",
+            "Deutsch": "Drei Pralinen",
+            "العربية": "ثلاث شوكولاته",
+            "English": "Three chocolates",
+            "中文": "三块巧克力",
+            "Español": "Tres chocolates"
+        },
+        "Tropical Smoothies": {
+            "Français": "Smoothies tropicaux",
+            "Deutsch": "Tropische Smoothies",
+            "العربية": "العصائر الاستوائية",
+            "English": "Tropical Smoothies",
+            "中文": "热带冰沙",
+            "Español": "Batidos tropicales"
+        },
+        "BEEF KEBAB": {
+            "Français": "KEBAB DE BŒUF",
+            "Deutsch": "RINDFLEISCH-KEBAB",
+            "العربية": "كباب لحم البقر",
+            "English": "BEEF KEBAB",
+            "中文": "牛肉串",
+            "Español": "BROCHETA DE CARNE DE TERNERA"
+        },
+        "Ice tea Orange & Cannelle": {
+            "Français": "Ice tea Orange & Cannelle",
+            "Deutsch": "Orangen-Zimt-Eistee",
+            "العربية": "شاي مثلج بالبرتقال والقرفة",
+            "English": "Orange & Cinnamon Ice Tea",
+            "中文": "橙子肉桂冰茶",
+            "Español": "Té helado de naranja y canela"
+        },
+        "Cheesecake Café": {
+            "Français": "Café au cheesecake",
+            "Deutsch": "Käsekuchen-Café",
+            "العربية": "مقهى تشيز كيك",
+            "English": "Cheesecake Cafe",
+            "中文": "芝士蛋糕咖啡厅",
+            "Español": "Café de tarta de queso"
+        },
+        "Jus Ananas": {
+            "Français": "Jus Ananas",
+            "Deutsch": "Ananassaft",
+            "العربية": "عصير الأناناس",
+            "English": "Pineapple Juice",
+            "中文": "菠萝汁",
+            "Español": "Jugo de piña"
+        },
+        "Ice tea Vanille & miel": {
+            "Français": "Thé glacé à la vanille et au miel",
+            "Deutsch": "Vanille-Honig-Eistee",
+            "العربية": "شاي مثلج بنكهة الفانيليا والعسل",
+            "English": "Vanilla & honey ice tea",
+            "中文": "香草蜂蜜冰茶",
+            "Español": "Ice tea Vanille & miel"
+        },
+        "Ice Coffee Caramel": {
+            "Français": "Café glacé au caramel",
+            "Deutsch": "Eiskaffee Karamell",
+            "العربية": "كراميل القهوة المثلجة",
+            "English": "Ice Coffee Caramel",
+            "中文": "冰咖啡焦糖",
+            "Español": "Café helado con caramelo"
+        },
+        "LUNNA ICE": {
+            "Français": "GLACE LUNNA",
+            "Deutsch": "LUNNA-EIS",
+            "العربية": "لونا ايس",
+            "English": "LUNNA ICE",
+            "中文": "伦娜冰",
+            "Español": "LUNNA HIELO"
+        },
+        "Thé à la menthe": {
+            "Français": "Thé à la menthe",
+            "Deutsch": "Pfefferminztee",
+            "العربية": "شاي النعناع",
+            "English": "Mint tea",
+            "中文": "薄荷茶",
+            "Español": "Té de menta"
+        },
+        "Gaufre Lotus": {
+            "Français": "Gaufre Lotus",
+            "Deutsch": "Lotus Waffel",
+            "العربية": "وافل اللوتس",
+            "English": "Lotus Waffle",
+            "中文": "莲花华夫饼",
+            "Español": "Gofre de loto"
+        },
+        "MAJIK MERCI": {
+            "Français": "MAJIK MERCI",
+            "Deutsch": "MAJIK DANKE",
+            "العربية": "ماجيك ميغسي",
+            "English": "MAJIK  MERCI",
+            "中文": "MAJIK 谢谢你",
+            "Español": "MAJIK GRACIAS"
+        },
+        "Ice coffee Vanilla": {
+            "Français": "Café glacé à la vanille",
+            "Deutsch": "Eiskaffee Vanille",
+            "العربية": "قهوة مثلجة فانيليا",
+            "English": "Ice coffee Vanilla",
+            "中文": "冰咖啡 香草",
+            "Español": "Café helado vainilla"
+        },
+      "Viennoiserie": {
+    "Français": "Viennoiserie",
+    "Deutsch": "Feingebäck",
+    "العربية": "معجنات فيينا",
+    "English": "Viennoiserie",
+    "中文": "维也纳糕点",
+    "Español": "Bollería"
+}
+,
+        "Sweet Smoothies": {
+            "Français": "Smoothies sucrés",
+            "Deutsch": "Süße Smoothies",
+            "العربية": "عصائر حلوة",
+            "English": "Sweet Smoothies",
+            "中文": "甜冰沙",
+            "Español": "Batidos dulces"
+        },
+        "Pancake Oreo": {
+            "Français": "Crêpes Oreo",
+            "Deutsch": "Pfannkuchen Oreo",
+            "العربية": "فطيرة أوريو",
+            "English": "Pancake Oreo",
+            "中文": "煎饼奥利奥",
+            "Español": "Panqueque Oreo"
+        },
+        "Confiture": {
+            "Français": "Confiture",
+            "Deutsch": "Marmelade",
+            "العربية": "مربى",
+            "English": "Jam",
+            "中文": "果酱",
+            "Español": "Atasco"
+        },
+        "Crêpe Spéciale": {
+            "Français": "Crêpe Spéciale",
+            "Deutsch": "Spezial-Crêpe",
+            "العربية": "كريب خاص",
+            "English": "Special Crepe",
+            "中文": "特制绉布",
+            "Español": "Crepe especial"
+        },
+        "MINI PANCAKES (PACK OF TWELVE)": {
+            "Français": "MINI CRÊPES (PAQUET DE DOUZE)",
+            "Deutsch": "MINI-PFANNKUCHEN (ZWÖLFER PACK)",
+            "العربية": "فطائر صغيرة (عبوة من اثني عشر قطعة)",
+            "English": "MINI PANCAKES (PACK OF TWELVE)",
+            "中文": "迷你煎饼（十二片装）",
+            "Español": "MINI PANQUEQUES (PAQUETE DE DOCE)"
+        },
+        "Café Noir Aromatisé": {
+            "Français": "Café Noir Aromatisé",
+            "Deutsch": "Aromatisierter schwarzer Kaffee",
+            "العربية": "قهوة سوداء بنكهة",
+            "English": "Flavored Black Coffee",
+            "中文": "风味黑咖啡",
+            "Español": "Café negro con sabor"
+        },
+        "Tagine œuf & Tomate": {
+            "Français": "Tagine œuf & Tomate",
+            "Deutsch": "Ei-Tomaten-Tajine",
+            "العربية": "طاجن البيض والطماطم",
+            "English": "Egg & Tomato Tagine",
+            "中文": "鸡蛋番茄塔吉锅",
+            "Español": "Tajine de huevo y tomate"
+        },
+        "Omelette normale": {
+            "Français": "Omelette normale",
+            "Deutsch": "Normales Omelett",
+            "العربية": "عجة عادية",
+            "English": "Normal omelette",
+            "中文": "普通煎蛋",
+            "Español": "Tortilla normal"
+        },
+        "Milk shakes Kitkat": {
+            "Français": "Milk-shakes Kitkat",
+            "Deutsch": "Milchshakes Kitkat",
+            "العربية": "ميلك شيك كيت كات",
+            "English": "Milk shakes Kitkat",
+            "中文": "奶昔 Kitkat",
+            "Español": "Batidos de leche Kitkat"
+        },
+        "MIX FROMAGÈRE": {
+            "Français": "MIX FROMAGÈRE",
+            "Deutsch": "Käsemischung",
+            "العربية": "خليط الجبن",
+            "English": "CHEESE MIX",
+            "中文": "奶酪混合物",
+            "Español": "MEZCLA DE QUESOS"
+        },
+        "Ice Coffee Chocolat": {
+            "Français": "Café glacé au chocolat",
+            "Deutsch": "Eiskaffee Schokolade",
+            "العربية": "قهوة مثلجة بالشوكولاتة",
+            "English": "Ice Coffee Chocolat",
+            "中文": "冰咖啡巧克力",
+            "Español": "Café helado con chocolate"
+        },
+        "Taktouka": {
+            "Français": "Tétouka",
+            "Deutsch": "Taketouka",
+            "العربية": "تكتوكة",
+            "English": "Taketouka",
+            "中文": "竹藤冈",
+            "Español": "Taketouka"
+        },
+        "Fitness": {
+            "Français": "Aptitude",
+            "Deutsch": "Fitness",
+            "العربية": "لياقة بدنية",
+            "English": "Fitness",
+            "中文": "健康",
+            "Español": "Aptitud física"
+        },
+        "Cocktail Pinna colada": {
+            "Français": "Cocktail Pinna colada",
+            "Deutsch": "Cocktail Pinna colada",
+            "العربية": "كوكتيل بينا كولادا",
+            "English": "Cocktail Pinna colada",
+            "中文": "鸡尾酒 Pinna colada",
+            "Español": "Cóctel piña colada"
+        },
+        "Gaufre Caramel": {
+            "Français": "Gaufre Caramel",
+            "Deutsch": "Karamellwaffel",
+            "العربية": "وافل الكراميل",
+            "English": "Caramel Waffle",
+            "中文": "焦糖华夫饼",
+            "Español": "Gofre de caramelo"
+        },
+        "Kalinte": {
+            "Français": "Kalinte",
+            "Deutsch": "Kalinte",
+            "العربية": "كالينتي",
+            "English": "Kalinte",
+            "中文": "卡林特",
+            "Español": "Kalinte"
         },
         "Pancake Nutella": {
             "Français": "Crêpes au Nutella",
@@ -1437,13 +724,1544 @@
             "中文": "煎饼 Nutella",
             "Español": "Panqueque de Nutella"
         },
-        "Ice tea Vanille & miel": {
-            "Français": "Thé glacé à la vanille et au miel",
-            "Deutsch": "Vanille-Honig-Eistee",
-            "العربية": "شاي مثلج بنكهة الفانيليا والعسل",
-            "English": "Vanilla & honey ice tea",
-            "中文": "香草蜂蜜冰茶",
-            "Español": "Ice tea Vanille & miel"
+        "Crêpe Oreo": {
+            "Français": "Crêpe Oréo",
+            "Deutsch": "Oreo-Crêpe",
+            "العربية": "كريب أوريو",
+            "English": "Oreo crepe",
+            "中文": "奥利奥绉纱",
+            "Español": "Crêpe Oreo"
+        },
+        "Salade fruits": {
+            "Français": "Salade fruits",
+            "Deutsch": "Obstsalat",
+            "العربية": "سلطة فواكه",
+            "English": "Fruit salad",
+            "中文": "水果沙拉",
+            "Español": "Ensalada de fruta"
+        },
+        "MINI PANCAKES (PACK OF FIFTEEN)": {
+            "Français": "MINI CRÊPES (PAQUET DE QUINZE)",
+            "Deutsch": "MINI-PFANNKUCHEN (PACKUNG MIT FÜNFZEHN)",
+            "العربية": "فطائر صغيرة (عبوة من خمسة عشر قطعة)",
+            "English": "MINI PANCAKES (PACK OF FIFTEEN)",
+            "中文": "迷你煎饼（15 片装）",
+            "Español": "MINI PANQUEQUES (PAQUETE DE QUINCE)"
+        },
+        "Sandwich Escalopes": {
+            "Français": "Sandwich Escalopes",
+            "Deutsch": "Schnitzel-Sandwich",
+            "العربية": "ساندويتش اسكالوب",
+            "English": "Escalope Sandwich",
+            "中文": "薄肉排三明治",
+            "Español": "Sándwich de escalope"
+        },
+        "Chocolat Chaud": {
+            "Français": "Chocolat Chaud",
+            "Deutsch": "Heiße Schokolade",
+            "العربية": "شكولاته ساخنة",
+            "English": "Hot chocolate",
+            "中文": "热巧克力",
+            "Español": "Chocolate caliente"
+        },
+        "Crêpe Nutella": {
+            "Français": "Crêpes au Nutella",
+            "Deutsch": "Nutella-Crêpes",
+            "العربية": "كريب نوتيلا",
+            "English": "Nutella crepes",
+            "中文": "能多益薄饼",
+            "Español": "Crepes de nutella"
+        },
+        "Ice coffee Caramel": {
+            "Français": "Café glacé Caramel",
+            "Deutsch": "Eiskaffee Karamell",
+            "العربية": "قهوة مثلجة بالكراميل",
+            "English": "Ice coffee Caramel",
+            "中文": "冰咖啡焦糖",
+            "Español": "Café helado con caramelo"
+        },
+        "Jus Cocktails de fruits": {
+            "Français": "Jus Cocktails de fruits",
+            "Deutsch": "Fruchtsäfte und Fruchtcocktails",
+            "العربية": "كوكتيلات عصير الفواكه",
+            "English": "Jus Cocktails de fruits",
+            "中文": "水果鸡尾酒",
+            "Español": "Cócteles de jugo de frutas"
+        },
+        "Olives": {
+            "Français": "Olives",
+            "Deutsch": "Oliven",
+            "العربية": "زيتون",
+            "English": "Olives",
+            "中文": "橄榄",
+            "Español": "Aceitunas"
+        },
+        "Cappuccino caramel": {
+            "Français": "Cappuccino caramel",
+            "Deutsch": "Cappuccino Karamell",
+            "العربية": "كراميل الكابتشينو",
+            "English": "Cappuccino caramel",
+            "中文": "卡布奇诺焦糖",
+            "Español": "Caramelo de capuchino"
+        },
+        "Huile d’olives": {
+            "Français": "Huile d’olives",
+            "Deutsch": "Olivenöl",
+            "العربية": "زيت الزيتون",
+            "English": "Olive oil",
+            "中文": "橄榄油",
+            "Español": "Aceite de oliva"
+        },
+        "Pancake Caramel": {
+            "Français": "Crêpes Caramel",
+            "Deutsch": "Pfannkuchen Karamell",
+            "العربية": "فطيرة الكراميل",
+            "English": "Pancake Caramel",
+            "中文": "焦糖煎饼",
+            "Español": "Caramelo De Panqueques"
+        },
+        "Pancake Fruit Sec": {
+            "Français": "Crêpes aux fruits secs",
+            "Deutsch": "Pfannkuchen-Frucht-Sec",
+            "العربية": "فطيرة الفاكهة",
+            "English": "Pancake Fruit Sec",
+            "中文": "煎饼水果干",
+            "Español": "Panqueque de fruta seca"
+        },
+        "Café au lait": {
+            "Français": "Café au lait",
+            "Deutsch": "Kaffee mit Milch",
+            "العربية": "القهوة مع الحليب",
+            "English": "Coffee with milk",
+            "中文": "咖啡加牛奶",
+            "Español": "Café con leche"
+        },
+        "Amlou": {
+            "Français": "Amlou",
+            "Deutsch": "Amlou",
+            "العربية": "املو",
+            "English": "Amlou",
+            "中文": "阿姆卢",
+            "Español": "Amlou"
+        },
+        "JAMBON": {
+            "Français": "JAMBON",
+            "Deutsch": "SCHINKEN",
+            "العربية":"اللحم المدخن",
+            "English": "HAM",
+            "中文": "火",
+            "Español": "JAMÓN"
+        },
+        "Sandwich Poulet": {
+            "Français": "Sandwich Poulet",
+            "Deutsch": "Hühnchen-Sandwich",
+            "العربية": "ساندويتش دجاج",
+            "English": "Chicken Sandwich",
+            "中文": "鸡肉三明治",
+            "Español": "Sándwich de pollo"
+        },
+        "Frappuccino chocolat": {
+            "Français": "Frappuccino au chocolat",
+            "Deutsch": "Frappuccino Schokolade",
+            "العربية": "فرابوتشينو شوكولاتة",
+            "English": "Frappuccino chocolate",
+            "中文": "星冰乐巧克力",
+            "Español": "Frappuccino de chocolate"
+        },
+        "CITRON": {
+            "Français": "CITRON",
+            "Deutsch": "ZITRONE",
+            "العربية": "السترون",
+            "English": "CITRON",
+            "中文": "香橼",
+            "Español": "CIDRA"
+        },
+        "Ice Coffee Noisette": {
+            "Français": "Ice Coffee Noisette",
+            "Deutsch": "Eiskaffee Haselnuss",
+            "العربية": "قهوة البندق المثلجة",
+            "English": "Hazelnut Ice Coffee",
+            "中文": "榛子冰咖啡",
+            "Español": "Café helado con avellanas"
+        },
+        "SALADE FRUITS": {
+            "Français": "SALADE FRUITS",
+            "Deutsch": "OBSTSALAT",
+            "العربية": "سلطة فواكه",
+            "English": "FRUIT SALAD",
+            "中文": "水果沙拉",
+            "Español": "ENSALADA DE FRUTA"
+        },
+        "Crêpe Dinde": {
+            "Français": "Crêpe Dinde",
+            "Deutsch": "Puten-Crêpe",
+            "العربية": "كريب الديك الرومي",
+            "English": "Turkey Crepe",
+            "中文": "火鸡薄饼",
+            "Español": "Crepe de pavo"
+        },
+        "Viennoiserie (3pc)": {
+            "Français": "Viennoiserie (3pc)",
+            "Deutsch": "Wiener Gebäck (3 Stück)",
+            "العربية": "معجنات فيينا (3 قطع)",
+            "English": "Viennese pastry (3pc)",
+            "中文": "糕点（3件）",
+            "Español": "Pasteles vieneses (3 piezas)"
+        },
+        "Caramel latte": {
+            "Français": "Latte au caramel",
+            "Deutsch": "Karamell-Latte",
+            "العربية": "لاتيه الكراميل",
+            "English": "Caramel latte",
+            "中文": "焦糖拿铁",
+            "Español": "Café con leche y caramelo"
+        },
+        "Frappuccino noisette": {
+            "Français": "Frappuccino noisette",
+            "Deutsch": "Haselnuss-Frappuccino",
+            "العربية": "فرابوتشينو البندق",
+            "English": "Hazelnut Frappuccino",
+            "中文": "榛子星冰乐",
+            "Español": "Frappuccino de avellanas"
+        },
+        "Crêpe Viande Hachée": {
+            "Français": "Crêpe Viande Hachée",
+            "Deutsch": "Hackfleisch-Crêpe",
+            "العربية": "كريب اللحم المفروم",
+            "English": "Minced Meat Crepe",
+            "中文": "肉末薄饼",
+            "Español": "Crepe de carne picada"
+        },
+        "Cheesecake Fromage": {
+            "Français": "Gâteau au fromage",
+            "Deutsch": "Käsekuchen Fromage",
+            "العربية": "كعكة الجبن",
+            "English": "Cheesecake Fromage",
+            "中文": "芝士蛋糕",
+            "Español": "Queso de tarta de queso"
+        },
+     "Le Tradi": {
+    "Français": "Le Tradi",
+    "Deutsch": "Das Traditionelle",
+    "العربية": "التقليدي",
+    "English": "The Traditional",
+    "中文": "传统菜肴",
+    "Español": "El Tradicional"
+}
+,
+
+    "The infusion": {
+        "Français": "L'infusion",
+        "Deutsch": "Der Aufguss",
+        "العربية": "المنقوع",
+        "English": "The infusion",
+        "中文": "输液",
+        "Español": "La infusión"
+    }
+
+,
+        "Jus Orange": {
+            "Français": "Jus d'orange",
+            "Deutsch": "Orangensaft",
+            "العربية": "عصير البرتقال",
+            "English": "Jus Orange",
+            "中文": "橙汁法",
+            "Español": "Jugo de naranja"
+        },
+        "Cocktail Bleu Paradise": {
+            "Français": "Cocktail Bleu Paradise",
+            "Deutsch": "Cocktail Bleu Paradise",
+            "العربية": "كوكتيل بلو بارادايس",
+            "English": "Cocktail Bleu Paradise",
+            "中文": "鸡尾酒蓝色天堂",
+            "Español": "Cóctel Bleu Paradise"
+        },
+        "Tagine khelii": {
+            "Français": "Tajine khelii",
+            "Deutsch": "Tagine khelii",
+            "العربية": "طاجن خليعي",
+            "English": "Tagine khelii",
+            "中文": "塔吉锅",
+            "Español": "Tajine de Khelii"
+        },
+        "Cheesecake Orio": {
+            "Français": "Gâteau au fromage Orio",
+            "Deutsch": "Käsekuchen Orio",
+            "العربية": "تشيز كيك أوريو",
+            "English": "Cheesecake Orio",
+            "中文": "芝士蛋糕奥利奥",
+            "Español": "Tarta de queso Orio"
+        },
+        "Ice coffee Chocolat": {
+            "Français": "Café glacé Chocolat",
+            "Deutsch": "Eiskaffee Schokolade",
+            "العربية": "قهوة مثلجة بالشوكولاتة",
+            "English": "Ice coffee Chocolat",
+            "中文": "冰咖啡 巧克力",
+            "Español": "Café helado con chocolate"
+        },
+        "Gaufre Frutti": {
+            "Français": "Gaufre aux fruits",
+            "Deutsch": "Fruchtwaffel",
+            "العربية": "وافل الفاكهة",
+            "English": "Fruit Waffle",
+            "中文": "水果华夫饼",
+            "Español": "Waffle de frutas"
+        },
+        "Omelette jambon": {
+            "Français": "Omelette jambon",
+            "Deutsch": "Schinkenomelett",
+            "العربية": "عجة جامون",
+            "English": "Ham omelette",
+            "中文": "火腿煎蛋",
+            "Español": "tortilla de jamón"
+        },
+        "Vanilla latte": {
+            "Français": "Latte à la vanille",
+            "Deutsch": "Vanille Latte",
+            "العربية": "لاتيه الفانيليا",
+            "English": "Vanilla latte",
+            "中文": "香草拿铁",
+            "Español": "Café con leche de vainilla"
+        },
+        "Sandwich Croque-madame": {
+            "Français": "Croque-madame",
+            "Deutsch": "Croque-Madame-Sandwich",
+            "العربية": "ساندويتش كروك مدام",
+            "English": "Croque-madame sandwich",
+            "中文": "法式烤面包三明治",
+            "Español": "Sandwich Croque-madame"
+        },
+        "BLOODY MARY": {
+            "Français": "BLOODY MARY",
+            "Deutsch": "BLOODY MARY",
+            "العربية": "ماري الدموية",
+            "English": "BLOODY MARY",
+            "中文": "血腥玛丽",
+            "Español": "María sangrienta"
+        },
+        "Pancake Trois chocolats": {
+            "Français": "Pancake Trois chocolats",
+            "Deutsch": "Drei Schokoladenpfannkuchen",
+            "العربية": "فطيرة الشوكولاتة الثلاثة",
+            "English": "Three Chocolate Pancake",
+            "中文": "三层巧克力煎饼",
+            "Español": "Panqueque de tres chocolates"
+        },
+        "Classic Virgin Mojito": {
+            "Français": "Mojito vierge classique",
+            "Deutsch": "Klassischer Virgin Mojito",
+            "العربية": "موخيتو فيرجن الكلاسيكي",
+            "English": "Classic Virgin Mojito",
+            "中文": "经典纯正莫吉托",
+            "Español": "Mojito virgen clásico"
+        },
+        
+            "Express": {
+                "Français": "Exprimer",
+                "Deutsch": "Äußern",
+                "العربية": "إكسبريس",
+                "English": "Express",
+                "中文": "表达",
+                "Español": "Expresar"
+            }
+
+,        
+        "Gaufre Banano": {
+            "Français": "Gaufre Banano",
+            "Deutsch": "Bananenwaffel",
+            "العربية": "وافل الموز",
+            "English": "Banano Waffle",
+            "中文": "Banano Waffle",
+            "Español": "Waffle de plátano"
+        },
+        "Gaufre Oreo": {
+            "Français": "Gaufre Oreo",
+            "Deutsch": "Oreo Waffel",
+            "العربية": "وافل أوريو",
+            "English": "Oreo Waffle",
+            "中文": "奥利奥华夫饼",
+            "Español": "Gofre de oreo"
+        },
+        "BLEU HAWAI": {
+            "Français": "BLEU HAWAI",
+            "Deutsch": "HAWAIIANISCH BLAU",
+            "العربية": "أزرق هاواي",
+            "English": "HAWAIIAN BLUE",
+            "中文": "夏威夷蓝",
+            "Español": "AZUL HAWAIANO"
+        },
+        "Fiery Moroccan Lamb Merguez": {
+            "Français": "Merguez d'agneau marocaine épicée",
+            "Deutsch": "Feurige marokkanische Lamm-Merguez",
+            "العربية": "مرقاز لحم الضأن المغربي الحار",
+            "English": "Fiery Moroccan Lamb Merguez",
+            "中文": "火热的摩洛哥羔羊肉",
+            "Español": "Merguez de cordero marroquí picante"
+        },
+        "Jus Fruit rouge": {
+            "Français": "Jus de fruit rouge",
+            "Deutsch": "Jus Fruchtrot",
+            "العربية": "عصير الفاكهة الأحمر",
+            "English": "Jus Fruit rouge",
+            "中文": "红色水果酱",
+            "Español": "Jus fruta roja"
+        },
+        "MIX DE FRUITS": {
+            "Français": "MIX DE FRUITS",
+            "Deutsch": "FRUCHTMIX",
+            "العربية": "مزيج الفواكه",
+            "English": "FRUIT MIX",
+            "中文": "水果混合",
+            "Español": "MEZCLA DE FRUTAS"
+        },
+        "Milk shakes Vanille": {
+            "Français": "Milk-shakes à la vanille",
+            "Deutsch": "Milchshakes Vanille",
+            "العربية": "ميلك شيك فانيليا",
+            "English": "Milk shakes Vanille",
+            "中文": "香草奶昔",
+            "Español": "Batidos de leche vainilla"
+        },
+        "CHEESECAKE ORYO": {
+            "Français": "GÂTEAU AU FROMAGE ORYO",
+            "Deutsch": "Käsekuchen Oryo",
+            "العربية": "تشيز كيك أوريو",
+            "English": "CHEESECAKE ORYO",
+            "中文": "芝士蛋糕日式料理",
+            "Español": "TARTA DE QUESO ORYO"
+        },
+        "POULET": {
+            "Français": "POULET",
+            "Deutsch": "HUHN",
+            "العربية": "فرخة",
+            "English": "CHICKEN",
+            "中文": "鸡",
+            "Español": "POLLO"
+        },
+        "Cocktail Virgin Colada": {
+            "Français": "Cocktail Virgin Colada",
+            "Deutsch": "Cocktail Virgin Colada",
+            "العربية": "كوكتيل فيرجن كولادا",
+            "English": "Cocktail Virgin Colada",
+            "中文": "鸡尾酒 Virgin Colada",
+            "Español": "Cóctel colada virgen"
+        },
+        "Crêpe Jambon": {
+            "Français": "Crêpe Jambon",
+            "Deutsch": "Schinken-Crêpe",
+            "العربية": "كريب باللحم المدخن",
+            "English": "Ham Crepe",
+            "中文": "火腿薄饼",
+            "Español": "Crepe de jamón"
+        },
+        "Pancake Banano": {
+            "Français": "Crêpes à la banane",
+            "Deutsch": "Bananenpfannkuchen",
+            "العربية": "فطائر الموز",
+            "English": "Banana Pancakes",
+            "中文": "香蕉煎饼",
+            "Español": "Panqueques de plátano"
+        },
+        "Sandwich Œuf": {
+            "Français": "Sandwich Œuf",
+            "Deutsch": "Eier-Sandwich",
+            "العربية": "ساندويتش البيض",
+            "English": "Egg Sandwich",
+            "中文": "鸡蛋三明治",
+            "Español": "Sándwich de huevo"
+        },
+        "Soda": {
+            "Français": "Soude",
+            "Deutsch": "Soda",
+            "العربية": "صودا",
+            "English": "Soda",
+            "中文": "苏打",
+            "Español": "Soda"
+        },
+        "Personnel": {
+            "Français": "Personnel",
+            "Deutsch": "Personal",
+            "العربية": "خاص",
+            "English": "Personnel",
+            "中文": "人员",
+            "Español": "Personal"
+        },
+        "Crêpe Banano": {
+            "Français": "Crêpe à la banane",
+            "Deutsch": "Bananen-Crêpe",
+            "العربية": "كريب الموز",
+            "English": "Banana Crêpe",
+            "中文": "香蕉薄饼",
+            "Español": "Crepe de plátano"
+        },
+        "Gaufre Trois chocolats": {
+            "Français": "Gaufre Trois chocolats",
+            "Deutsch": "Waffel Drei Pralinen",
+            "العربية": "وافل ثلاث حبات شوكولاتة",
+            "English": "Three Chocolate Waffle",
+            "中文": "三块巧克力华夫饼",
+            "Español": "Gofre de tres chocolates"
+        },
+        "Latte noisette": {
+            "Français": "Latte noisette",
+            "Deutsch": "Haselnuss-Latte",
+            "العربية": "لاتيه البندق",
+            "English": "Hazelnut latte",
+            "中文": "榛子拿铁",
+            "Español": "Café con leche y avellanas"
+        },
+        "Ice Coffee Vanilla": {
+            "Français": "Café glacé à la vanille",
+            "Deutsch": "Eiskaffee Vanille",
+            "العربية": "قهوة مثلجة بالفانيليا",
+            "English": "Ice Coffee Vanilla",
+            "中文": "冰咖啡香草",
+            "Español": "Café helado vainilla"
+        },
+        "Milk shakes Fraise": {
+            "Français": "Milk-shakes à la fraise",
+            "Deutsch": "Milchshakes Fraise",
+            "العربية": "ميلك شيك فرايز",
+            "English": "Milk shakes Fraise",
+            "中文": "奶昔 Fraise",
+            "Español": "Batidos de leche Fraise"
+        },
+        "MIX DE FRUITS A LA NUTELLA": {
+            "Français": "MIX DE FRUITS A LA NUTELLA",
+            "Deutsch": "NUTELLA-FRUCHTMIX",
+            "العربية": "مزيج فواكه نوتيلا",
+            "English": "NUTELLA FRUIT MIX",
+            "中文": "NUTELLA 水果混合酱",
+            "Español": "MEZCLA DE FRUTAS NUTELLA"
+        },
+        "Jus Exotique": {
+            "Français": "Jus Exotique",
+            "Deutsch": "Exotischer Saft",
+            "العربية": "عصير غريب",
+            "English": "Exotic Juice",
+            "中文": "异国风味果汁",
+            "Español": "Jugo exótico"
+        },
+        "MINI PANCAKES (PACK OF NINE)": {
+            "Français": "MINI CRÊPES (LOT DE NEUF)",
+            "Deutsch": "MINI-PFANNKUCHEN (NEUNERPACK)",
+            "العربية": "فطائر صغيرة (عبوة من تسعة قطع)",
+            "English": "MINI PANCAKES (PACK OF NINE)",
+            "中文": "迷你煎饼（九块一包）",
+            "Español": "MINI PANQUEQUES (PAQUETE DE NUEVE)"
+        },
+        "Milk shakes Orio": {
+            "Français": "Milk-shakes Orio",
+            "Deutsch": "Milchshakes Orio",
+            "العربية": "ميلك شيك اوريو",
+            "English": "Milk shakes Orio",
+            "中文": "奶昔 Orio",
+            "Español": "Batidos de leche Orio"
+        },
+        "Crêpe Fruit Sec": {
+            "Français": "Crêpe Fruit Sec",
+            "Deutsch": "Crêpe mit Trockenfrüchten",
+            "العربية": "كريب الفواكه المجففة",
+            "English": "Dried Fruit Crepe",
+            "中文": "干果薄饼",
+            "Español": "Crepe de frutos secos"
+        },
+        "Crêpe Lotus": {
+            "Français": "Crêpe Lotus",
+            "Deutsch": "Lotus-Crêpe",
+            "العربية": "كريب اللوتس",
+            "English": "Lotus Crepe",
+            "中文": "莲花绉饼",
+            "Español": "Crepe de loto"
+        },
+        "Jus Mangue": {
+            "Français": "Jus Mangue",
+            "Deutsch": "Mangosaft",
+            "العربية": "عصير المانجو",
+            "English": "Mango Juice",
+            "中文": "芒果汁",
+            "Español": "Jugo de mango"
+        },
+        "Chocolat Fondue": {
+            "Français": "Chocolat Fondue",
+            "Deutsch": "Schokoladenfondue",
+            "العربية": "فوندو الشوكولاتة",
+            "English": "Chocolate Fondue",
+            "中文": "巧克力火锅",
+            "Español": "Fondue de chocolate"
+        },
+        "Moroccan Chicken with Apricot and Olive Relish": {
+            "Français": "Poulet marocain avec relish d'abricots et d'olives",
+            "Deutsch": "Marokkanisches Hähnchen mit Aprikosen-Oliven-Relish",
+            "العربية": "دجاج مغربي مع صلصة المشمش والزيتون",
+            "English": "Moroccan Chicken with Apricot and Olive Relish",
+            "中文": "摩洛哥杏子橄榄鸡",
+            "Español": "Pollo marroquí con salsa de albaricoque y aceitunas"
+        },
+        "Kitkat": {
+            "Français": "Kit Kat",
+            "Deutsch": "KitKat",
+            "العربية": "كيت كات",
+            "English": "KitKat",
+            "中文": "奇巧",
+            "Español": "Kit Kat"
+        },
+        "Jus Avocat": {
+            "Français": "Jus Avocat",
+            "Deutsch": "Avocadosaft",
+            "العربية": "عصير افوكادو",
+            "English": "Avocado Juice",
+            "中文": "鳄梨汁",
+            "Español": "Jugo de aguacate"
+        },
+        "TAJINE CREVETTE": {
+            "Français": "TAJINE CREVETTE",
+            "Deutsch": "GARNELEN-TAJINE",
+            "العربية": "طاجن الروبيان",
+            "English": "SHRIMP TAJINE",
+            "中文": "虾塔吉锅",
+            "Español": "TAJINE DE CAMARONES"
+        },
+        "Milk shakes Nutella": {
+            "Français": "Milk-shakes au Nutella",
+            "Deutsch": "Milchshakes Nutella",
+            "العربية": "ميلك شيك نوتيلا",
+            "English": "Milk shakes Nutella",
+            "中文": "奶昔 Nutella",
+            "Español": "Batidos de leche Nutella"
+        },
+        "Milk shakes Magnum": {
+            "Français": "Milk-shakes Magnum",
+            "Deutsch": "Milchshakes Magnum",
+            "العربية": "ميلك شيك ماجنوم",
+            "English": "Milk shakes Magnum",
+            "中文": "玛格南奶昔",
+            "Español": "Batidos de leche Magnum"
+        },
+        "SPECIALE MERCI": {
+            "Français": "MARCHANDISES SPECIALES",
+            "Deutsch": "SONDERWAREN",
+            "العربية": "بضائع خاصة",
+            "English": "SPECIAL GOODS",
+            "中文": "特殊商品",
+            "Español": "PRODUCTOS ESPECIALES"
+        },
+        "Café Noir": {
+            "Français": "Café Noir",
+            "Deutsch": "Schwarzer Kaffee",
+            "العربية": "القهوة السوداء",
+            "English": "Black coffee",
+            "中文": "黑咖啡",
+            "Español": "Café negro"
+        },
+     "Verveine": {
+    "Français": "Verveine",
+    "Deutsch": "Eisenkraut",
+    "العربية": "اللويزة",
+    "English": "Lemon Verbena",
+    "中文": "柠檬马鞭草",
+    "Español": "Verbena de limón"
+}
+,
+        "Pancake Lotus": {
+            "Français": "Crêpes au lotus",
+            "Deutsch": "Pfannkuchen-Lotus",
+            "العربية": "فطيرة اللوتس",
+            "English": "Pancake Lotus",
+            "中文": "煎饼莲花",
+            "Español": "Panqueque de loto"
+        },
+        "Red Bull Mojito": {
+            "Français": "Mojito Red Bull",
+            "Deutsch": "Red Bull Mojito",
+            "العربية": "ريد بول موهيتو",
+            "English": "Red Bull Mojito",
+            "中文": "红牛莫吉托",
+            "Español": "Mojito Red Bull"
+        },
+        "Good morning": {
+            "Français": "Bonjour",
+            "Deutsch": "Guten Morgen",
+            "العربية": "صباح الخير",
+            "English": "Good morning",
+            "中文": "早上好",
+            "Español": "Buen día"
+        },
+        "Vanilla cappuccino": {
+            "Français": "Cappuccino à la vanille",
+            "Deutsch": "Vanille-Cappuccino",
+            "العربية": "كابتشينو الفانيليا",
+            "English": "Vanilla cappuccino",
+            "中文": "香草卡布奇诺",
+            "Español": "Capuchino de vainilla"
+        },
+        "Omelette fromage": {
+            "Français": "Omelette fromage",
+            "Deutsch": "Käseomelett",
+            "العربية": "عجة الجبن",
+            "English": "Cheese omelette",
+            "中文": "芝士煎蛋",
+            "Español": "Tortilla de queso"
+        },
+        "Milk shakes Chocolat": {
+            "Français": "Milk-shakes au chocolat",
+            "Deutsch": "Milchshakes Schokolade",
+            "العربية": "ميلك شيك شوكولاتة",
+            "English": "Milk shakes Chocolat",
+            "中文": "奶昔 巧克力",
+            "Español": "Batidos de leche Chocolate"
+        },
+        "Ice tea Fruit rouge": {
+            "Français": "Thé glacé Fruit rouge",
+            "Deutsch": "Eistee Fruchtrouge",
+            "العربية": "شاي مثلج فواكه حمراء",
+            "English": "Ice tea Fruit rouge",
+            "中文": "冰茶水果胭脂",
+            "Español": "Té helado Fruit Rouge"
+        },
+        "Normal capuccino": {
+            "Français": "Cappuccino normal",
+            "Deutsch": "Normaler Cappuccino",
+            "العربية": "كابتشينو عادي",
+            "English": "Normal capuccino",
+            "中文": "普通卡布奇诺",
+            "Español": "Capuchino normal"
+        },
+        "Sandwich Thon": {
+            "Français": "Sandwich Thon",
+            "Deutsch": "Sandwich Thon",
+            "العربية": "ساندويتش ثون",
+            "English": "Sandwich Thon",
+            "中文": "三明治",
+            "Español": "Maratón de sándwiches"
+        },
+        "Cocktail Bleu marine": {
+            "Français": "Cocktail Bleu marine",
+            "Deutsch": "Cocktail Bleu marine",
+            "العربية": "كوكتيل بلو مارين",
+            "English": "Cocktail Bleu marine",
+            "中文": "鸡尾酒 Bleu marine",
+            "Español": "Cóctel azul marino"
+        },
+        "FRUIT ROUGE": {
+            "Français": "FRUIT ROUGE",
+            "Deutsch": "FRUCHTROUGE",
+            "العربية": "فاكهة حمراء",
+            "English": "FRUIT ROUGE",
+            "中文": "水果胭脂",
+            "Español": "FRUTA ROJA"
+        },
+        "CHEESECAKE BLUEBERRY": {
+            "Français": "GÂTEAU AU FROMAGE ET AUX BLEUETS",
+            "Deutsch": "Käsekuchen Blaubeere",
+            "العربية": "تشيز كيك بالتوت الأزرق",
+            "English": "CHEESECAKE BLUEBERRY",
+            "中文": "蓝莓芝士蛋糕",
+            "Español": "TARTA DE QUESO Y ARÁNDANOS"
+        },
+        "Café Nespresso": {
+            "Français": "Café Nespresso",
+            "Deutsch": "Nespresso Kaffee",
+            "العربية": "قهوة نسبرسو",
+            "English": "Nespresso Coffee",
+            "中文": "奈斯派索咖啡",
+            "Español": "Café Nespresso"
+        },
+        "Sandwich Croque-monsieur": {
+            "Français": "Sandwich Croque-monsieur",
+            "Deutsch": "Croque-Monsieur-Sandwich",
+            "العربية": "ساندويتش كروك مسيو",
+            "English": "Croque-monsieur sandwich",
+            "中文": "法式烤面包三明治",
+            "Español": "Sándwich de croque-monsieur"
+        },
+        "Omelette champignon": {
+            "Français": "Omelette champignon",
+            "Deutsch": "Pilzomelett",
+            "العربية": "عجة الفطر",
+            "English": "Mushroom omelette",
+            "中文": "蘑菇煎蛋卷",
+            "Español": "Tortilla de champiñones"
+        },
+        "Jus Banane": {
+            "Français": "Jus Banane",
+            "Deutsch": "Bananensaft",
+            "العربية": "عصير الموز",
+            "English": "Banana Juice",
+            "中文": "香蕉汁",
+            "Español": "Jugo de plátano"
+        },
+     "PÊCHE": {
+    "Français": "Pêche",
+    "Deutsch": "Pfirsich",
+    "العربية": "خوخ",
+    "English": "Peach",
+    "中文": "桃子",
+    "Español": "Durazno"
+}
+,
+        "Milk shakes Caramel": {
+            "Français": "Milk-shakes au caramel",
+            "Deutsch": "Milchshakes Karamell",
+            "العربية": "ميلك شيك كراميل",
+            "English": "Milk shakes Caramel",
+            "中文": "奶昔 焦糖",
+            "Español": "Batidos de leche Caramelo"
+        },
+        "harcha": {
+            "Français": "harcha",
+            "Deutsch": "harcha",
+            "العربية": "الحرشة",
+            "English": "harcha",
+            "中文": "哈查",
+            "Español": "harcha"
+        },
+        "Jus Pomme": {
+            "Français": "Jus Pomme",
+            "Deutsch": "Apfelsaft",
+            "العربية": "عصير التفاح",
+            "English": "Apple Juice",
+            "中文": "苹果汁",
+            "Español": "Zumo de manzana"
+        },
+        "Jben": {
+            "Français": "Jben",
+            "Deutsch": "Jben",
+            "العربية": "جبين",
+            "English": "Jben",
+            "中文": "杰本",
+            "Español": "Jben"
+        },
+        "Eau gazeuse": {
+            "Français": "Eau gazeuse",
+            "Deutsch": "Sprudelwasser",
+            "العربية": "مياه غازية",
+            "English": "sparkling water",
+            "中文": "汽水",
+            "Español": "agua con gas"
+        },
+        "MERCI (2 personne)": {
+            "Français": "MERCI (2 personne)",
+            "Deutsch": "MERCI (2 Personen)",
+            "العربية": "ميغسي (2 شخص)",
+            "English": "MERCI  (2 people)",
+            "中文": "谢谢 (2 人)",
+            "Español": "MERCI (2 personas)"
+        },
+        "Jus Citron gingembre menthe": {
+            "Français": "Jus Citron gingembre menthe",
+            "Deutsch": "Zitronen-Ingwer-Minzsaft",
+            "العربية": "عصير الليمون والزنجبيل والنعناع",
+            "English": "Lemon Ginger Mint Juice",
+            "中文": "柠檬姜薄荷汁",
+            "Español": "Jugo de limón, jengibre y menta"
+        },
+        "Couscous": {
+            "Français": "Couscous",
+            "Deutsch": "Couscous",
+            "العربية": "الكسكس",
+            "English": "Couscous",
+            "中文": "蒸粗麦粉",
+            "Español": "Cuscús"
+        },
+        "Pancake Frutti": {
+            "Français": "Crêpes aux fruits",
+            "Deutsch": "Fruchtpfannkuchen",
+            "العربية": "فطائر الفاكهة",
+            "English": "Fruit Pancakes",
+            "中文": "水果煎饼",
+            "Español": "Panqueques de frutas"
+        },
+        "Cheesecake Fraise": {
+            "Français": "Gâteau au fromage aux fraises",
+            "Deutsch": "Erdbeer-Käsekuchen",
+            "العربية": "تشيز كيك الفراولة",
+            "English": "Strawberry cheesecake",
+            "中文": "草莓芝士蛋糕",
+            "Español": "Tarta de queso y fresas"
+        },
+        "OMELETTE KHLII": {
+            "Français": "OMELETTE KHLII",
+            "Deutsch": "OMELETTE KHLII",
+            "العربية": "أومليت خليوي",
+            "English": "OMELETTE KHLII",
+            "中文": "煎蛋卷",
+            "Español": "TORTILLA KHLII"
+        },
+        "tajine": {
+            "Français": "tajine",
+            "Deutsch": "Tajine",
+            "العربية": "طاجن",
+            "English": "tagine",
+            "中文": "塔吉锅",
+            "Español": "tajine"
+        },
+        "Mesman": {
+            "Français": "Messman",
+            "Deutsch": "Messmann",
+            "العربية": "مسمن",
+            "English": "Messman",
+            "中文": "梅斯曼",
+            "Español": "Mesero"
+        },
+        "Whole braised chicken with lemon and olives": {
+            "Français": "Poulet entier braisé au citron et aux olives",
+            "Deutsch": "Ganzes geschmortes Hähnchen mit Zitrone und Oliven",
+            "العربية": "دجاجة كاملة مطهية بالليمون والزيتون",
+            "English": "Whole braised chicken with lemon and olives",
+            "中文": "柠檬橄榄炖整鸡",
+            "Español": "Pollo entero braseado con limón y aceitunas"
+        },
+        "Paradis Smoothies": {
+            "Français": "Paradis Smoothies",
+            "Deutsch": "Paradies-Smoothies",
+            "العربية": "عصائر باراديس",
+            "English": "Paradis Smoothies",
+            "中文": "天堂冰沙",
+            "Español": "Batidos Paradis"
+        },
+        "Crêpe Caramel": {
+            "Français": "Crêpe Caramel",
+            "Deutsch": "Karamell-Crêpe",
+            "العربية": "كريب الكراميل",
+            "English": "Caramel Crepe",
+            "中文": "焦糖绉饼",
+            "Español": "Crepe de caramelo"
+        },
+        "Crêpe Frutti": {
+            "Français": "Crêpe aux fruits",
+            "Deutsch": "Frucht-Crêpe",
+            "العربية": "كريب الفواكه",
+            "English": "Fruit Crepe",
+            "中文": "水果薄饼",
+            "Español": "Crepe de frutas"
+        },
+        "Gaufre Nutella": {
+            "Français": "Gaufre Nutella",
+            "Deutsch": "Nutella Waffel",
+            "العربية": "وافل نوتيلا",
+            "English": "Nutella Waffle",
+            "中文": "Nutella 华夫饼",
+            "Español": "Gofre de Nutella"
+        },
+        "Gaufre Fruit Sec": {
+            "Français": "Gaufre Fruit Sec",
+            "Deutsch": "Trockenfruchtwaffel",
+            "العربية": "وافل الفواكه المجففة",
+            "English": "Dried Fruit Waffle",
+            "中文": "干果华夫饼",
+            "Español": "Gofre de frutos secos"
+        },
+        "Tagine crevette": {
+            "Français": "Tagine crevette",
+            "Deutsch": "Garnelen-Tajine",
+            "العربية": "طاجن الروبيان",
+            "English": "Shrimp tagine",
+            "中文": "虾塔吉锅",
+            "Español": "Tajine de camarones"
+        },
+        "Cocktail Special": {
+            "Français": "Cocktail Spécial",
+            "Deutsch": "Cocktail Spezial",
+            "العربية": "كوكتيل خاص",
+            "English": "Cocktail Special",
+            "中文": "特制鸡尾酒",
+            "Español": "Cóctel especial"
+        },
+        "Nature": {
+            "Français": "Nature",
+            "Deutsch": "Natur",
+            "العربية": "طبيعي",
+            "English": "Nature",
+            "中文": "自然",
+            "Español": "Naturaleza"
+        },
+        "VIANDE HACHÉE": {
+            "Français": "VIANDE HACHÉE",
+            "Deutsch": "HACKFLEISCH",
+            "العربية": "لحم مفروم",
+            "English": "MINCED MEAT",
+            "中文": "碎肉",
+            "Español": "CARNE PICADA"
+        },
+        "Black Mojito": {
+            "Français": "Mojito noir",
+            "Deutsch": "Schwarzer Mojito",
+            "العربية": "موخيتو أسود",
+            "English": "Black Mojito",
+            "中文": "黑莫吉托",
+            "Español": "Mojito negro"
+        },
+        "Jus Citron": {
+            "Français": "Jus Citron",
+            "Deutsch": "Zitronensaft",
+            "العربية": "عصير ليمون",
+            "English": "Lemon Juice",
+            "中文": "柠檬汁",
+            "Español": "Zumo de limón"
+        },
+        "American taste": {
+            "Français": "Goût américain",
+            "Deutsch": "Amerikanischer Geschmack",
+            "العربية": "الطعم الامريكي",
+            "English": "American taste",
+            "中文": "美国口味",
+            "Español": "Gusto americano"
+        }
+    },
+    "description": {
+        "Avocat,pomme,concombre,citron vert,miel": {
+            "Français": "Avocat,pomme,concombre,citron vert,miel",
+            "Deutsch": "Avocado, Apfel, Gurke, Limette, Honig",
+            "العربية": "الأفوكادو، التفاح، الخيار، الليمون، العسل",
+            "English": "Avocado, apple, cucumber, lime, honey",
+            "中文": "牛油果、苹果、黄瓜、酸橙、蜂蜜",
+            "Español": "Aguacate, manzana, pepino, lima, miel."
+        },
+        "POULET, SAUCE FROMAGE, CHAMPIGNON, FROMAGE, SALADE,": {
+            "Français": "POULET, SAUCE FROMAGE, CHAMPIGNON, FROMAGE, SALADE,",
+            "Deutsch": "HÜHNCHEN, KÄSESAUCE, PILZ, KÄSE, SALAT,",
+            "العربية": "دجاج، صلصة الجبن، فطر، جبن، سلطة،",
+            "English": "CHICKEN, CHEESE SAUCE, MUSHROOM, CHEESE, SALAD,",
+            "中文": "鸡肉，奶酪酱，蘑菇，奶酪，沙拉，",
+            "Español": "POLLO, SALSA DE QUESO, CHAMPIÑONES, QUESO, ENSALADA,"
+        },
+        "Orange,betterave,gingembre,citron vert,miel": {
+            "Français": "Orange,betterave,gingembre,citron vert,miel",
+            "Deutsch": "Orange, Rote Bete, Ingwer, Limette, Honig",
+            "العربية": "البرتقال، البنجر، الزنجبيل، الليمون، العسل",
+            "English": "Orange, beet, ginger, lime, honey",
+            "中文": "橙子、甜菜根、姜、酸橙、蜂蜜",
+            "Español": "Naranja, remolacha, jengibre, lima, miel."
+        },
+        "Sauce Nutella, Fruits De Saisons": {
+            "Français": "Sauce Nutella, Fruits De Saisons",
+            "Deutsch": "Nutellasauce, Saisonale Früchte",
+            "العربية": "صلصة نوتيلا، فواكه موسمية",
+            "English": "Nutella Sauce, Seasonal Fruits",
+            "中文": "Nutella 酱、时令水果",
+            "Español": "Salsa Nutella, Frutas de Temporada"
+        },
+        "Sauce Nutella, Sauce Chocolat Noir, Sauce Chocolat Blanc": {
+            "Français": "Sauce Nutella, Sauce Chocolat Noir, Sauce Chocolat Blanc",
+            "Deutsch": "Nutellasauce, dunkle Schokoladensauce, weiße Schokoladensauce",
+            "العربية": "صلصة نوتيلا، صلصة الشوكولاتة الداكنة، صلصة الشوكولاتة البيضاء",
+            "English": "Nutella Sauce, Dark Chocolate Sauce, White Chocolate Sauce",
+            "中文": "能多益酱、黑巧克力酱、白巧克力酱",
+            "Español": "Salsa de Nutella, Salsa de Chocolate Negro, Salsa de Chocolate Blanco"
+        },
+        "sauce fromage, œuf, charcuterie, fromage, tomate, laitue": {
+            "Français": "sauce fromage, œuf, charcuterie, fromage, tomate, laitue",
+            "Deutsch": "Käsesauce, Ei, Aufschnitt, Käse, Tomate, Salat",
+            "العربية": "صلصة الجبن، بيض، لحوم باردة، جبن، طماطم، خس",
+            "English": "cheese sauce, egg, cold cuts, cheese, tomato, lettuce",
+            "中文": "奶酪酱，鸡蛋，冷盘，奶酪，番茄，生菜",
+            "Español": "salsa de queso, huevo, embutidos, queso, tomate, lechuga"
+        },
+        "Orange,Ananas,vanilla,lait coco,grenadine": {
+            "Français": "Orange,Ananas,vanilla,lait coco,grenadine",
+            "Deutsch": "Orange, Ananas, Vanille, Kokosmilch, Grenadine",
+            "العربية": "البرتقال، الأناناس، الفانيليا، حليب جوز الهند، الرمان",
+            "English": "Orange, pineapple, vanilla, coconut milk, grenadine",
+            "中文": "橙子、菠萝、香草、椰奶、石榴糖浆",
+            "Español": "Naranja, piña, vainilla, leche de coco, granadina."
+        },
+        "Lait,Thé,Eau": {
+            "Français": "Lait,Thé,Eau",
+            "Deutsch": "Milch, Tee, Wasser",
+            "العربية": "الحليب والشاي والماء",
+            "English": "Milk, Tea, Water",
+            "中文": "牛奶、茶、水",
+            "Español": "Leche, Té, Agua"
+        },
+        "Kalinte, kalentica, karane, etc., so many ways to call this dish! All these appellations refer to the Spanish word “caliente” - which means warm - for the simple reason that this silky and smooth chickpea pie is meant to be enjoyed warm. In a way, we coul": {
+            "Français": "Kalinte, kalentica, karane, etc., autant de façons d’appeler ce plat ! Toutes ces appellations font référence au mot espagnol « caliente » – qui signifie chaud – pour la simple et bonne raison que cette tarte aux pois chiches soyeuse et onctueuse est destinée à être dégustée chaude. On pourrait en quelque sorte",
+            "Deutsch": "Kalinte, Kalentica, Karane usw., so viele Möglichkeiten, dieses Gericht zu nennen! Alle diese Bezeichnungen beziehen sich auf das spanische Wort „caliente“ – was warm bedeutet – aus dem einfachen Grund, dass dieser seidige und glatte Kichererbsenkuchen warm genossen werden soll. In gewisser Weise könnten wir",
+            "العربية": "كالينتي، كالينتيكا، كاراني، إلخ، هناك العديد من الطرق لتسمية هذا الطبق! تشير كل هذه التسميات إلى الكلمة الإسبانية \"كالينتي\" - والتي تعني دافئ - للسبب البسيط أن فطيرة الحمص الناعمة والناعمة هذه من المفترض أن يتم الاستمتاع بها دافئة. بطريقة ما، يمكننا أن نسميها \"دافئًا\".",
+            "English": "Kalinte, kalentica, karane, etc., so many ways to call this dish! All these appellations refer to the Spanish word “caliente” - which means warm - for the simple reason that this silky and smooth chickpea pie is meant to be enjoyed warm. In a way, we coul",
+            "中文": "Kalinte、kalentica、karane 等，这道菜有这么多称呼！所有这些称呼都指西班牙语单词“caliente”——意思是温暖——原因很简单，这种丝滑的鹰嘴豆派应该趁热享用。在某种程度上，我们可以",
+            "Español": "Kalinte, kalentica, karane, etc., ¡tantas formas de llamar a este plato! Todas estas denominaciones hacen referencia a la palabra española “caliente” por la sencilla razón de que este pastel de garbanzos suave y sedoso está pensado para disfrutarlo caliente. En cierto modo, podríamos"
+        },
+        "escalopes,sauce fromage, laitue, tomate, fromage": {
+            "Français": "escalopes,sauce fromage, laitue, tomate, fromage",
+            "Deutsch": "Schnitzel, Käsesauce, Salat, Tomaten, Käse",
+            "العربية": "اسكالوب، صلصة الجبن، خس، طماطم، جبن",
+            "English": "escalopes, cheese sauce, lettuce, tomato, cheese",
+            "中文": "炸肉排，奶酪酱，生菜，番茄，奶酪",
+            "Español": "escalopes, salsa de queso, lechuga, tomate, queso"
+        },
+        "Citron vert, menthe, soda, Sucre de canne": {
+            "Français": "Citron vert, menthe, soda, Sucre de canne",
+            "Deutsch": "Limette, Minze, Soda, Rohrzucker",
+            "العربية": "الليمون، النعناع، ​​الصودا، سكر القصب",
+            "English": "Lime, mint, soda, cane sugar",
+            "中文": "青柠、薄荷、苏打、蔗糖",
+            "Español": "Lima, menta, soda, azúcar de caña."
+        },
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.": {
+            "Français": "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'industrie depuis les années 1500.",
+            "Deutsch": "Lorem Ipsum ist einfach Blindtext der Druck- und Satzindustrie. Lorem Ipsum ist seit dem 16. Jahrhundert der Standardblindtext der Industrie.",
+            "العربية": "يُعد نص Lorem Ipsum ببساطة نصًا شكليًا (بمعنى أنه ليس بالضرورة نصًا شكليًا) يُستخدم في صناعة الطباعة والتنضيد. وقد ظل نص Lorem Ipsum النص الشكلي القياسي لهذه الصناعة منذ القرن السادس عشر.",
+            "English": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+            "中文": "Lorem Ipsum 只是印刷排版行业的虚拟文本。自 1500 年代以来，Lorem Ipsum 一直是该行业的标准虚拟文本。",
+            "Español": "Lorem Ipsum es simplemente un texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500."
+        },
+        "(JUICE ORANGE, SODA LIME, CONCENTRATE CITRON SIROP FRAISE)": {
+            "Français": "(JUICE ORANGE, SODA LIME, CONCENTRATE CITRON SIROP FRAISE)",
+            "Deutsch": "(ORANGENSAFT, LIMETTEN-SOD, ZITRONENKONZENTRAT, ERDBEERSIRUP)",
+            "العربية": "(عصير البرتقال، صودا الليمون، مركز الليمون، شراب الفراولة)",
+            "English": "(ORANGE JUICE, LIME SODA, LEMON CONCENTRATE, STRAWBERRY SYRUP)",
+            "中文": "（橙汁、青柠汽水、柠檬浓缩液、草莓糖浆）",
+            "Español": "(JUGO DE NARANJA, REFRESCO DE LIMA, CONCENTRADO DE LIMÓN, JARABE DE FRESA)"
+        },
+        "(3 NUTELLA, 3 SPECOLOOS LOTUS, 3 PISTACHE, 3 CARAMEL, 3 FRAISE)": {
+            "Français": "(3 NUTELLA, 3 SPECOLOOS LOTUS, 3 PISTACHE, 3 CARAMEL, 3 FRUITS)",
+            "Deutsch": "(3 NUTELLA, 3 SPECOLOOS LOTUS, 3 PISTACHE, 3 KARAMELL, 3 FRÜCHTE)",
+            "العربية": "(3 نوتيلا ، 3 محوسب لوتس ، 3 pistache ، 3 كراميل ، 3 ثمار)",
+            "English": "(3 NUTELLA, 3 SPECOLOOS LOTUS, 3 PISTACHE, 3 CARAMEL, 3 FRUITS)",
+            "中文": "(3 颗 NUTELLA、3 颗 SPECOLOOS LOTUS、3 颗开心果、3 颗焦糖、3 颗水果)",
+            "Español": "(3 NUTELLA, 3 SPECOLOOS LOTUS, 3 PISTACHE, 3 CARAMELO, 3 FRUTAS)"
+        },
+        "50cl": {
+            "Français": "50cl",
+            "Deutsch": "50cl",
+            "العربية": "50 مل",
+            "English": "50cl",
+            "中文": "50厘升",
+            "Español": "50 cl"
+        },
+        "Boisson chaude au choix,Pain grillé avec Accompagnement(Miel,Confiture,Jben),Jus d’orange,Hsoua.": {
+            "Français": "Boisson chaude au choix,Pain grillé avec Accompagnement(Miel,Confiture,Jben),Jus d’orange,Hsoua.",
+            "Deutsch": "Heißgetränk Ihrer Wahl, geröstetes Brot mit Beilage (Honig, Marmelade, Jben), Orangensaft, Hsoua.",
+            "العربية": "مشروب ساخن حسب اختيارك، خبز محمص مع مقبلات (عسل، مربى، جبن)، عصير برتقال، حسوة.",
+            "English": "Hot drink of your choice, Toasted bread with accompaniment (honey, jam, Jben), Orange juice, Hsoua.",
+            "中文": "您选择的热饮、配餐的烤面包（蜂蜜、果酱、Jben）、橙汁、Hsoua。",
+            "Español": "Bebida caliente a elección, Pan tostado con guarnición (Miel, Mermelada, Jben), Jugo de naranja, Hsoua."
+        },
+        "(PASSION ANANAS. CONCENTRE CITRON, SIROP DE FRAISE)": {
+            "Français": "(PASSION ANANAS. CONCENTRE CITRON, SIROP DE FRAISE)",
+            "Deutsch": "(ANANAS-LEIDENSCHAFT. ZITRONENKONZENTRAT, ERDBEERSIRUP)",
+            "العربية": "(شغف الأناناس، مركز الليمون، شراب الفراولة)",
+            "English": "(PINEAPPLE PASSION. LEMON CONCENTRATE, STRAWBERRY SYRUP)",
+            "中文": "（菠萝激情、柠檬浓缩液、草莓糖浆）",
+            "Español": "(PIÑA Y PASIÓN. CONCENTRADO DE LIMÓN, JARABE DE FRESA)"
+        },
+        "sauce fromage,viande haché,fromage,oignons frits,laitue,tomate": {
+            "Français": "sauce fromage,viande haché,fromage,oignons frits,laitue,tomate",
+            "Deutsch": "Käsesauce, Hackfleisch, Käse, Röstzwiebeln, Salat, Tomate",
+            "العربية": "صلصة الجبن، اللحم المفروم، الجبن، البصل المقلي، الخس، الطماطم",
+            "English": "cheese sauce, minced meat, cheese, fried onions, lettuce, tomato",
+            "中文": "奶酪酱，肉末，奶酪，炸洋葱，生菜，番茄",
+            "Español": "salsa de queso, carne picada, queso, cebollas fritas, lechuga, tomate"
+        },
+        "(3 NUTELLA, 3 SPECOLOOS LOTUS, 3 PISTACHE)": {
+            "Français": "(3 NUTELLA, 3 SPECOLOOS LOTUS, 3 PISTACHE)",
+            "Deutsch": "(3 NUTELLA, 3 SPECOLOOS LOTUS, 3 PISTACHE)",
+            "العربية": "(3 نوتيلا، 3 سبيكولوس لوتس، 3 فستق)",
+            "English": "(3 NUTELLA, 3 SPECOLOOS LOTUS, 3 PISTACHE)",
+            "中文": "(3 颗 NUTELLA、3 颗 SPECOLOOS LOTUS、3 颗开心果)",
+            "Español": "(3 NUTELLA, 3 SPECOLOOS LOTUS, 3 PISTACHE)"
+        },
+        "SAUCE FROMAGE, FROMAGE CHEDDAR, MOZZARELLA, FROMAGE ROUGE": {
+            "Français": "SAUCE FROMAGE, FROMAGE CHEDDAR, MOZZARELLA, FROMAGE ROUGE",
+            "Deutsch": "Käsesauce, Cheddarkäse, Mozzarella, Rotkäse",
+            "العربية": "صلصة الجبن، جبن شيدر، موزاريلا، جبن أحمر",
+            "English": "CHEESE SAUCE, CHEDDAR CHEESE, MOZZARELLA, RED CHEESE",
+            "中文": "奶酪酱、切达干酪、马苏里拉奶酪、红奶酪",
+            "Español": "SALSA DE QUESO, QUESO CHEDDAR, MOZZARELLA, QUESO ROJO"
+        },
+        "viande haché, formage, laitue, tomate, sauce fromage": {
+            "Français": "viande haché, formage, laitue, tomate, sauce fromage",
+            "Deutsch": "Hackfleisch, Käse, Salat, Tomaten, Käsesauce",
+            "العربية": "لحم مفروم، جبن، خس، طماطم، صلصة جبن",
+            "English": "ground meat, cheese, lettuce, tomato, cheese sauce",
+            "中文": "碎肉，奶酪，生菜，番茄，奶酪酱",
+            "Español": "carne molida, queso, lechuga, tomate, salsa de queso"
+        },
+        "dinde,sauce fromage, champignon,fromage,oignons frits,laitue,tomate": {
+            "Français": "dinde,sauce fromage, champignon,fromage,oignons frits,laitue,tomate",
+            "Deutsch": "Truthahn, Käsesauce, Champignons, Käse, Röstzwiebeln, Salat, Tomate",
+            "العربية": "ديك رومي، صلصة جبنة، مشروم، جبنة، بصل مقلي، خس، طماطم",
+            "English": "turkey, cheese sauce, mushroom, cheese, fried onions, lettuce, tomato",
+            "中文": "火鸡，奶酪酱，蘑菇，奶酪，炸洋葱，生菜，番茄",
+            "Español": "pavo, salsa de queso, champiñones, queso, cebollas fritas, lechuga, tomate"
+        },
+        "(PINEAPPLE JUICE, CITRONADE, VANILLA SIRUP)": {
+            "Français": "(JUS D'ANANAS, LIMONADE, SIROP DE VANILLE)",
+            "Deutsch": "(ANANASSAFTE, LIMONADE, VANILLESIRUP)",
+            "العربية": "(عصير الأناناس، عصير الليمون، شراب الفانيليا)",
+            "English": "(PINEAPPLE JUICE, LEMONADE, VANILLA SYRUP)",
+            "中文": "(菠萝汁、柠檬水、香草糖浆)",
+            "Español": "(JUGO DE PIÑA, LIMONADA, JARABE DE VAINILLA)"
+        },
+        "viande haché, dinde, jambon, sauce fromage, champignon, fromage, oignons frits,laitue,tomate,frites": {
+            "Français": "viande haché, dinde, jambon, sauce fromage, champignon, fromage, oignons frits,laitue,tomate,frites",
+            "Deutsch": "Hackfleisch, Pute, Schinken, Käsesauce, Champignons, Käse, Röstzwiebeln, Salat, Tomaten, Pommes",
+            "العربية": "لحم مفروم، ديك رومي، لحم خنزير، صلصة جبن، فطر، جبن، بصل مقلي، خس، طماطم، بطاطس مقلية",
+            "English": "ground meat, turkey, ham, cheese sauce, mushroom, cheese, fried onions, lettuce, tomato, fries",
+            "中文": "碎肉，火鸡，火腿，奶酪酱，蘑菇，奶酪，炸洋葱，生菜，番茄，薯条",
+            "Español": "carne molida, pavo, jamón, salsa de queso, champiñones, queso, cebollas fritas, lechuga, tomate, papas fritas"
+        },
+        "Citron, menthe, Coca-Cola": {
+            "Français": "Citron, menthe, Coca-Cola",
+            "Deutsch": "Zitrone, Minze, Coca-Cola",
+            "العربية": "الليمون، النعناع، ​​كوكاكولا",
+            "English": "Citron, mint, Coca-Cola",
+            "中文": "柚子、薄荷、可口可乐",
+            "Español": "Citron, menthe, Coca-Cola"
+        },
+        "Sauce Nutella, banane": {
+            "Français": "Sauce Nutella, bananes",
+            "Deutsch": "Soße Nutella, Bananen",
+            "العربية": "صلصة نوتيلا والموز",
+            "English": "Sauce Nutella, bananas",
+            "中文": "酱汁 Nutella，香蕉",
+            "Español": "Salsa Nutella, plátanos"
+        },
+        "Sauce caramel, Sauce Nutella": {
+            "Français": "Sauce caramel, Sauce Nutella",
+            "Deutsch": "Karamellsauce, Nutellasauce",
+            "العربية": "صلصة الكراميل، صلصة النوتيلا",
+            "English": "Sauce caramel, Sauce Nutella",
+            "中文": "焦糖酱、Nutella 酱",
+            "Español": "Salsa de caramelo, Salsa Nutella"
+        },
+        "Pomme,carotte,ananas,gingembre,miel": {
+            "Français": "Pomme,carotte,ananas,gingembre,miel",
+            "Deutsch": "Apfel, Karotte, Ananas, Ingwer, Honig",
+            "العربية": "التفاح والجزر والأناناس والزنجبيل والعسل",
+            "English": "Apple, carrot, pineapple, ginger, honey",
+            "中文": "苹果、胡萝卜、菠萝、生姜、蜂蜜",
+            "Español": "Manzana, zanahoria, piña, jengibre, miel."
+        },
+        "Boisson chaude au choix, Tajine au khelii, 2 hercha (normal et avec les olives), 1msemna, Panier de Pain accompagnement (huile d’olive, miel, Confiture, Olive), salade fruits, Jus d’orange,Hsoua.": {
+            "Français": "Boisson chaude au choix, Tajine au khelii, 2 hercha (normal et avec les olives), 1msemna, Panier de Pain accompagnement (huile d’olive, miel, Confiture, Olive), salade fruits, Jus d’orange,Hsoua.",
+            "Deutsch": "Heißgetränk Ihrer Wahl, Tajine mit Khelii, 2 Hercha (normal und mit Oliven), 1 Msemna, Korb mit Brot dazu (Olivenöl, Honig, Marmelade, Oliven), Obstsalat, Orangensaft, Hsoua.",
+            "العربية": "مشروب ساخن حسب اختيارك، طاجين بالخليع، 2 حرشة (عادية وبالزيتون)، 1 مسمنة، سلة خبز مرافق (زيت زيتون، عسل، مربى، زيتون)، سلطة فواكه، عصير برتقال، حسوة.",
+            "English": "Hot drink of your choice, Tajine with khelii, 2 hercha (normal and with olives), 1msemna, Basket of accompanying bread (olive oil, honey, jam, olive), fruit salad, orange juice, Hsoua.",
+            "中文": "您选择的热饮、配有 khelii 的塔吉锅、2 个 hercha（普通和配橄榄）、1msemna、配套面包篮（橄榄油、蜂蜜、果酱、橄榄）、水果沙拉、橙汁、Hsoua。",
+            "Español": "Bebida caliente a elección, Tajine con khelii, 2 hercha (normal y con aceitunas), 1 msemna, cesta de pan de acompañamiento (aceite de oliva, miel, mermelada, aceitunas), ensalada de frutas, zumo de naranja, Hsoua."
+        },
+        "(3 NUTELLA, 3 SPECOLOOS LOTUS, 3 PISTACHE, 3 CARAMEL)": {
+            "Français": "(3 NUTELLA, 3 SPECOLOOS LOTUS, 3 PISTACHE, 3 CARAMEL)",
+            "Deutsch": "(3 NUTELLA, 3 SPECOLOOS LOTUS, 3 PISTACHE, 3 KARAMELL)",
+            "العربية": "(3 نوتيلا، 3 سبيكولوس لوتس، 3 فستق، 3 كراميل)",
+            "English": "(3 NUTELLA, 3 SPECOLOOS LOTUS, 3 PISTACHE, 3 CARAMEL)",
+            "中文": "(3 颗 NUTELLA、3 颗 SPECOLOOS LOTUS、3 颗开心果、3 颗焦糖)",
+            "Español": "(3 NUTELLA, 3 SPECOLOOS LOTUS, 3 PISTACHE, 3 CARAMELO)"
+        },
+        "Size: 500cl": {
+            "Français": "Contenance : 500cl",
+            "Deutsch": "Größe: 500cl",
+            "العربية": "الحجم: 500 مل",
+            "English": "Size: 500cl",
+            "中文": "尺寸：500cl",
+            "Español": "Tamaño: 500cl"
+        },
+        "(CRUSHED STRAWBERRY, GRAPE JUICE, LIME SODA, RASPBERRY SYRUP)": {
+            "Français": "(FRAISE ÉCRASÉE, JUS DE RAISIN, SODA AU CITRON VERT, SIROP DE FRAMBOISE)",
+            "Deutsch": "(ZERDRÜCKTE ERDBEEREN, TRAUBENSAFT, LIMETTEN-SOD, HIMBEERSIRUP)",
+            "العربية": "(الفراولة المطحونة، عصير العنب، صودا الليمون، شراب التوت)",
+            "English": "(CRUSHED STRAWBERRY, GRAPE JUICE, LIME SODA, RASPBERRY SYRUP)",
+            "中文": "（碎草莓，葡萄汁，青柠汽水，覆盆子糖浆）",
+            "Español": "(FRESA TRITURADA, JUGO DE UVA, SODA DE LIMA, JARABE DE FRAMBUESA)"
+        },
+        "Purée de fraise, mangue banane": {
+            "Français": "Purée de fraise, mangue banane",
+            "Deutsch": "Erdbeer-, Mango- und Bananenpüree",
+            "العربية": "هريس الفراولة والمانجو والموز",
+            "English": "Strawberry, mango and banana puree",
+            "中文": "草莓、芒果和香蕉泥",
+            "Español": "Puré de fresa, mango y plátano"
+        },
+        "sauce fromage, laitue, tomate, poulet, fromage": {
+            "Français": "sauce fromage, laitue, tomate, poulet, fromage",
+            "Deutsch": "Käsesauce, Salat, Tomaten, Hähnchen, Käse",
+            "العربية": "صلصة الجبن، خس، طماطم، دجاج، جبن",
+            "English": "cheese sauce, lettuce, tomato, chicken, cheese",
+            "中文": "奶酪酱，生菜，番茄，鸡肉，奶酪",
+            "Español": "salsa de queso, lechuga, tomate, pollo, queso"
+        },
+        "sauce fromage,fromage cheddar, mozzarella,fromag rouge": {
+            "Français": "sauce fromage,fromage cheddar, mozzarella,fromag rouge",
+            "Deutsch": "Käsesauce, Cheddarkäse, Mozzarella, Rotkäse",
+            "العربية": "صلصة الجبن، جبن شيدر، موزاريلا، جبن أحمر",
+            "English": "cheese sauce, cheddar cheese, mozzarella, red cheese",
+            "中文": "奶酪酱，切达奶酪，马苏里拉奶酪，红奶酪",
+            "Español": "salsa de queso, queso cheddar, mozzarella, queso rojo"
+        },
+        "Mangue, pomme, menthe, orange": {
+            "Français": "Mangue, pomme, menthe, orange",
+            "Deutsch": "Mango, Apfel, Minze, Orange",
+            "العربية": "المانجو، التفاح، النعناع، ​​البرتقال",
+            "English": "Mango, apple, mint, orange",
+            "中文": "芒果、苹果、薄荷、橙子",
+            "Español": "Mango, manzana, menta, naranja."
+        },
+        "Ananas,vanilla,lait coco,bleu corassa": {
+            "Français": "Ananas,vanilla,lait coco,bleu corassa",
+            "Deutsch": "Ananas, Vanille, Kokosmilch, Blue Corassa",
+            "العربية": "أناناس، فانيليا، حليب جوز الهند، كوراسا بلو",
+            "English": "Pineapple, vanilla, coconut milk, blue corassa",
+            "中文": "菠萝、香草、椰奶、蓝卡萨",
+            "Español": "Piña, vainilla, leche de coco, corassa azul."
+        },
+        "Boisson chaude au choix, 3 Viennoiseries,Panier de Pain Accompagnement (Jben,miel,confiture),Jus d’orange,Hsoua.": {
+            "Français": "Boisson chaude au choix, 3 Viennoiseries,Panier de Pain Accompagnement (Jben,miel,confiture),Jus d’orange,Hsoua.",
+            "Deutsch": "Heißgetränk Ihrer Wahl, 3 Gebäckstücke, Korb mit Brotbeilagen (Jben, Honig, Marmelade), Orangensaft, Hsoua.",
+            "العربية": "مشروب ساخن حسب اختيارك، 3 معجنات، سلة من مقبلات الخبز (جبن، عسل، مربى)، عصير برتقال، حسوة.",
+            "English": "Hot drink of your choice, 3 pastries, Basket of bread accompaniments (Jben, honey, jam), Orange juice, Hsoua.",
+            "中文": "您选择的热饮、3 个糕点、一篮面包配菜（Jben、蜂蜜、果酱）、橙汁、Hsoua。",
+            "Español": "Bebida caliente a elección, 3 pasteles, Cesta de acompañamientos de pan (Jben, miel, mermelada), Jugo de naranja, Hsoua."
+        },
+        "sauce fromage, laitue, tomate, thon": {
+            "Français": "sauce fromage, laitue, tomate, thon",
+            "Deutsch": "Käsesauce, Salat, Tomaten, Thunfisch",
+            "العربية": "صلصة الجبن، الخس، الطماطم، التونة",
+            "English": "cheese sauce, lettuce, tomato, tuna",
+            "中文": "芝士酱，生菜，番茄，金枪鱼",
+            "Español": "salsa de queso, lechuga, tomate, atún"
+        },
+        "sauce fromage, mozzarelle, fromage, jambon": {
+            "Français": "sauce fromage, mozzarelle, fromage, jambon",
+            "Deutsch": "Käsesauce, Mozzarella, Käse, Schinken",
+            "العربية": "صلصة الجبن والموزاريلا والجبن ولحم الخنزير",
+            "English": "cheese sauce, mozzarella, cheese, ham",
+            "中文": "奶酪酱，马苏里拉奶酪，奶酪，火腿",
+            "Español": "salsa de queso, mozzarella, queso, jamón"
+        },
+        "Noisette,citron vert,bleu corassan,sprait": {
+            "Français": "Noisette,citron vert,bleu corassan,sprait",
+            "Deutsch": "Haselnuss, Limette, Blue Corassan, Sprit",
+            "العربية": "البندق، الليمون، الكوراسان الأزرق، سبرايت",
+            "English": "Hazelnut, lime, blue corassan, sprait",
+            "中文": "榛子、酸橙、蓝可拉森、斯普里特",
+            "Español": "Avellana, lima, corassan azul, espadín"
+        },
+        "Ananas, banane, orange": {
+            "Français": "Ananas, banane, orange",
+            "Deutsch": "Ananas, Banane, Orange",
+            "العربية": "الأناناس ، الموز ، البرتقالي",
+            "English": "Pineapple, banana, orange",
+            "中文": "菠萝、香蕉、橙子",
+            "Español": "Piña, plátano, naranja"
+        },
+        "Fraise, mangue, orange": {
+            "Français": "Fraise, mangue, orange",
+            "Deutsch": "Erdbeere, Mango, Orange",
+            "العربية": "الفراولة والمانجو والبرتقال",
+            "English": "Strawberry, mango, orange",
+            "中文": "草莓、芒果、橙子",
+            "Español": "Fresa, mango, naranja"
+        },
+        "Size : 500cl": {
+            "Français": "Contenance : 500cl",
+            "Deutsch": "Größe: 500cl",
+            "العربية": "الحجم : 500 مل",
+            "English": "Size : 500cl",
+            "中文": "容量：500cl",
+            "Español": "Tamaño: 500cl"
+        },
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has su": {
+            "Français": "Le Lorem Ipsum est simplement un faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'industrie depuis les années 1500, lorsqu'un imprimeur inconnu prit une galée de caractères et les mélangea pour créer un livre de spécimens de caractères. Il a été",
+            "Deutsch": "Lorem Ipsum ist einfach Blindtext der Druck- und Satzindustrie. Lorem Ipsum ist seit dem 16. Jahrhundert der Standardblindtext der Industrie, als ein unbekannter Drucker eine Buchstabenleiste nahm und sie durcheinander brachte, um ein Musterbuch zu erstellen. Es hat",
+            "العربية": "Lorem Ipsum هو ببساطة نص شكلي غير رسمي يستخدم في صناعة الطباعة والتنضيد. لقد كان Lorem Ipsum هو النص الشكلي القياسي لهذه الصناعة منذ القرن السادس عشر، عندما قام طابع مجهول بأخذ مجموعة من الحروف وخلطها لصنع كتاب عينات الحروف. وقد تم استخدامه على نطاق واسع في صناعة الطباعة والتنضيد.",
+            "English": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has su",
+            "中文": "Lorem Ipsum 只是印刷排版行业的虚拟文本。自 1500 年代以来，Lorem Ipsum 一直是该行业的标准虚拟文本，当时一位不知名的印刷工从字样中取出一页并将其打乱，制作成一本字样书。它有",
+            "Español": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (anónimo) usó una galera de tipos y los mezcló de tal manera que logró fabricar un libro de muestras de tipos."
+        },
+        "2 boisson chaude au choix, 2 Tartine au fromage, 2 Tartine avocat, 2 Tartine œuf et jben, 2 msimnat, 2 hricha, 3 viennoiseries, tajine khelii, 2 Pancake au miel, 4 croquette, Panier de Pain accompagnement (huile d’olive, miel, Confiture, Olive), 2 Salade fruits, 2 Jus d’orange, 2 hssoua.": {
+            "Français": "2 boisson chaude au choix, 2 Tartine au fromage, 2 Tartine avocat, 2 Tartine œuf et jben, 2 msimnat, 2 hricha, 3 viennoiseries, tajine khelii, 2 Pancake au miel, 4 croquette, Panier de Pain accompagnement (huile d’olive, miel, Confiture, Olive), 2 Salade fruits, 2 Jus d’orange, 2 hssoua.",
+            "Deutsch": "2 Heißgetränke nach Wahl, 2 Käse-Tartines, 2 Avocado-Tartines, 2 Ei- und Jben-Tartines, 2 Msimnat, 2 Hricha, 3 Gebäckstücke, Khelii Tajine, 2 Honigpfannkuchen, 4 Kroketten, Korb mit Brot (Olivenöl, Honig, Marmelade, Olive), 2 Obstsalat, 2 Orangensaft, 2 Hssoua.",
+            "العربية": "2 مشروب ساخن من اختيارك، 2 تارتين جبن، 2 تارتين أفوكادو، 2 تارتين بيض وجبن، 2 مسمنات، 2 هريشة، 3 معجنات، طاجن خلي، 2 فطائر عسل، 4 كروكيت، سلة خبز مصاحبة (زيت زيتون، عسل، مربى، زيتون، 2 سلطة فواكه، 2 عصير برتقال، 2 حسوة.",
+            "English": "2 hot drinks of your choice, 2 cheese tartines, 2 avocado tartines, 2 egg and jben tartines, 2 msimnat, 2 hricha, 3 pastries, khelii tajine, 2 honey pancakes, 4 croquettes, basket of accompanying bread (olive oil, honey, jam, olive), 2 fruit salads, 2 orange juices, 2 hssoua.",
+            "中文": "2 份热饮（任选）、2 份奶酪塔丁、2 份鳄梨塔丁、2 份鸡蛋和 Jben 塔丁、2 份 msimnat、2 份 hricha、3 份糕点、khelii tajine、2 份蜂蜜煎饼、4 份炸丸子、一篮面包（橄榄油、蜂蜜、 2 份果酱、橄榄）、2 份水果沙拉、2 份橙汁、2 份 hssoua。",
+            "Español": "2 bebidas calientes a elección, 2 tartines de queso, 2 tartines de aguacate, 2 tartines de huevo y jben, 2 msimnat, 2 hricha, 3 pasteles, tajine de khelii, 2 panqueques de miel, 4 croquetas, canasta de pan de acompañamiento (aceite de oliva, miel, mermelada, aceituna), 2 ensaladas de frutas, 2 zumos de naranja, 2 hssoua."
+        },
+        "(CITRON ANANS, JUICE DE GRENADE, RASPBERRY SYRUP, LIME SODA)": {
+            "Français": "(CITRON ANANS, JUICE DE GRENADE, RASPBERRY SYRUP, LIME SODA)",
+            "Deutsch": "(ZITRONEN-ANANAS, GRANATAPFELSAFT, HIMBEERSIRUP, LIMETTEN-SOD)",
+            "العربية": "(عصير الليمون والأناناس وعصير الرمان وشراب التوت وصودا الليمون)",
+            "English": "(LEMON PINEAPPLE, POMEGRANATE JUICE, RASPBERRY SYRUP, LIME SODA)",
+            "中文": "(柠檬菠萝、石榴汁、覆盆子糖浆、青柠汽水)",
+            "Español": "(PIÑA DE LIMÓN, JUGO DE GRANADA, JARABE DE FRAMBUESA, REFRESCO DE LIMA)"
+        },
+        "(SODA HAWAI, BLEU LAGONE, COLA ICE)": {
+            "Français": "(SODA HAWAÏEN, BLEU LAGONE, GLACE COLA)",
+            "Deutsch": "(HAWAIIANISCHE SODA, BLEU LAGONE, COLA-EIS)",
+            "العربية": "(هاواي صودا، بلو لاجون، كولا آيس)",
+            "English": "(HAWAI SODA, BLEU LAGONE, ICE COLA)",
+            "中文": "(夏威夷苏打水、蓝泻、可乐冰)",
+            "Español": "(REFRESCA HAWAIANA, BLEU LAGONE, COLA HELADA)"
+        },
+        "VIANDE HACHÉE, POULET, JAMBON, SAUCE FROMAGE, CHAMPIGNON, FROMAGE, SALADE, CROQUETTE": {
+            "Français": "VIANDE HACHÉE, POULET, JAMBON, SAUCE FROMAGE, CHAMPIGNON, FROMAGE, SALADE, CROQUETTE",
+            "Deutsch": "HACKFLEISCH, HÜHNCHEN, SCHINKEN, KÄSESAUCE, PILZE, KÄSE, SALAT, KROKETTEN",
+            "العربية": "لحم مفروم، دجاج، لحم خنزير، صلصة جبن، فطر، جبن، سلطة، كروكيت",
+            "English": "MINCED MEAT, CHICKEN, HAM, CHEESE SAUCE, MUSHROOM, CHEESE, SALAD, CROQUETTE",
+            "中文": "碎肉，鸡肉，火腿，芝士酱，蘑菇，奶酪，沙拉，炸丸子",
+            "Español": "CARNE PICADA, POLLO, JAMÓN, SALSA DE QUESO, CHAMPIÑONES, QUESO, ENSALADA, CROQUETAS"
+        },
+        "Sauce Nutella, oreo": {
+            "Français": "Sauce Nutella, Oréo",
+            "Deutsch": "Nutellasauce, Oreo",
+            "العربية": "صلصة نوتيلا، أوريو",
+            "English": "Nutella sauce, oreo",
+            "中文": "能多益酱、奥利奥",
+            "Español": "Salsa de nutella, oreo"
+        },
+        "SAUCE FROMAGE, JAMBON,": {
+            "Français": "SAUCE FROMAGE, JAMBON,",
+            "Deutsch": "Käsesauce, Schinken,",
+            "العربية": "صلصة الجبن واللحم الخنزير",
+            "English": "CHEESE SAUCE, HAM,",
+            "中文": "奶酪酱、火腿、",
+            "Español": "SALSA DE QUESO, JAMÓN,"
+        },
+        "Boisson chaude au choix, 2 Tartine au œuf et fromage, Brochette dinde, Saucisse, Salade verte, 3 Croquettes, 2 Pancake au miel, Salade fruits, Panier de Pain accompagnement (Miel,Confiture,Olive), jus d’orange,Hsoua.": {
+            "Français": "Boisson chaude au choix, 2 Tartine au œuf et fromage, Brochette dinde, Saucisse, Salade verte, 3 Croquettes, 2 Pancake au miel, Salade fruits, Panier de Pain accompagnement (Miel,Confiture,Olive), jus d’orange,Hsoua.",
+            "Deutsch": "Heißgetränk nach Wahl, 2 Eier-Käse-Tartines, Putenspieße, Wurst, grüner Salat, 3 Kroketten, 2 Honigpfannkuchen, Obstsalat, Korb mit Brot dazu (Honig, Marmelade, Olive), Orangensaft, Hsoua.",
+            "العربية": "مشروب ساخن من اختيارك، 2 توست بيض وجبنة، سيخ ديك رومي، سجق، سلطة خضراء، 3 كروكيت، 2 فطيرة عسل، سلطة فواكه، سلة خبز مرافقة (عسل، مربى، زيتون)، عصير برتقال، حصوة.",
+            "English": "Hot drink of your choice, 2 egg and cheese tartines, turkey skewers, sausage, green salad, 3 croquettes, 2 honey pancakes, fruit salad, basket of accompanying bread (honey, jam, olive), orange juice, Hsoua.",
+            "中文": "您选择的热饮、2 个鸡蛋和奶酪塔丁、火鸡串、香肠、蔬菜沙拉、3 个炸丸子、2 个蜂蜜煎饼、水果沙拉、一篮配套面包（蜂蜜、果酱、橄榄）、橙汁、Hsoua。",
+            "Español": "Bebida caliente a elegir, 2 tartinas de huevo y queso, brochetas de pavo, salchicha, ensalada verde, 3 croquetas, 2 panqueques de miel, ensalada de frutas, canasta de pan de acompañamiento (miel, mermelada, aceitunas), jugo de naranja, Hsoua."
+        },
+        "is a North African preparation of gunpowder green tea with spearmint leaves and sugar. It is traditional to the Greater Maghreb region.": {
+            "Français": "est une préparation nord-africaine à base de thé vert gunpowder, de feuilles de menthe verte et de sucre. Elle est traditionnelle dans la région du Grand Maghreb.",
+            "Deutsch": "ist eine nordafrikanische Zubereitung aus Gunpowder-Grüntee mit Minzblättern und Zucker. Sie ist in der Region des Großen Maghreb traditionell.",
+            "العربية": "هو عبارة عن شاي أخضر شمال أفريقي مضاف إليه أوراق النعناع والسكر، وهو تقليدي في منطقة المغرب الكبير.",
+            "English": "is a North African preparation of gunpowder green tea with spearmint leaves and sugar. It is traditional to the Greater Maghreb region.",
+            "中文": "是一种北非特有的配方，由珠茶、留兰香叶和糖制成。这种茶是大马格里布地区的传统饮品。",
+            "Español": "Es una preparación del norte de África a base de té verde gunpowder con hojas de menta verde y azúcar. Es tradicional de la región del Gran Magreb."
+        },
+        "Boisson chaude au choix,Omlette Nature, Panier de Pain Accompagnement(Huile d’olive, Olive, Jben )Jus d’orange,Hsoua.": {
+            "Français": "Boisson chaude au choix,Omlette Nature, Panier de Pain Accompagnement(Huile d’olive, Olive, Jben )Jus d’orange,Hsoua.",
+            "Deutsch": "Heißgetränk Ihrer Wahl, einfaches Omelett, Brotkorb als Beilage (Olivenöl, Olive, Jben), Orangensaft, Hsoua.",
+            "العربية": "مشروب ساخن حسب اختيارك، أومليت سادة، سلة خبز مصاحبة (زيت زيتون، زيتون، جبن)، عصير برتقال، حسوة.",
+            "English": "Hot drink of your choice, Plain Omlette, Basket of Bread Accompaniment (Olive oil, Olive, Jben) Orange juice, Hsoua.",
+            "中文": "您选择的热饮、原味煎蛋卷、一篮面包配菜（橄榄油、橄榄、Jben）、橙汁、Hsoua。",
+            "Español": "Bebida caliente de su elección, tortilla simple, canasta de pan de acompañamiento (aceite de oliva, aceitunas, Jben), jugo de naranja, Hsoua."
+        },
+        "is a traditional Moroccan savory dish and spread made from tomatoes, bell peppers, garlic, toasted paprika and olive oil.[1][2] Taktouka is an extremely popular dish and can be found in many restaurant in different parts of Morocco.": {
+            "Français": "est un plat salé marocain traditionnel et une tartinade à base de tomates, de poivrons, d'ail, de paprika grillé et d'huile d'olive.[1][2] La Taktouka est un plat extrêmement populaire et peut être trouvée dans de nombreux restaurants dans différentes régions du Maroc.",
+            "Deutsch": "ist ein traditionelles herzhaftes marokkanisches Gericht und Brotaufstrich aus Tomaten, Paprika, Knoblauch, geröstetem Paprikapulver und Olivenöl.[1][2] Taktouka ist ein äußerst beliebtes Gericht und kann in vielen Restaurants in verschiedenen Teilen Marokkos gefunden werden.",
+            "العربية": "هو طبق مغربي تقليدي لذيذ مصنوع من الطماطم والفلفل الحلو والثوم والفلفل الحلو المحمص وزيت الزيتون.[1][2] التكتوكة هي طبق شهير للغاية ويمكن العثور عليها في العديد من المطاعم في أجزاء مختلفة من المغرب.",
+            "English": "is a traditional Moroccan savory dish and spread made from tomatoes, bell peppers, garlic, toasted paprika and olive oil.[1][2] Taktouka is an extremely popular dish and can be found in many restaurant in different parts of Morocco.",
+            "中文": "是一道传统的摩洛哥风味菜肴，由西红柿、甜椒、大蒜、烤辣椒粉和橄榄油制成。[1][2] Taktouka 是一道非常受欢迎的菜肴，在摩洛哥不同地区的许多餐馆都可以找到。",
+            "Español": "Es un plato tradicional marroquí sabroso y untable elaborado con tomates, pimientos morrones, ajo, pimentón tostado y aceite de oliva.[1][2] Taktouka es un plato extremadamente popular y se puede encontrar en muchos restaurantes en diferentes partes de Marruecos."
+        },
+        "Lait,ananas,lait coco,vanilla,cream liquid": {
+            "Français": "Lait,ananas,lait coco,vanilla,cream liquid",
+            "Deutsch": "Milch, Ananas, Kokosmilch, Vanille, flüssige Sahne",
+            "العربية": "الحليب، الأناناس، حليب جوز الهند، الفانيليا، الكريمة السائلة",
+            "English": "Milk, pineapple, coconut milk, vanilla, liquid cream",
+            "中文": "牛奶、菠萝、椰奶、香草、液体奶油",
+            "Español": "Leche, piña, leche de coco, vainilla, nata líquida."
+        },
+        "(BLEU BERRY + SODA, CITRON, KIWI)": {
+            "Français": "(BLEU BERRY + SODA, CITRON, KIWI)",
+            "Deutsch": "(BLAUE BEERE + SODA, ZITRONE, KIWI)",
+            "العربية": "(التوت الأزرق + الصودا، الليمون، الكيوي)",
+            "English": "(BLUE BERRY + SODA, LEMON, KIWI)",
+            "中文": "(蓝莓 + 苏打水、柠檬、奇异果)",
+            "Español": "(ARÁNDANOS + REFRESCO, LIMÓN, KIWI)"
+        },
+        "Sauce Nutella, Fruits sec": {
+            "Français": "Sauce Nutella, Fruits sec",
+            "Deutsch": "Sauce Nutella, Früchte sec",
+            "العربية": "صلصة نوتيلا، فواكه",
+            "English": "Sauce Nutella, Fruits sec",
+            "中文": "酱汁 Nutella，水果干",
+            "Español": "Salsa Nutella, Frutas sec"
+        },
+        "Size:500cl": {
+            "Français": "Taille:500cl",
+            "Deutsch": "Größe:500cl",
+            "العربية": "الحجم: 500 مل",
+            "English": "Size:500cl",
+            "中文": "尺寸：500cl",
+            "Español": "Tamaño:500cl"
+        },
+        "Citron, menthe, red bull": {
+            "Français": "Citron, menthe, red bull",
+            "Deutsch": "Zitronat, Menthe, Red Bull",
+            "العربية": "الليمون، النعناع، ​​الثور الأحمر",
+            "English": "Citron, menthe, red bull",
+            "中文": "柚子、薄荷、红牛",
+            "Español": "Cidra, menta, red bull"
+        },
+        "Boisson chaude au choix, 2 Tartine avocat jambon et fromage, 2 Œuf au plat, 2 Pancake au miel et fruits sec, 3 Croquette, salade verte, salade fruit, Panier de Pain accompagnement (Miel,Jben,Confiture,Olive),Jus d’orange,Hsoua.": {
+            "Français": "Boisson chaude au choix, 2 Tartine avocat jambon et fromage, 2 Œuf au plat, 2 Pancake au miel et fruits sec, 3 Croquette, salade verte, salade fruit, Panier de Pain accompagnement (Miel,Jben,Confiture,Olive),Jus d’orange,Hsoua.",
+            "Deutsch": "Heißgetränk nach Wahl, 2 Toasts mit Avocado, Schinken und Käse, 2 Spiegeleier, 2 Pfannkuchen mit Honig und Trockenfrüchten, 3 Kroketten, grüner Salat, Obstsalat, Korb mit Brotbeilage (Honig, Jben, Marmelade, Olive), Saft Orange, Hsoua.",
+            "العربية": "مشروب ساخن حسب اختيارك، 2 خبز محمص بالأفوكادو واللحم المقدد والجبن، 2 بيض مقلي، 2 فطيرة بالعسل والفواكه المجففة، 3 كروكيت، سلطة خضراء، سلطة فواكه، سلة خبز مصاحبة (عسل، جبن، مربى، زيتون)، عصير برتقالي، هسوة.",
+            "English": "Hot drink of your choice, 2 avocado, ham and cheese toasts, 2 fried eggs, 2 pancakes with honey and dried fruit, 3 croquettes, green salad, fruit salad, basket of accompanying bread (honey, jben, jam, olive), orange juice, hsoua.",
+            "中文": "您选择的热饮、2 个鳄梨、火腿和奶酪吐司、2 个煎蛋、2 个蜂蜜和干果煎饼、3 个炸丸子、蔬菜沙拉、水果沙拉、一篮面包（蜂蜜、Jben、果酱、橄榄）、果汁橙色，Hsoua。",
+            "Español": "Bebida caliente a elegir, 2 Tostadas de aguacate, jamón y queso, 2 Huevo frito, 2 Tortita con miel y frutos secos, 3 Croquetas, ensalada verde, macedonia de frutas, Canasta de pan de acompañamiento (Miel, Jben, Mermelada, Aceituna), Jugo' naranja, Hsoua."
+        },
+        "sauce fromage, mozzarelle, fromage, jambon, œuf": {
+            "Français": "sauce fromage, mozzarelle, fromage, jambon, œuf",
+            "Deutsch": "Käsesauce, Mozzarella, Käse, Schinken, Ei",
+            "العربية": "صلصة الجبن، موزاريلا، جبن، لحم خنزير، بيض",
+            "English": "cheese sauce, mozzarella, cheese, ham, egg",
+            "中文": "芝士酱，马苏里拉奶酪，奶酪，火腿，鸡蛋",
+            "Español": "salsa de queso, mozzarella, queso, jamón, huevo"
+        },
+        "Cream soda,blue coraca,grenadine,cream": {
+            "Français": "Crème soda, coeur bleu, grenadine, crème",
+            "Deutsch": "Cream Soda, Blue Heart, Grenadine, Sahne",
+            "العربية": "صودا كريمية، قلب أزرق، شراب الرمان، كريمة",
+            "English": "Cream soda, blue heart, grenadine, cream",
+            "中文": "奶油苏打水，蓝心，石榴糖浆，奶油",
+            "Español": "Soda crema, corazón azul, granadina, crema"
+        },
+        "Citron, Menthe, Fruit de la passion, Mangue, Soda": {
+            "Français": "Citron, Menthe, Fruit de la passion, Mangue, Soda",
+            "Deutsch": "Zitrone, Minze, Passionsfrucht, Mango, Soda",
+            "العربية": "الليمون، النعناع، ​​فاكهة العاطفة، المانجو، الصودا",
+            "English": "Lemon, Mint, Passion Fruit, Mango, Soda",
+            "中文": "柠檬、薄荷、百香果、芒果、苏打水",
+            "Español": "Limón, menta, maracuyá, mango, refresco"
+        },
+        "Sauce Nutella": {
+            "Français": "Sauce Nutella",
+            "Deutsch": "Nutella-Sauce",
+            "العربية": "صلصة نوتيلا",
+            "English": "Nutella Sauce",
+            "中文": "花生酱",
+            "Español": "Salsa de Nutella"
+        },
+        "Sauce Nutella, lotus, boule de glace": {
+            "Français": "Sauce Nutella, lotus, boule de glace",
+            "Deutsch": "Nutellasauce, Lotus, Eiskugel",
+            "العربية": "صلصة نوتيلا، لوتس، مغرفة آيس كريم",
+            "English": "Nutella sauce, lotus, ice cream scoop",
+            "中文": "Nutella 酱、莲花、冰淇淋勺",
+            "Español": "Salsa de nutella, flor de loto, bola de helado"
+        },
+        "Kiwi,menthe,citron vert,gingembre,orange": {
+            "Français": "Kiwi,menthe,citron vert,gingembre,orange",
+            "Deutsch": "Kiwi, Minze, Limette, Ingwer, Orange",
+            "العربية": "الكيوي، النعناع، ​​الليمون، الزنجبيل، البرتقال",
+            "English": "Kiwi, mint, lime, ginger, orange",
+            "中文": "猕猴桃、薄荷、酸橙、姜、橙子",
+            "Español": "Kiwi, menta, lima, jengibre, naranja."
+        },
+        "SAUCE FROMAGE, VIANDE HACHÉE, FROMAGE, SALADE,": {
+            "Français": "SAUCE FROMAGE, VIANDE HACHÉE, FROMAGE, SALADE,",
+            "Deutsch": "Käsesauce, Hackfleisch, Käse, Salat,",
+            "العربية": "صلصة الجبن، لحم مفروم، جبن، سلطة،",
+            "English": "CHEESE SAUCE, GROUND MEAT, CHEESE, SALAD,",
+            "中文": "奶酪酱、碎肉、奶酪、沙拉、",
+            "Español": "SALSA DE QUESO, CARNE MOLIDA, QUESO, ENSALADA,"
+        },
+        "sauce fromage,jambon, oignons frits,laitue,tomate": {
+            "Français": "sauce fromage,jambon, oignons frits,laitue,tomate",
+            "Deutsch": "Käsesauce, Schinken, Röstzwiebeln, Salat, Tomaten",
+            "العربية": "صلصة الجبن، لحم الخنزير، البصل المقلي، الخس، الطماطم",
+            "English": "cheese sauce, ham, fried onions, lettuce, tomato",
+            "中文": "奶酪酱，火腿，炸洋葱，生菜，番茄",
+            "Español": "salsa de queso, jamón, cebolla frita, lechuga, tomate"
         }
     }
 }

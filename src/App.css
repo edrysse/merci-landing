@@ -1,8 +1,11 @@
+
+
 .menu-container {
-  padding: 20px;
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
+  justify-content: center; /* This ensures all cards are centered */
+  align-items: center; /* Aligns them properly */
+  gap: 20px; /* Adds spacing */
 }
 
 
@@ -10,37 +13,30 @@
 
 .menu-category {
   position: relative;
-  width: 100%;
+  width: 90%;/* Adjust the width of the dotted line */
+
   margin-bottom: 30px;
 }
 .category-title {
   position: relative;
   text-align: center;
   width: 100%;
-
-  height: 130px; /* يمكنك ضبط الارتفاع حسب رغبتك */
-  max-height: 100vh; /* يمنع تجاوز الارتفاع عن حجم الشاشة */
-  overflow: hidden; /* إخفاء الأجزاء الزائدة في حال تجاوز الحجم */
+  height: 130px;
   margin-bottom: 20px;
-  z-index: 1; /* لضمان بروز النص فوق الصورة */
-  color: white; /* جعل النص أبيض ليظهر فوق الخلفية */
-  background-image: url('../public/myrepas/header-menu-02.jpg'); /* وضع الصورة كخلفية */
-  background-size: cover; /* جعل الصورة تغطي العنصر */
-  background-position: center; /* تركيز الصورة في المنتصف */
-  background-attachment: fixed; /* جعل الصورة ثابتة أثناء التمرير */
-  display: flex; /* استخدام flexbox لتوسيط النص */
-  align-items: center; /* توسيط النص عموديًا */
-  justify-content: center; /* توسيط النص أفقيًا */
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   padding: 20px;
-
   font-family: Poppins;
-  font-weight: 700;
-  font-size: 50px;
-  line-height: 1.2;
+  font-weight: 500;
+  font-size: 35px;
+  color: brown;
   text-transform: uppercase;
-  letter-spacing: 10px;
-  word-spacing: 6px;
+  letter-spacing: 3px;
+  
 }
+
 @media screen and (max-width: 768px) {
   .category-title {
     height: 100px;
@@ -48,6 +44,7 @@
     letter-spacing: 5px;
     padding: 10px;
   }
+
 }
 
 /* إذا كنت بحاجة إلى تأثير إضافي مع النص */
@@ -58,7 +55,6 @@
   left: 0;
   right: 0;
   bottom: 0;
-  background: rgba(0, 0, 0, 0.5); /* طبقة شفافة فوق الصورة */
   z-index: -1; /* التأكد من أن الصورة تكون خلف النص */
 }
 
@@ -88,54 +84,143 @@
   transform: translateY(10px); /* حرك الصورة بمقدار معين عند السكروول */
 }
 
-.menu-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr); /* ثلاث كروت في كل صف */
-  gap: 20px;
+.menu-image {
+  max-width: 100%;  /* تأكد من أن الصورة لا تتجاوز عرض الحاوية */
+  height: auto;     /* اجعل ارتفاع الصورة يتناسب مع العرض */
 }
 
-@media screen and (max-width: 768px) {
-  .menu-grid {
-    grid-template-columns: 1fr; /* كارد واحد على الشاشات الصغيرة */
+.section-slide {
+  overflow: hidden; /* إخفاء أي محتوى خشبي قد يتجاوز الحاويات */
+}
+@media screen and (max-width: 1068px) {
+
+  .buttons {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* صفين في السطر الأول */
+    gap: 4px !important;
+    margin-left: 18px  !important;
+    margin-right: 18px  !important;
+    margin-bottom: 200px;
+  }
+  
+  /* صف 2 أزرار */
+  .buttons button:nth-child(1),
+  .buttons button:nth-child(2) {
+    grid-column: span 1; /* الزرين الأولين يأخذان عمودين */
   }
 
+  /* صف 3 أزرار */
+  .buttons button:nth-child(3),
+  .buttons button:nth-child(4),
+  .buttons button:nth-child(5) {
+    grid-column: span 1; /* الأزرار في الصف الثاني تأخذ عمود واحد */
+  }
+
+  /* صف زر واحد */
+  .buttons button:nth-child(6) {
+    grid-column: span 2; /* الزر الأخير في الصف الثالث يأخذ عمودين */
+  }
+}
+
+
+
+
+.buttons{
+gap:15px
+}
+
+
+@media screen and (max-width: 768px) {
   
+  .menu-item-name {
+    font-size: 4vw; /* هذا يعني أن حجم الخط سيتغير بناءً على عرض النافذة */
+  }
+  
+  .menu-item-price {
+    color: #d61c22;
+    font-size: 3vw; /* نفس الشيء مع السعر */
+  }
+ 
   /* استهداف فقط خلفية h2 لعنوان الكاتيجوري */
 .categorie-title {
-  background-color: #f0f0f0; /* يمكنك تغيير اللون حسب الحاجة */
   padding: 10px;
   border-radius: 5px;
   text-align: center;
   font-size: 24px;
+  font-weight: bold;
+  margin-top: 10px;
 }
 
+}
+@media screen and (max-width: 768px) {
+  .menu-card {
+    grid-template-columns: repeat(1, 1fr); /* عند استخدام الهاتف: عنصر واحد فقط في كل صف */
+    }
+}
+.category-title::after {
+  content: '';
+  position: absolute;
+  bottom: 0px;
+  left: 0;
+  width:60%;
+  height: 5px;
+}
+/* إضافة البوردر السفلي المكون من نقاط رمادية */
+
+.category-title::after {
+  content: '';
+  position: absolute;
+  bottom: 10px; /* Adjust this value to control the distance from the text */
+  left: 50%;
+  transform: translateX(-50%); /* This will center the border */
+  width: 80%;/* Adjust the width of the dotted line */
+  height: 5px; /* The height of the dotted line */
+  background: url('data:image/svg+xml,%3Csvg width="5" height="5" xmlns="http://www.w3.org/2000/svg"%3E%3Ccircle cx="2.5" cy="2.5" r="2.5" fill="gray" /%3E%3C/svg%3E') repeat-x;
+  background-size: 5px 5px;
+}
+.menu-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* 3 عناصر في كل صف */
+  gap: 40px;
+  justify-content: center; /* يضمن التمركز */
+  max-width: 900px; /* يمنع تمدد الشبكة */
+  margin: 0 auto; /* يجعلها في المنتصف */
 }
 
 .menu-card {
   display: flex;
-  align-items: flex-start;
-  background: #fff;
-  border: none; /* إزالة الحدود */
-  border-radius: 10px 10px 10px 10px; /* جعل الزوايا العلوية متساوية */
-  overflow: hidden;
-  transition: transform 0.3s, box-shadow 0.3s;
-}
-
-.menu-card-content {
-  padding: 15px;
-  width: 100%; /* تمدد المحتوى بشكل كامل */
+  flex-direction: column;
+  align-items: center;  /* لضمان أن النصوص والصورة في نفس المركز */
+  justify-content: space-between; /* توزيع العناصر بشكل متساوي */
+  max-width: 300px; /* الحد الأقصى للعرض */
+  height: auto; /* تحديد ارتفاع ثابت لكل بطاقة */
+  
 }
 
 .menu-image {
-  width: 80%; /* الصورة على اليسار */
-  height: 100px;
-  object-fit: cover;
-  transition: transform 0.3s, box-shadow 0.3s;
-  margin-right: 15px; /* مسافة بين الصورة والمحتوى */
-  border-radius: 10px 10px 0 0; /* تعديل نصف الدائرة للصورة */
-  overflow: hidden; /* لمنع الصورة من الخروج من الإطار */
+ /* ارتفاع ثابت لجميع الصور */
+  object-fit: cover; /* تأكد من أن الصورة تملأ المساحة دون التشوه */
+  border-radius: 8px;
+  width: 100%;  /* تأكد من أن الصورة لا تتجاوز عرض الحاوية */
+  max-width: 250px;  /* الحد الأقصى للعرض */
+  height: 160px;  /* الحفاظ على تناسب الأبعاد */
 }
 
+.menu-card-content {
+  text-align: center;
+  padding: 10px;
+  flex-grow: 1; /* يسمح بتوسيع النصوص داخل البطاقة بشكل متساو */
+}
+
+.menu-item-name, .menu-item-price {
+  font-size: 1.2rem; /* حجم النصوص الذي يتناسب مع حجم الصورة */
+  margin: 5px 0;
+}
+.menu-item-price{
+  color: #d61c22 !important;
+
+}
+ 
 .menu-image:hover {
   transform: scale(1.03); /* تكبير الصورة داخل الحاوية */
   transform-origin: center; /* تحديد مركز التكبير */
@@ -202,8 +287,8 @@
   max-height: 90%;
 }
 .image-modal-content img {
-  max-width: 90vw; /* أقصى عرض للصورة هو 90% من عرض نافذة العرض */
-  max-height: 90vh; /* أقصى ارتفاع للصورة هو 90% من ارتفاع نافذة العرض */
+  max-width: 120vw; /* أقصى عرض للصورة هو 90% من عرض نافذة العرض */
+  max-height: 120vh; /* أقصى ارتفاع للصورة هو 90% من ارتفاع نافذة العرض */
   width: auto; /* اجعل العرض يتكيف مع النسبة */
   height: auto; /* اجعل الارتفاع يتكيف مع النسبة */
   border-radius: 10px;
@@ -264,38 +349,56 @@
 
 .wrap-content-slide1 {
   text-align: center;
-  color: white;
-  z-index: 10;
+  color: rgb(255, 0, 0);
+  z-index: 20;
   position: absolute;
-  top: 50%;
+  top: 55%;
   left: 50%;
   transform: translate(-50%, -50%);
   opacity: 0;
   animation: fadeIn 1s ease forwards;
+  
 }
 
 .caption1-slide1 {
-  font-size: 60px;
-  animation: slideInFromTop 1s ease-out;
-  font-family: Poppins;
+  
 
+  font-family: Poppins;
+    font-weight: 700;
+    font-size: 45px;
+    font-size: 50px;
+    line-height: 1.2;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+
+
+    font-family: inherit;
+    font-weight: 400;
+    line-height: 1.1;
+    color: inherit;
+    box-sizing: border-box;
+
+    display: block;
+    margin-block-start: 0.3em;
+    margin-block-end:0.3em ;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    unicode-bidi: isolate;
 }
 
 .caption2-slide1 {
   font-size: 100px;
   animation: slideInFromBottom 1s ease-out;
   font-family: Poppins;
+  margin-top: 0;
+  padding-top: 0;
 
 }
 
-.mercilogo {
-  width: 400px;
-  margin-top: 20px;
-  animation: logoSlideUp 1s ease-out;
-}
+
 
 .wrap-btn-slide1 {
-  margin-top: 30px;
   animation: rotateBtn 1s ease-out;
   font-family: Poppins;
 
@@ -416,12 +519,274 @@
     opacity: 1;
   }
 }
+
+
+.navbar-brand img.mylogo {
+  width: 100px; /* ضبط الحجم حسب الحاجة */
+  height: 150px;
+  max-height: 60px; /* التأكد من عدم تجاوز ارتفاع الشريط */
+}
+
+.navbar-nav {
+  display: flex;
+  align-items: center; /* محاذاة العناصر عموديًا */
+}
+
+.navbar-nav .nav-item {
+  margin-left: 1px; /* تأكد من عدم وجود مسافة كبيرة بين الأزرار */
+  font-family: Montserrat;
+  font-size: 14px ;
+
+}
+
+.container-fluid {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 15px;
+  margin-left: 5px; /* تأكد من عدم وجود مسافة كبيرة بين الأزرار */
+
+}
+
+
+
 .myh2{
-  font-weight: 700;
-  font-size: 50px;
-  line-height: 1.2;
+  margin-top: 0px;
+
+  margin-bottom: 10px;
+  font-size:20px;
+  font-family: "Courgette";
+  line-height: 2.2;
+  color: #ffffff;
+  text-transform: none;
+  text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.3);
+
+}
+
+.mercilogo {
+  padding-top: 0px;
+  margin-top: 0px;
+  width: 400px;
+  animation: logoSlideUp 1s ease-out;
+}
+
+.navbar-nav {
+  display: flex;
+  justify-content: center;
+-ms-flex-align: center;
+  width: 100%;
+}
+
+.navbar-nav .nav-item .nav-link {
+
   text-transform: uppercase;
-  letter-spacing: 10px;
-  word-spacing: 6px;
+  padding-left: 15px;
+  padding-right: 15px;
+  color: black; /* اللون الافتراضي */
+  transition: color 0.3s ease; /* تأثير انتقال اللون */
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+  color: #d61c22; /* اللون عند التمرير (أحمر) */
+}
+
+.navbar-nav .nav-item .nav-link.active {
+  color: #d61c22; /* اللون عند التفعيل (أحمر) */
+}
+
+
+
+
+
+
+
+.mylogo{
+
+  vertical-align: middle;
+  
+}
+
+
+.btn-back-to-top {
+  display: flex; /* يجب أن يكون flex بدلاً من none */
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  bottom: 40px;
+  right: 40px;
+  background-color: black;
+  opacity: 0.7;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+  border-radius: 50%;
+  transition: all 0.4s;
+  color: white;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.btn-back-to-top:hover {
+  opacity: 1;
+}
+
+
+
+.btn-back-to-top:hover {
+  opacity: 1;
+}
+
+
+.btn-back-to-top:hover {
+  opacity: 1;
+}
+
+.symbol-btn-back-to-top {
+  color: white;
+  font-size: 20px;
+}
+
+
+
+.navbar-toggler-icon {
+  filter: invert(1); /* عكس الألوان لتحويل الأسود إلى الأبيض */
+}
+.menu-container {
+  padding-top: 60px; /* أو قيمة مماثلة تتناسب مع ارتفاع النافبار */
+}
+.menu-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* افتراضي: 3 منتجات في كل صف */
+  gap: 20px;
+}
+
+@media screen and (max-width: 768px) {
+  .menu-grid {
+    grid-template-columns: repeat(2, 1fr); /* عند استخدام الهاتف: منتجان في كل صف */
+  }
+}
+
+/* تخصيص عرض الكروت الخاصة بـ "Petits Déjeuners" و "Brunch" */
+.menu-grid.pdj-brunch {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* عرض كروت بشكل عرضي */
+  gap: 30px;
+  width: 100%;
+  padding: 20px;
+}
+@media screen and (max-width: 768px) {
+  .menu-grid.pdj-brunch {
+    grid-template-columns: repeat(1, 1fr); /* عند استخدام الهاتف: منتجان في كل صف */
+  }
+}
+
+.menu-card.pdj-brunch {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  background: #fff;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  height: auto;
+  padding: 20px;
+  font-family: Montserrat;
+  text-transform: none;
+}
+
+/* تخصيص الصورة داخل الكارد */
+.menu-card.pdj-brunch .menu-image {
+  width: 100%; /* الصورة تأخذ 40% من عرض الكارد */
+  height: auto;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+/* تخصيص محتوى النص داخل الكارد */
+.menu-card.pdj-brunch .menu-card-content {
+  width: 55%; /* المحتوى يأخذ 55% من عرض الكارد */
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+}
+
+.menu-card.pdj-brunch .menu-item-name {
+  font-size: 1.2em;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.menu-card.pdj-brunch .menu-item-description {
+  font-size: 1em;
+  color: #666;
+  margin-bottom: 10px;
+}
+
+.menu-card.pdj-brunch .menu-item-price {
+  font-size: 1.2em;
+  font-weight: bold;
+  margin-top: 10px;
+  color: #d61c22;
+
+}
+
+.pdj-brunch {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: flex-start;
+}
+
+.pdj-brunch .menu-card {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 30px; /* المسافة بين الصورة والنص */
+  width: 100% !important;
+  max-width: 900px !important; /* تعيين الحد الأقصى لعرض البطاقة */
+  margin: 10px auto;
+  padding: 20px !important;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+}
+
+.pdj-brunch .menu-image {
+  width: 300px; /* زيادة عرض الصورة */
+  height: 250px; /* تحديد ارتفاع الصورة لتتناسب مع العرض */
+  object-fit: cover; /* لتغطية المساحة المخصصة للصورة */
+  border-radius: 8px; /* إضافة حواف دائرية للصورة */
+}
+
+.pdj-brunch .menu-card-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%; /* جعل محتوى البطاقة يشغل كامل المساحة المتاحة */
+}
+
+.pdj-brunch .menu-item-name {
+  font-size: 1.4rem; /* زيادة حجم الخط */
+  font-weight: bold;
+  margin: 0 0 10px 0;
+}
+
+.pdj-brunch .menu-item-description {
+  font-size: 1.1rem;
+  margin: 0 0 10px 0;
+  color: #555; /* تغيير لون الوصف */
+}
+
+.pdj-brunch .menu-item-price {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #dc3545; /* لون الثمن */
 }
 
